@@ -8,11 +8,21 @@ description: >-
 
 ## Minoltapedia - Minolta Websites, Links, and Resources
 
-This covers all the best resources you could need to read up, learn, troubleshoot, or repair Minolta gear.
+This covers all the best resources you could need to read up, learn, troubleshoot, or repair Minolta gear. Many of these are already on the subreddit's menu links. This page allows for more links to be included, as well as a short description of what they actually are. This isn't exhaustive, but I'm striving to include at least a link to each site that allows anyone to dive further or pick up information at a glance. This is regularly updated and would always appreciate extra resource links if you know any! Just send a modmail and credit will be given where it's due for finding it.
+
+I can also recommend checking out these other Minoltopedia Resources;
+
+## [Frequently Asked Questions on Minoltopedia](https://www.reddit.com/r/MinoltaGang/about/wiki/index/minoltopedia/ffaq/)
+
+## [Guides on Minoltopedia](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/guides)
 
 ***
 
 ### Wiki-/Encyclopedias
+
+***
+
+***
 
 These resources are community and user-generated from a variety of sources, some of which cite other resources listed further below. As with all Wiki contents, without checking the citations it's difficult to tell if everything is 100% accurate. Good for a quick read, but remember to take it with a grain of salt unless it's backed up by a reliable source!
 
@@ -21,12 +31,6 @@ These resources are community and user-generated from a variety of sources, some
 [**CameraWiki - Minolta**](http://camera-wiki.org/wiki/Minolta)
 
 CameraWiki has an immense wealth of information on Minolta, covering everything from history, logo changes, most camera models, and finishes off with a huge source-list and bibliography if you want to verify further. It also cites many Minolta websites and Communities listed on this page!
-
-***
-
-[**Camerapedia - Minolta**](https://camerapedia.fandom.com/wiki/Minolta)
-
-Camerapedia's wiki entry is an almost carbon-copy of CameraWiki's, but is linked in case there are small differences, or if the original at CameraWiki goes down.
 
 ***
 
@@ -44,7 +48,9 @@ Whilst the main entry for Minolta on Wikipedia is fairly lacklustre, the A-Mount
 
 ***
 
-#### Social Medias
+***
+
+#### Social Media
 
 ***
 
@@ -90,9 +96,19 @@ A **Mi**nolta and **So**ny camera German-speaking forum that has been active for
 
 [**Alpha DxD \[FR\]**](https://www.alphadxd.fr/index.php)
 
-Another Minolta and Sony A-Mount Community Forum, but French-speaking! Monthly photo contests are there to take part in, and is still active as of 2023. Again, the forum can be navigated for information using Google Translate, or _Bon Chance_ with your French!
+Another Minolta and Sony A-Mount Community Forum, but French-speaking! Monthly photo contests are there to take part in, and are still active. Again, the forum can be navigated for information using Google Translate, or _Bon Chance_ with your French!
 
 ### Independent/Dedicated Minolta Websites
+
+***
+
+***
+
+[**Tabikaseki - Memories of Minolta \[JP\]**](https://tabikaseki.jp/main.html)
+
+This rather clunky website is an absolute goldmine - from 1967 to 2005, Juichi Shinya worked at Minolta in Camera Design and Automation. His ['Memories' Series](https://tabikaseki.jp/minoltajidai01.html) covers his time working at Minolta/Konica Minolta and the developments he oversaw from his nearly 40-year career. This includes the [50 Year Anniversary\[JP\]](https://tabikaseki.jp/minoltajidai02.html) and [Konica and Minolta's entire Camera lineup](https://tabikaseki.jp/minoltajidai03KM.html).
+
+He also gives insight into some models he designed and tested, including the [Leitz-Minolta CL](https://tabikaseki.jp/leitzminolta.html), the [Minolta XD](https://tabikaseki.jp/minoltaXD.html), the [Minolta X-700](https://tabikaseki.jp/minoltaX700.html), and the [Minolta Alpha 7000](https://tabikaseki.jp/minoltaarufa7000.html). This is about as close as it gets to see what Minolta was like from the inside.
 
 ***
 
@@ -100,9 +116,11 @@ Another Minolta and Sony A-Mount Community Forum, but French-speaking! Monthly p
 
 [**John McGloin - MINMAN (Archived Version)**](https://web.archive.org/web/20210305034757/http://www.subclub.org/minman/)
 
-Formally and formerly proclaimed “The best website dedicated to anything Minolta Manual Focus”, the owner abruptly shut down the site in 2016. This has been archived and rehosted with much of the resources still available online. It's not pretty, some links are broken, and sometimes one or the other link isn't online (check back regularly or use the Archived Version), but 'MINMAN' is still a go-to place for anything Manual Focus.
+Formally and formerly proclaimed “The best website dedicated to anything Minolta Manual Focus”, the owner abruptly shut down the site in 2016. This has been archived and rehosted with much of the resources still available online. It's not pretty, some links are broken, and the website isn't properly configured, but 'MINMAN' is still the go-to place for information on anything Manual Focus.
 
 It covers a lot of adjacent topics, including [Minolta Macro, Flash, and Metering Gear](https://web.archive.org/web/20191229214240/http://www.subclub.org/minman/other.htm), good [Books on Minolta](http://www.subclub.org/minman/books.htm), a [History of Minolta](https://web.archive.org/web/20200128062651/http://www.subclub.org/minman/history.htm), and even info on the [Minolta X-300 copies made by Seagull](https://web.archive.org/web/20200129075426/http://www.subclub.org/minchin/index.htm)!
+
+Additionally he also has the most comprehensive [Minolta SLR Comparison Table](https://web.archive.org/web/20090628074458/http://www.subclub.org/minman/slrtable.php) available. Occasionally the link to it doesn't work, so here's the archived version!
 
 ***
 
@@ -112,27 +130,53 @@ Another hobbyist website covering the majority of Minolta manual focus gear. Thi
 
 ***
 
+[**CJ's Classic Cameras - Minolta**](http://www.cjs-classic-cameras.co.uk/minolta/minolta.html)
+
+CJ has amassed a large personal collection of cameras, and Minolta had taken his fancy. In particular he takes interest in the non-SLR models, accompanying each are professional level product-shots of the cameras. Great for diving into the older or less common models from Minolta, and getting a look at them.
+
+***
+
+[**Mhohner - Minolta/Konica Minolta A-Mount Film Bodies**](https://www.mhohner.de/sony-minolta/bodies.php#film)
+
+Michael Hohner's website is a compendium of all available A-mount cameras, lenses, flashes and accessories in a simple table format, and is often updated with new information. It covers all A-mount cameras from the first in 1985 (Minolta Alpha/Dynax/Maxxum 7000) to the last in 2016 (Sony Alpha/A-99 II). It has _a lot_ of technical information, so much that you have to go to the bottom of the page to scroll across to see the rest (or zoom out the page).
+
+It also has [the best FAQ](https://www.mhohner.de/sony-minolta/faq.php)'s around regarding A-mount lens compatibility with which bodies, among other things.
+
+***
+
 [**Butkus/Orphan Cameras - Minolta Manuals**](https://www.butkus.org/chinon/minolta.htm)
 
 The single largest resource of old camera manuals freely available on the web, he’s got a lot on various Minoltas if you ever buy one without a manual. I’d recommend looking at the other manuals and resources he’s got too, on the main camera page. He always appreciates a donation to keep the site running if you're the charitable type. If not, you can also purchase prints of the manuals without watermarks to support the site.
 
 ***
 
-[**EarthSunFilm - Minolta Collecting for Newbies**](https://earthsunfilm.com/collecting-minolta-for-newbies/)
+[**EarthSunFilm - Vintage Minolta Love Project**](https://earthsunfilm.com/the-vintage-minolta-love-project/)
 
-Worth a read and a laugh if you're a seasoned collector or just a recent hobby shooter, it's a recently created general resource site that can be quickly skimmed for the important details of Minolta SLR's. It explains the stages of GAS, and where to repair Minoltas in the US! This is also the most recently created and maintained website, with regular new articles about Minolta (and gardening, too!).
+Since 2020, Earth Sun Film has been writing blogs intending to review every major SLR from Minolta, from 1958 to 2004. They have also been writing other great articles such as ['Buying guide for Newbies'](https://earthsunfilm.com/collecting-minolta-for-newbies/), their own [Resource List](https://earthsunfilm.com/minolta-cameras-lenses-and-gear-books-guides-references-magazines-and-links/) with books to look out for, and most notable the [US Minolta Repair Directory](https://earthsunfilm.com/repair-services/).
+
+***
+
+[**Minolta Users Group - MUG**](http://www.jwhubbers.nl/mug/mug.html)
+
+A former collective of Minolta Users back when Minolta still made cameras, it looks like the last update to the webpage occurred in 2004. It was hosted in several countries across the world, however only the European address remains online. Contributed to by various authors, it covers various bodies from the Manual Focus and AF eras, as well as some specifications on lenses, Flashes, and the Creative Expansion Cards.
 
 ***
 
 [**Minolta Flashback**](https://www.minoltaflashback.com/)
 
-A barebones resource, what Flashback lacks in overall Minolta content, it makes up with the detail it with it's handpicked articles. Acting as a 'top-up' to other resources, the coverage of [Minolta Anglefinders](https://www.minoltaflashback.com/angle-finders.html) is unmatched, as is it's pages on the [Himatic 7s/7sII](https://www.minoltaflashback.com/7s-7sII.html) and [Minolta RF Mirror Lenses](https://www.minoltaflashback.com/rf-lens.html).It also has the [Minolta Camera Collectors](https://www.facebook.com/groups/799986320054800) group on Facebook associated with it, though it's used mostly to buy and sell Minolta equipment and not as a community.
+A barebones resource, what Flashback lacks in overall Minolta content, it makes up with the detail it with it's handpicked articles. Acting as a 'top-up' to other resources, the coverage of [Minolta Anglefinders](https://www.minoltaflashback.com/angle-finders.html) is unmatched, as is it's pages on the [Himatic 7s/7sII](https://www.minoltaflashback.com/7s-7sII.html) and [Minolta RF Mirror Lenses](https://www.minoltaflashback.com/rf-lens.html). It also has the [Minolta Camera Collectors](https://www.facebook.com/groups/799986320054800) group on Facebook associated with it, though it's used mostly to buy and sell Minolta equipment and not as a community.
 
 ***
 
 [**Konica Minolta Support - Frequently Asked Questions**](https://www.konicaminoltasupport.com/index.php?id=4568)
 
 Despite announcing their departure from the photographic industry in 2006 and their complete absence by 2008, Konica Minolta still maintain a support page. Chock full of support FAQ's, it focuses mostly on their AF lineup. There are some gems regarding their older manual focus systems however, you just need to find them...
+
+***
+
+[**Artaphot \[CH-DE\]**](http://artaphot.ch/minolta-sr)
+
+Artaphot dives into Minolta SLR's (Manual and Auto Focus), as well as lenses, the only catch is that it is in German (possibly Swiss German). In any case, it's an invaluable resource much like the other foreign-language sites linked here, and is often referenced in English-speaking Minolta communities!
 
 ***
 
@@ -148,11 +192,13 @@ This is Minman's hypothetical Italian cousin. Whilst the website is primarily in
 
 ***
 
-[**Kenko-Tokina - Konica Minolta Info Website \[JP\]**](https://www.kenko-tokina.co.jp/konicaminolta/)
+[**Kenko-Tokina - Konica Minolta Info Archive \[JP\]**](https://web.archive.org/web/20221217112959/https://www.kenko-tokina.co.jp/konicaminolta/)
 
-While they [recently announced](https://www.dpreview.com/news/0598931708/17-years-after-launching-camera-konica-minolta-kills-off-its-customer-service-repair-center) that they no longer provide support for Konica Minolta cameras, they do still have a wonderful resources on [Konica and Minolta History](https://web.archive.org/web/20211219022932/https://www.kenko-tokina.co.jp/konicaminolta/history/), [DiMAGE Driver software](https://web.archive.org/web/20221217113100/https://www.kenko-tokina.co.jp/konicaminolta/cgi-bin/manual.cgi?category=FS), and some [Manuals (in Japanese)](https://web.archive.org/web/20210123003559/https://www.kenko-tokina.co.jp/konicaminolta/support/manual/fc.html). Most of the webpages can be translated for some interesting facts! Unfortunately as the pages have been removed from the web, the archive is all that's left, and you may have to do some digging to find certain pages.
+While they [recently announced](https://www.dpreview.com/news/0598931708/17-years-after-launching-camera-konica-minolta-kills-off-its-customer-service-repair-center) that they no longer provide support for Konica Minolta cameras, they do still have a wonderful resources on [Konica and Minolta History](https://web.archive.org/web/20211219022932/https://www.kenko-tokina.co.jp/konicaminolta/history/), [DiMAGE Driver software](https://web.archive.org/web/20221217113100/https://www.kenko-tokina.co.jp/konicaminolta/cgi-bin/manual.cgi?category=FS), and some [Manuals (in Japanese)](https://web.archive.org/web/20210123003559/https://www.kenko-tokina.co.jp/konicaminolta/support/manual/fc.html). Most of the webpages can be translated for some interesting facts! Unfortunately as the pages have been removed from the web since 2023, the archive is all that's left and you may have to do some digging to find certain pages.
 
 ### Cameras
+
+***
 
 ***
 
@@ -188,9 +234,11 @@ LeoFoo on the Malaysia Internet Resources (MIR) site hosts a rather large resour
 
 ***
 
-[**Mhohner - Minolta/Konica Minolta A-Mount Film Bodies**](https://www.mhohner.de/sony-minolta/bodies.php#film)
+[**Mike Eckman - Minolta Camera Reviews**](https://mikeeckman.com/review/index/minolta/)
 
-Michael Hohner's website is a massive table listing all available A-mount cameras, and is often updated with new information. It covers all A-mount cameras from the first in 1985 (Minolta Alpha/Dynax/Maxxum 7000) to the last in 2016 (Sony Alpha/A-99 II). It has _a lot_ of technical information, so much that you have to go to the bottom of the page to scroll across to see the rest (or zoom out the page).
+Mike Eckman reviews cameras. He reviews a LOT of cameras. So much so that he has amassed a great pile of review work on Minolta cameras, SLR, Rangefinder, APS, manual focus and Auto Focus.
+
+As a bonus, he also holds regular podcasts. Last year the topic ended up being Minolta, featuring [an absolutely terrible Disco cover of popular music, released by Minolta in the 70's](https://mikeeckman.com/2022/11/episode-36-minolta-disco/). I wish I was joking but you're just going to have to listen to it.
 
 #### Specific Minolta Camera Pages
 
@@ -202,9 +250,15 @@ There's not many links regarding Minolta's Rangefinder offerings here, but that'
 
 ***
 
+[**Volker Fabian - SR-2 \[DE\]**](http://www.volkerfabian.de/SR-2.htm)
+
+Volker covers all the SR cameras in series, starting with the SR-2, [SR-1](http://www.volkerfabian.de/zzz/zzzSR/SR-1.htm), the lesser known [SR-3](http://www.volkerfabian.de/zzz/zzzSR/SR-3.htm), [SR-7](http://www.volkerfabian.de/zzz/zzzSR/SR-7.htm), the [SR-1s](http://www.volkerfabian.de/zzz/zzzSR/SR-1s.htm), and the motorised [SR-M](http://www.volkerfabian.de/zzz/zzzSR/SR-M.htm). You might be surprised to learn that the SR had a long established career, from 1959 to 1977!
+
+***
+
 [**Flynn Graphics - SR-1 including Manuals**](https://flynngraphics.ca/sr-1/)
 
-Flynn has a short and sweet entry on one his cameras from his past. What makes this page interesting is the high resolution scans of the Manuals of the SR-2, an early SR-1 (without the clip-on meter), and a late model SR-1 (with the clip-on meter). Not even the might Butkus has a manual for this!
+Flynn has a short and sweet entry on one his cameras from his past. What makes this page interesting is the high resolution scans of the Manuals of the SR-2, an early SR-1 (without the clip-on meter), and a late model SR-1 (with the clip-on meter). Not even the mighty Butkus has a manual for this!
 
 ***
 
@@ -252,6 +306,12 @@ From an unknown author, they explain the features and summarise the lens selecti
 
 ***
 
+[**Paulschow - Using an RD175 in 2023**](https://paulschow.com/posts/rd-175/)
+
+Paul covers in his project blog how to use the State-of-the-Art Digital (_Note: in 1995_) Minolta RD175 in 2023. Hope you've got PCMIA and SCSI adaptors!
+
+***
+
 [**Vitor Fonseca - Alpha/Maxxum/Dynax Creative Expansion Cards**](https://tech.vitorfonseca.com/articles/minolta-creative-expansion-cards/)
 
 _This was found by 84hachi on the MinoltaGang Discord_. With the release of the 2nd-Generation Minolta Autofocus Cameras (7000i,1988), they included a slot to insert a "Creative Expansion Card". These optional accessories added creative Program features that produced certain stylistic outputs, included extra Custom Functions, or stored settings for shots taken.
@@ -261,6 +321,8 @@ These had limited success, and by the final AF generation (Alpha/Dynax/Maxxum 3/
 Despite being in quite a few i, xi, and si-series Autofocus Minoltas, there isn't a lot of documentation on them. This page however covers them all, including Product Numbers and [Camera Model Compatibility](https://tech.vitorfonseca.com/articles/minolta-creative-expansion-cards/#creative-expansion-cards-list)!
 
 ### Lenses
+
+***
 
 ***
 
@@ -276,9 +338,9 @@ Same as the Minolta Manual Lens List, but also covers Nikon, Canon, Pentax, and 
 
 ***
 
-[**LensQAWorks**](https://lens.ws/)
+[**Minolta SU (formerly LensQAWorks)**](https://minolta.su/)
 
-Infamous for being absolutely saturated with anime girls, it’s also the best website to compare Minolta lenses against each other brands and the variations, in an objective and technical manner...if you can get past the weebery. Sorry!
+Infamous for being absolutely saturated with anime girls, it’s also the best website to compare Minolta lenses against each other brands and the variations, in an objective and technical manner... if you can get past the weebery. Sorry!
 
 ***
 
@@ -292,7 +354,15 @@ Phillip Reeve’s page reviews every adaptor available in the market up to 2018 
 
 _This was first found by u/SaltySolomon on the MinoltaGang Discord_. Optic Explorer is a 2-D optical lens simulator and designer. Some very helpful people have loaded up quite a few Minolta MD and RF-Rokkor lenses onto the database to simulate their performance! Filter through the 'Konica Minolta' folder and look at the lens designs available!
 
+***
+
+[**Peter Blaise - Minolta Manual Focus Lenses Interoperability/FAQ's**](https://web.archive.org/web/20091027033240/http://www.geocities.com/peterblaise/minoltamf/#x-700)
+
+From a long archived page, Peter goes into detail about just _how_ each series of Minolta's SR MC/MD lenses are compatible with each Minolta SR-mount body. It also goes through the nomenclature of the older MC Rokkor naming system.
+
 ### Scanners and Scanning
+
+***
 
 ***
 
@@ -306,7 +376,7 @@ The official support page for Minolta Scanners, including drivers, manuals, and 
 
 [Archived Version](https://web.archive.org/web/20230315165324/http://roy.vanegas.org/thoughts/how-i-installed-the-konica-minolta-dimage-scan-dual-iv-in-windows-10/)
 
-If you can't/won't pay for Vuescan and the scanner drivers from the links above won't play nice on Windows 10/11, you can DIY some code sourced by Roy Vanegas to get it to work. This refers to the Dual Scan IV, but the .inf file refers to all Minolta scanner models. I have personally troubleshot driver issues with my Dual Scan II using this article, and it works!
+If you can't/won't pay for Vuescan and the scanner drivers from the links above won't play nice on Windows 8/10/11, you can DIY some code sourced by Roy Vanegas to get it to work. This refers to the Dual Scan IV, but the .inf file refers to all Minolta scanner models. I have personally troubleshot driver issues with my Dual Scan II for Windows 10 & 11 using this article, and it works!
 
 ***
 
@@ -314,29 +384,19 @@ If you can't/won't pay for Vuescan and the scanner drivers from the links above 
 
 As the earliest Dual Scanner to be USB compatible, it's also the cheapest available to start scanning 35mm yourself. Might be worth having a review and rundown of the software from the time!
 
+***
+
+[**Digital Junk (via Lomography) - Under the Hood of a Dimage Dual Scan IV**](https://www.lomography.com/magazine/231155-dusting-under-the-hood-of-a-konica-minolta-dimage-scan-dual-iv-film-scanner)
+
+This article covers each step to get into a Dimage Dual Scan IV for cleaning dust from the mirror and lens inside. The coolest part about this is that the Dual Scan II and III share the same general design, so this can be used as a guide for them too! I have personally used this guide to work on my DSD II, and the part placement is an exact match!
+
+***
+
 ### Repairs
 
 ***
 
-[**Konica Minolta Support**](https://ca.konicaminolta.com/)
-
-They may have ceased camera operations, but the site still exists ~~and they link to their repair service providers~~.
-
-_November 2022 Update - On 15th November 2022, the former US and JPN Minolta service center, Kenko-Tokina,_ [_announced it was no longer servicing any Konica Minolta cameras_](https://web.archive.org/web/20221126111202/https://www.kenko-tokina.co.jp/information/KonicaMinoltaRepairServiceFinish.html)_,_ [_17 years after the last camera was released_](https://web.archive.org/web/20230611211612/https://www.dpreview.com/news/0598931708/17-years-after-launching-camera-konica-minolta-kills-off-its-customer-service-repair-center)_._
-
-_July 2023 Update - On 21st July 2023, the former EU Minolta service center repair center, Pego-Technik,_ [_announced their closure at the end of the month_](https://web.archive.org/web/20230722185049/https://www.pego-technik.de/aktuelles.html)_._
-
-With the last former official repair centers closed, this entry will be removed in later Wiki updates.
-
 ***
-
-**PEGO-Technik's EU Minolta Repair Reccomendations**
-
-Following the [announcement of their closure](https://web.archive.org/web/20230722185049/https://www.pego-technik.de/aktuelles.html) in mid 2023, the former Minolta EU service center repair company reccomended two German camera Repair professionals for Minota servicing and repairs.
-
-They are [**Kameraservice Szarmach**](https://www.kamera-fachwerkstatt.de/) and [**Via Da Vinci Dialog GmbH**](https://kamerareparatur.com/reparatur-von-minolta-kameras/), both located near Hamburg, Germany.
-
-_The author makes no judgements on the quality or reputation of these repair shops, but considers the reccomendation of a former Minolta service center to be important to include them here_
 
 ***
 
@@ -348,7 +408,7 @@ This independent site covers an ever-updating directory for Minolta camera repai
 
 **Karl Bryan - Autocord Repairs**
 
-Karl doesn't have a webpage or anything, but he comes [highly reccomended](https://www.google.com/search?q=karl+bryan+autocord). He's located in the US, and is only contactable by email (karl.kathy@frontier.com) as far as I'm aware. He's not found on the EarthSunFilm Directory, so it's included here.
+Karl doesn't have a webpage or anything, but he comes [highly recommended](https://www.google.com/search?q=karl+bryan+autocord). He's located in the US, and is only contactable by email (karl.kathy@frontier.com) as far as I'm aware. He's not found on the EarthSunFilm Directory, so it's included here.
 
 ***
 
@@ -364,9 +424,9 @@ Learn Camera Repair is an excellent resource for learning to repair old cameras,
 
 ***
 
-**High5Cameras - MC/MD Lens Repair Articles**
+[**High5Cameras - Minolta Repair Articles**](https://high5cameras.com/category/all-articles/repair/)
 
-This small website primarily sells camera equipment, but I've linked it here for it's more important resource: an [MC Lens Repair Guide](https://high5cameras.com/all-articles/repair/minolta-mc-rokkor-58mm-f1-4-lens-repair-guide/) and an [MD Lens Repair Guide](https://high5cameras.com/all-articles/repair/minolta-mc-rokkor-58mm-f1-7-lens-repair-guide/), written by Mel. These cover step-by-step with pictures on each for how to disassemble both a standard lens from both series. This isn't exhaustive, but the steps shown here can be applied to virtually all 'normal' focal length primes of Minolta on either side of the MC/MD divide.
+This small website primarily sells camera equipment, but I've linked it here for it's more important resource: Repair Articles written by Mel. This includes [an XG-1 Restoration](https://high5cameras.com/all-articles/repair/the-revenant-minolta-xg-1-restoration/), [X-700 capacitor replacements](https://high5cameras.com/all-articles/repair/minolta-x-700-capacitor-replacement/), and some common Minolta lens disassemblies.
 
 ***
 
@@ -376,8 +436,12 @@ This small website primarily sells camera equipment, but I've linked it here for
 
 ***
 
-[**u/DeadlySwan's Dissasembly of a Alpha/Dynax/Maxxum 9xi**](https://www.reddit.com/r/minolta/comments/udg6fe/how\_to\_disassemble\_a\_maxxumdynax\_9xi/)
+[**SyberSite's Konica Minolta 5D/7D Manuals and 2186 Adjustment Program**](https://web.archive.org/web/20230408072556/http://thesybersite.com/downloads.htm)
 
-As the title suggests, u/DeadlySwan has written up an excellent short piece on how to disassemble the panels off one of the AF Minolta bodies, with step-by-step images to accompany it. This is particularly important as there is no other guide online, so it's also been [archived](https://web.archive.org/web/0/https://www.reddit.com/r/minolta/comments/udg6fe/how\_to\_disassemble\_a\_maxxumdynax\_9xi/) in case it is ever lost.
+Back in 2007 following Konica Minolta's exit from the imaging industry, they rather rudely demanded Dyxum close all links to the Service Manuals and Documentation they had built for the the then-new DiMAGE SLR's.
+
+In response, they were archived and hosted externally on the SyberSite. In an unrelated turn of events, [a Russian Minolta fan](https://www.dyxum.com/dforum/important-7d-5d-adjustment-program-2186\_topic10405\_page22.html) found a closing down sale of service parts for Konica Minolta service equipment, including a company-internal software package used to service and diagnose Konica Minolta 5D/7D Cameras. They were nice enough to share it with everyone, however [their site went down](https://web.archive.org/web/20071226091504/http://dynax.newmail.ru:80/) soon afterwards and the software was lost, but not before the SyberSite also kept a copy.
+
+Fortunately the archived SyberSite of the program and service manual was found by u/mimisnapshots! The software is considered abandonware given that no one services Konica Minolta cameras anymore, and it is not hosted directly on this website. _Just bear in mind the program as intended for professionals and can risk bricking your camera if misused. It is highly advised to read through all the accompanying links and discussions to understand more regarding the program._
 
 ***
