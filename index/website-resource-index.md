@@ -12,9 +12,9 @@ This covers all the best resources you could need to read up, learn, troubleshoo
 
 I can also recommend checking out these other Minoltopedia Resources;
 
-## [Frequently Asked Questions on Minoltopedia](https://www.reddit.com/r/MinoltaGang/about/wiki/index/minoltopedia/ffaq/)
+## [Frequently Asked Questions on Minoltopedia](fairly-frequently-asked-questions.md)
 
-## [Guides on Minoltopedia](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/guides)
+## [Guides on Minoltopedia](guides.md)
 
 ***
 
