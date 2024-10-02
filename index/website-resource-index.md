@@ -70,13 +70,13 @@ The original and main subreddit for all things Minolta, it had been neglected fo
 
 [**MinoltaGang (Reddit)**](https://www.reddit.com/r/MinoltaGang)
 
-You are already here! I made this subreddit when r/minolta was abandoned, to get a feel for Reddit and testing out features before releasing them on the main Minolta subreddit. This hosts the Minoltopedia!
+This subreddit was made when r/minolta was abandoned, to get a feel for Reddit and testing out features before releasing them on the main Minolta subreddit. This hosts the original Minoltapedia, but is in line with the one available on Gitbook (here).
 
 ***
 
 [**MinoltaGang (Discord)**](https://discord.com/invite/VjYhCNV8Bw)
 
-If r/minolta is the sister sub of r/MinoltaGang, the Discord is the brother community. Join for Minolta content as well as more relaxed conversations about dinner, your pets, etc. Courtesy of u/TomahawkEVO who got into contact with me, Minolta enthusiasts can talk even more to their heart's content about their gear, talk cars or , or ask an impromptu question if you're not in a directly-related thread topic posting mood on reddit.
+If r/minolta is the sister sub of r/MinoltaGang, the Discord is the brother community. Join for Minolta content as well as more relaxed conversations about dinner, your pets, etc. Courtesy of u/TomahawkEVO who got into contact, Minolta enthusiasts can talk even more to their heart's content about their gear, talk cars or food, or ask an impromptu question if you're not in a directly-related thread topic posting mood on reddit.
 
 #### Forums
 
