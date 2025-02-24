@@ -4,11 +4,12 @@ This page holds a few Guides to cover specific features not normally possible wi
 
 ### **Disclaimer** 
 
-*Some of these guides deal with DIY modifications, and software/firmware updates of cameras. **These can damage equipment permanently without following instructions and being careful**! 
+*Some of these guides deal with DIY modifications, and software/firmware updates of cameras. **These can damage equipment permanently without being careful and following instructions**! 
 
 *This information is offered on the assumption that you already have some experience fixing cameras and are confident in your abilities to not cause further damage to your gear. As such, the authors of the links and the Minoltapedia are not responsible for any damages, injury, or expenses in repairs caused by following advice linked below unprepared.*
 
 As a side note, I strongly recommend reading and taking the Learn Camera repairs' [Camera Repair Course](https://learncamerarepair.com/productlist.php?category=1) offered **before attempting any repairs** if you are not familiar with fixing cameras or lenses.
+
 ## Camera Guides
 
 ***
@@ -53,7 +54,7 @@ This information was originally discovered and provided by Matthias Paul on the 
 
 After this, your Alpha/Dynax/Maxxum 9 should now have the extra Custom Functions '**CUSt 22**' and '**CUSt 23**'. If not, then it didn't work. You can keep attempting the process until it works*, and if it did work, you can repeat these steps to remove the extra functions and features.
 
-**NOTE*: The Custom Function upgrade can not be done on early-model Alpha/Dynax/Maxxum 9's because they used older circuit boards that didn't have these features built-in. It won't negatively affect the camera by attempting these steps, the upgrade just won't ever work. Later serial number models and all Alpha/Dynax/Maxxum 9's that received the SSM/SAM upgrade can get this upgrade, however.
+**Note**: The Custom Function upgrade can not be done on early-model Alpha/Dynax/Maxxum 9's because they used older circuit boards that didn't have these features built-in. It won't negatively affect the camera by attempting these steps, the upgrade just won't ever work. Later serial number models and all Alpha/Dynax/Maxxum 9's that received the SSM/SAM upgrade can get this upgrade, however.
 
 ***
 ### Internal (Reddit Guides)
@@ -68,7 +69,7 @@ u/neotil1 replaces a single plastic gear on with a brass one. Sounds easy until 
 
 This has been followed up by **an experimental method** proposed below by u/ChrisPVille;
 
-#### [u/ChrisPVille Alpha/Dynax/Maxum 7 15 Minute Aperture Drive Repair](https://new.reddit.com/r/minolta/comments/1fa3fh5/a7_aperture_drive_repair_in_15_minutes_not_15/?utm_source=share&utm_medium=web2x&context=3)
+#### [u/ChrisPVille Alpha/Dynax/Maxum 7, 15 Minute Aperture Drive Repair](https://www.reddit.com/r/minolta/comments/1fa3fh5/a7_aperture_drive_repair_in_15_minutes_not_15/)
 
 u/ChristPVille has kindly provided an updated, **albeit experimental method** to repair and replace the Aperture Drive Assembly Gear on the Maxxum 7 without having to teardown the entire camera. The complete writeup and Guide is on [Dyxum](https://www.dyxum.com/dforum/dynax-alpha-7-aperture-repair-easy-mode_topic144604.html). It does require some 'destructive maintenance' that *can risk breaking the camera internals* in the process, but it's far easier to tackle the common failure point of this camera with this method. There is a curing process for the glue used that takes 24 hours, but the delicate replacement operation can be complete in as little as 15-20 minutes.
 

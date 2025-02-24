@@ -2,18 +2,17 @@
 ![](%%WikiContributor%%) 
 # Minoltapedia
 
+## [Website Resource Index](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia)
 
-# [Website Resource Index](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia)
+This covers all the best online resources you could need to learn more about your Minolta equipment. Regularly updated and maintained.
 
-This covers all the best resources you could need to read up, learn, troubleshoot, or for repairing Minolta gear. These will be constantly updated as more are found or created.
+## [Fairly Frequently Asked Questions](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq)
 
-# [Fairly Frequently Asked Questions](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq)
+There are many common questions, so here's answers to some! Search the Table of Contents on the top of the page to see if your question is already covered, or learn something new!
 
-I see many questions asked fairly frequently in various analog communities involving Minolta, so there's now a separate "FFAQ's" section. Search the Table of Contents on the top of the page to see if you have a long-standing question answered, or learn something new!
+## [Tricks & Guides](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/guides)
 
-# [Guides to Minolta](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/guides)
-
-This includes guides summarised from some of the pages found on the website resource index. All guides' resources are cited directly so you can follow up with details from the original sites and authors.
+Longer format guides are here, summarised from some of the pages found on the [Website Resource Index](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia). All guides' resources are cited directly so you can follow up with details from the original authors.
 
 ***
 
@@ -23,12 +22,6 @@ If **you** think something could be added, send a Modmail to r/minolta or r/Mino
 
 ![](%%WikiContributor%%) 
 
+*If you are viewing this from [Github](https://github.com/EldonSamuelson/Minoltapedia), you can also make a Pull Request or Issue Ticket and it will be updated from there.*
+
 ***
-
-**Minoltopedia Updates:**
-
-Website Resource Index Last Updated: 29th September 2024
-
-Guides Last Updated: 29th September 2024
-
-FFAQ's Last Updated: 29th September 2024

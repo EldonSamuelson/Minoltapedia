@@ -48,22 +48,39 @@ The imagery for the banner came from scans of Minolta material from this communi
 
 ***
 
-**[Minolta (Reddit)](https://www.reddit.com/r/minolta)**
-
-The original and main Subreddit for all things Minolta, it had been neglected for several years. A Reddit request in September 2021 allowed it to be updated similar to r/MinoltaGang. 
-
-***
-
 **[MinoltaGang (Reddit)](https://www.reddit.com/r/MinoltaGang)**
 
 You are already here! I made this Subreddit when r/minolta was abandoned, to get a feel for Reddit and testing out features before releasing them on the main Minolta Subreddit. This hosts the Minoltapedia!
 
-***
+**[Minolta (Reddit)](https://www.reddit.com/r/minolta)**
 
+The original and main Subreddit for all things Minolta, it had been neglected for several years. A Reddit request in September 2021 allowed it to be updated similar to r/MinoltaGang. 
+
+
+***
 **[MinoltaGang (Discord)](https://discord.com/invite/VjYhCNV8Bw)**
 
 If r/minolta is the sister sub of r/MinoltaGang, the Discord is the brother community. Join for Minolta content as well as more relaxed conversations about dinner, your pets, etc. Courtesy of u/TomahawkEVO who got into contact with me, Minolta enthusiasts can talk even more to their heart's content about their gear, talk cars or , or ask an impromptu question if you're not in a directly-related thread topic posting mood on Reddit. 
 
+***
+
+**[MinoltaGang BlueSky Feed](https://bsky.app/profile/atlonim.bsky.social/feed/aaacvhxrmf2e6)** 
+
+With Twitter/X hemorrhaging hashtag dominance to other platforms, a feed that covers Minolta's BlueSky community might be worth mentioning.
+
+***
+
+**Federated Minoltagang - #minolta**
+
+In the same vein, here are a few #minolta tags on various federated social media platforms
+- [Mastodon](https://mastodon.social/tags/minolta)
+- [Pixelfed](https://pixelfed.social/i/web/hashtag/minolta)
+
+***
+
+**[Minolta (Lemmy)](https://lemmy.world/c/minolta)**
+
+Maybe you would prefer an alternative? There is a Lemmy-equivalent community already set up and waiting to operate. This would become the backup should anything happen to Reddit.
 
 ### Forums
 ***
@@ -151,12 +168,6 @@ A bare-bones resource, what Flashback lacks in overall Minolta content, it makes
 
 ***
 
-**[Konica Minolta Support - Frequently Asked Questions](https://www.konicaminoltasupport.com/index.php?id=4568)**
-
-Despite announcing  their departure from the photographic industry in 2006 and their complete absence by 2008, Konica Minolta still maintain a support page. Chock full of support FAQ's, it focuses mostly on their AF lineup. There are some gems regarding their older manual focus systems however, you just need to find them...
-
-***
-
 **[Artaphot [CH-DE]](http://artaphot.ch/minolta-sr)**
 
 Artaphot dives into Minolta SLR's (Manual and Auto Focus), as well as lenses, the only catch is that it is in German (possibly Swiss German). In any case, it's an invaluable resource much like the other foreign-language sites linked here, and is often referenced in English-speaking Minolta communities!
@@ -175,10 +186,22 @@ This is Minman's hypothetical Italian cousin. Whilst the website is primarily in
 
 ***
 
+
+**[Konica Minolta Support - Frequently Asked Questions](https://www.konicaminoltasupport.com/index.php?id=4568)**
+
+Despite announcing  their departure from the photographic industry in 2006 and their complete absence by 2008, Konica Minolta still maintain a support page. Chock full of support FAQ's, it focuses mostly on their AF lineup. There are some gems regarding their older manual focus systems however, you just need to find them...
+
+***
+
 **[Kenko-Tokina - Konica Minolta Info Archive [JP]](https://web.archive.org/web/20221217112959/https://www.kenko-tokina.co.jp/konicaminolta/)**
 
 While they [recently announced](https://www.dpreview.com/news/0598931708/17-years-after-launching-camera-konica-minolta-kills-off-its-customer-service-repair-center) that they no longer provide support for Konica Minolta cameras, they do still have a wonderful resources on [Konica and Minolta History](https://web.archive.org/web/20211219022932/https://www.kenko-tokina.co.jp/konicaminolta/history/), [DiMAGE Driver software](https://web.archive.org/web/20221217113100/https://www.kenko-tokina.co.jp/konicaminolta/cgi-bin/manual.cgi?category=FS), and some [Manuals (in Japanese)](https://web.archive.org/web/20210123003559/https://www.kenko-tokina.co.jp/konicaminolta/support/manual/fc.html). Most of the webpages can be translated for some interesting facts! Unfortunately as the pages have been removed from the web since 2023, the archive is all that's left and you may have to do some digging to find certain pages.
 
+*** 
+
+**[Minolta '96](https://web.archive.org/web/19961111054948/http://www.minolta.com/index.html)**
+
+If you want to pretend that Minolta never left the photo-business, you could always surf on the wayback machine to 1996.
 
 ## Cameras
 ***
@@ -303,6 +326,7 @@ Despite being in quite a few i, xi, and si-series Autofocus Minoltas, there isn'
 ## Lenses
 ***
 ***
+
 **[Dennis Lohmann - Minolta Manual Lens List](http://minolta.eazypix.de/lenses/index.html)**
 
 Covers every manual-focus SLR lens made by Minolta, as well as version types, release dates, technical data, etc. There's even a separate page for [Lens Shades](http://minolta.eazypix.de/shades/lensshades.html) and some examples of [Master Lenses](http://minolta.eazypix.de/master/index.html) for calibration.
@@ -341,6 +365,7 @@ From a long archived page, Peter goes into detail about just *how* each series o
 ## Scanners and Scanning
 ***
 ***
+
 **[Konica Minolta - DiMAGE Scanner Series](https://www.konicaminoltasupport.com/index.php?id=3088&L=558)**
 
 The official support page for Minolta Scanners, including drivers, manuals, and specifications. Yes, you can STILL get Windows XP/Mac 1.0 drivers for your 1995 SCSI scanner!
@@ -371,11 +396,15 @@ This article covers each step to get into a Dimage Dual Scan IV for cleaning dus
 ***
 ***
 
-***
-
 **[EarthSunFilm - US Repair Directory](https://earthsunfilm.com/repair-services/)**
 
 This independent site covers an ever-updating directory for Minolta camera repair services across the US, as well as what models each repair site can service. Disclaimer: It doesn't vouch for them, it only offers ones people have mentioned. Personally, I would avoid Garry's Camera Repairs.
+
+***
+
+[Minolta EU Community Repair Directory](https://docs.google.com/spreadsheets/d/1YaArPoLB56c2hmn5rtndkfITCP0wSsI4SJzsWbiAMeA/edit?gid=0#gid=0)
+
+Getting repairs from across the water can be stressful and very expensive, so the r/minolta mod has created a GoogleSheet that anyone can contribute towards in finding and reviewing Minolta Servicers on the European Continent. There are a few entries already that cover most models, and France or Slovenia are closer than Illinois or California!
 
 ***
 
