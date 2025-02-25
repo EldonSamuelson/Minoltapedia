@@ -4,7 +4,7 @@ This page holds a lot of FAQ's to answer some common questions about Minolta cam
 
 ### **Disclaimer** 
 
-*Some of these FFAQ's deal with DIY repairs and modifications. **These can damage equipment permanently if you aren't careful**!*  
+*Some of these FFAQ's deal with DIY repairs and modifications. **These can damage equipment permanently if you aren't careful**!*
 
 *Repair advice offered on the assumption that you already have some experience fixing cameras and are confident in your abilities to not cause further damage to your gear. As such, the authors of the links and the Minoltapedia are not responsible for any damages, injury, or expenses in repairs caused by following advice linked below unprepared.*
 
@@ -66,7 +66,7 @@ These changes were a result of balancing features available on SRT's by adding n
 
 Stages 5, 6, and 7 came year-after-year for SRT 200's which were a mix of cost cutting and updates as the XG & XD series were released.
 
-- *Stage 6*:  The first cost-cutting measure was introduced which changed the metal aperture ring to plastic, and the locking Depth of Field preview mechanism become a 'push and hold' version. 
+- *Stage 6*:The first cost-cutting measure was introduced which changed the metal aperture ring to plastic, and the locking Depth of Field preview mechanism become a 'push and hold' version. 
 - *Stage 7*: Viewfinder focus aids were changed from a horizontal prism to split-prism which made it easier to use. The SRT 202's never saw this upgrade or any future changes, as they were discontinued. There was no reason to upgrade 202's further and put them against the new XD models, and they couldn't cheapen the model further because the SRT 201 and 200 existed below it.
 - *Stage 8*: Another cost cutting measure as by then the remaining SRT's were obsolete as the fully electronic cameras took over. They removed the 2nd metering cell in the camera, which made part of the 'CLC' system on all previous SRT's. This also meant CLC name wasn't on the prisms.
 
@@ -92,24 +92,43 @@ The table is ordered by how easy it is to complete the option - the first you co
 
 If you want to read more about each option or get into the discharge curves and details of the Mercury Battery Problem, you can read resources by [Bruce Varner](https://www.brucevarner.com/PX625Replacement.html), [Dick Sullivan](http://www.rokkorfiles.com/mercury.htm), ['Frugal' Mike](http://www.willegal.net/photo/srt/srt-mercury.htm), [KniPPsen](https://knippsen.blogspot.com/2016/02/px625-und-alternativen.html), [Mel](https://high5cameras.com/all-articles/spares-and-upgrades/whose-got-the-power-a-guide-to-classic-camera-batteries/), and [PhotoEthnography](http://www.photoethnography.com/ClassicCameras/batteries.html). [F. de Gruijter (PDF)](http://rick_oleson.tripod.com/batt_adapt_us.pdf) is probably the most detailed and authoritative on the issue, and the technical differences between battery types.
 
-|              ***Type***              |                     ***Option***                      |                     ***Ease***                      |           ***Voltage &  Battery Drain***           |                   ***Metering Consistency***                   |                            ***Cost***                            |                                                                                               ***Source(s)***                                                                                               |
-| :---------------------------------: | :-------------------------------------------------: | :-----------------------------------------------: | :---------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|             **No Meter**              |                      Sunny 16                       |          Easy, follow simple guidelines           |                  0V, No drain                   |                        User Dependant                        |                               Free!                               |                                                     [Sunny 16](https://lenslurker.com/sunny-16/#how), [Exposure-Mat](https://expomat.tripod.com/)                                                      |
-| **Manual Exposure Compensation (MEC)**  |                 Alkaline LR44 & MEC                 |    Easy to attempt, Very Difficult to succeed     |               1.5V, Gradual drain               |                      Very inconsistent                       |                        The 'Control' price                        |                                                                               There are no guides, it's the worst idea!                                                                                |
-|        **Alkaline Battery Substitution**         |                Alkaline 625A Battery                |          Very Easy, just insert battery           |               1.5V, Gradual drain               |                         Inconsistent                         |                         Similarly priced                          |                                 ['Frugal' Mike](http://www.willegal.net/photo/srt/srt-mercury.htm), [Bruce Varner](https://www.brucevarner.com/PX625Replacement.html)                                  |
-|        **Zinc-Air Battery Substitution**         |              Zinc-Air MRB625 WeinCell               |          Very easy, just insert battery           |           1.35V, Stable for ~6 months           |                       Very Consistent                        |                  More expensive, shorter lasting                  |                                                                               [WeinCell (US)](http://www.weincell.com/)                                                                                |
-|       **DIY Zinc Air Battery Adaptation**        |           Rubber O-Ring +  ZA675 Battery            |       Easy, wrap battery in O-ring & insert       |           1.4V, Stable for ~6 months            |              Consistent, negligible inaccuracy               |              Marginally cheaper + 1-time O-ring cost              |                               [Rick Oleson](http://rick_oleson.tripod.com/index-111.html), [Bruce Varner, 06/17/2015](https://www.brucevarner.com/PX625Replacement.html)                               |
-|       **Simple Zinc Air Battery Adaptor**        |             PaulBG/PBC Ring + ZA675/APX44 Battery             |  Very easy, insert battery into ring and insert   |           1.38~1.32V, Stable for ~3 months            |              Very Consistent |        Initially expensive, recouped by ZA675 Battery use use         |                                     [PaulBG](http://www.paulbg.com/Nikon_F_meter_batteries.htm), [Polar Bear Cameras](https://polarbearcamera.com/products/px625-adapter-pro-apx44), [Bruce Varner](https://www.brucevarner.com/PX625Replacement.html)                                     |
-|              ***Type***               |                     ***Option***                      |                     **Ease**                      |           ***Voltage & Battery Drain***           |                   ***Metering Consistency***                   |                            ***Cost***                            |                                                                                               ***Source(s)***                                                                                               |
-|      **Advanced Battery Adaptor**       | Criscam MR9 Adaptor + Silver Oxide 386/SR44 Battery | Very Easy, insert battery into adapter and insert |                  1.35V, Stable                  |                       Very consistent                        |        Very expensive, recouped with 386/SR44 battery use         |            [Criscam (US)](https://shop.criscam.com/products/mr-9-mercury-battery-adapter?variant=998592509), [SmallBatCo (UK)](https://www.smallbattery.company.org.uk/sbc_mr9_adapter.htm)            |
-|    **DIY Potentiometer Adjustment**     |         Adjusting SRT meter + SR44 Battery          |    Somewhat Easy, requires careful adjustment     | 1.55V, *adjusted for SRT compatibility*, Stable | Very consistent, if adjusted correctly and ONLY using SR44's |                               Cheap                               |                                                    [Dick Sullivan Archive](https://web.archive.org/web/20050824094134/http://home.pcisys.net:80/~rlsnpjs/minolta/recal.html), [Mr Analog Dan](https://youtu.be/DYaKaJs8nOI), [Film Camera Vlog](https://youtu.be/_hHUaOI6Gv0)                                                     |
-|       **DIY Schottky Adaptation**       |   External Schottky Diode Adaptor + SR44 Battery    |  Difficult to make without electrical experience  |                  1.35V, Stable                  |                       Very consistent                        |                 Cheap, but material upfront costs                 |                                             [John Marriage's Schottky Adaptor](https://www.refracted.net/reflected/mercurial-batteries-on-a-tight-budget)                                              |
-|       **DIY Schottky Conversion**       |  Integrated Schottky Diode + O-Ring + SR44 Battery  |      Difficult without electrical experience      |                  1.35V, Stable                  |                       Very consistent                        |                 Cheap, with 1-time material costs                 | [Dick Sullivan, via Rokkorfiles](http://www.rokkorfiles.com/conversion.htm), [Mel High5Cameras](https://high5cameras.com/all-articles/spares-and-upgrades/whose-got-the-power-a-guide-to-classic-camera-batteries/) |
-|      **Custom Circuit Conversion**      |            Stable625 Chip + SR44 Battery            |    Complicated, Professional install expected     |                  1.35V, Stable                  |                       Very consistent                        |   *?* Cheaper than adaptation, one off costs from installation    |                                 [Stable625](https://stable625.medium.com/a-stable-1-35v-voltage-regulator-for-vintage-cameras-and-light-meters-stable625-8a045d538fcb)                                 |
-|      **V80H Rechargeable Battery**      |            V80H Battery + Custom USB-C Charger            |    Very Easy     |                  1.25~1.3V, Stable                  |                       Reasonably consistent                        |   Most expensive one-time cost, recouped by recharged reuse     |                                 [Ausgeknipst (DE)](https://ausgeknipst.de/en/products/snapped-replacement-battery-charger-for-px625-mr9-varta-v80h-battery-1-35v)                                 |
-| **Russian Imported Mercury Batteries** |        Mercury PX625ru Batteries        |       Very easy, **but heavily restricted**       |                1.4~1.35V, Stable                |       Consistent but with QC issues (variable V range)       | Expensive, **possibly illegal and/or sanctioned in your country** |   ['Frugal' Mike](http://www.willegal.net/photo/srt/srt-mercury.htm), [Wikipedia](https://en.wikipedia.org/wiki/Mercury_battery#Product_ban), [PX625RU (RU)](https://www.px625.ru/about-px625.html)\*   |
+|***Type***|***Option***|***Ease***|***Voltage & Battery Drain***|***Metering Consistency***|***Cost***|***Source(s)***|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|**No Meter**|Sunny 16|Easy, follow simple guidelines|0V, No drain|User Dependant|Free!|[Sunny 16](https://lenslurker.com/sunny-16/#how), [Exposure-Mat](https://expomat.tripod.com/)|
+|**Alkaline Manual Exposure Compensation (MEC)**|LR44/A76 Battery & MEC|Easy to attempt, Very Difficult to succeed|1.5V, Gradual drain|Inconsistent|The 'Control' price|There are no guides, it's the worst idea!|
+|**Silver Oxide Manual Exposure Compensation (MEC)**|SR44/S76 Battery & MEC|Easy to attempt|1.5V, Stable|Consistent, 1 Stop Off|Marginally more expensive|There are no guides, but it's better than LR44's|
+|**Alkaline Battery Substitution**|Alkaline 625A Battery|Very Easy, just insert battery|1.5V, Gradual drain|Inconsistent|Similarly priced| ['Frugal' Mike](http://www.willegal.net/photo/srt/srt-mercury.htm), [Bruce Varner](https://www.brucevarner.com/PX625Replacement.html)|
+|**Zinc-Air Battery Substitution** |Zinc-Air MRB625 WeinCell|Very easy, just insert battery|1.35V, Stable for ~6 months|Very Consistent|More expensive, shorter lasting|[WeinCell (US)](http://www.weincell.com/)|
+|**DIY Zinc Air Battery Adaptation**|Rubber O-Ring + ZA675 Battery|Easy, wrap battery in O-ring & insert|1.4V, Stable for ~6 months|Consistent, negligible inaccuracy|Marginally cheaper + 1-time O-ring cost|[Rick Oleson](http://rick_oleson.tripod.com/index-111.html), [Bruce Varner, 06/17/2015](https://www.brucevarner.com/PX625Replacement.html)|
+|**Simple Zinc Air Battery Adaptor**| PaulBG/PBC Ring + ZA675/APX44 Battery|Very easy, insert battery into ring and insert|1.38~1.32V, Stable for ~3 months|Very Consistent |Initially expensive, recouped by ZA675 Battery use use | [PaulBG](http://www.paulbg.com/Nikon_F_meter_batteries.htm), [Polar Bear Cameras](https://polarbearcamera.com/products/px625-adapter-pro-apx44), [Bruce Varner](https://www.brucevarner.com/PX625Replacement.html) |
+|***Type***| ***Option***| **Ease**|***Voltage & Battery Drain***|***Metering Consistency***|***Cost***|***Source(s)***|
+|**Advanced Battery Adaptor**| Criscam MR9 Adaptor + Silver Oxide 386/SR43, or thicker SR44 Battery | Very Easy, insert battery into adaptor and insert |1.35V, Stable|Very consistent|Very expensive, recouped with battery use |[Criscam (US)](https://shop.criscam.com/products/mr-9-mercury-battery-adapter?variant=998592509), [SmallBatCo (UK)](https://www.smallbattery.company.org.uk/sbc_mr9_adapter.htm)|
+|**DIY Potentiometer Adjustment** | Adjusting SRT meter + SR44 Battery|Somewhat Easy, requires careful adjustment | 1.55V, *adjusted for SRT compatibility*, Stable | Very consistent, if adjusted correctly and ONLY using SR44's |Cheap|[Dick Sullivan Archive](https://web.archive.org/web/20050824094134/http://home.pcisys.net:80/~rlsnpjs/minolta/recal.html), [Mr Analog Dan](https://youtu.be/DYaKaJs8nOI), [Film Camera Vlog](https://youtu.be/_hHUaOI6Gv0) |
+|**DIY Schottky Adaptation**|External Schottky Diode Adaptor + SR44 Battery|Difficult to make without electrical experience|1.35V, Stable|Very consistent| Cheap, but material upfront costs | [John Marriage's Schottky Adaptor](https://www.refracted.net/reflected/mercurial-batteries-on-a-tight-budget)|
+|**DIY Schottky Conversion**|Integrated Schottky Diode + O-Ring + SR44 Battery|Difficult without electrical experience|1.35V, Stable|Very consistent| Cheap, with 1-time material costs | [Dick Sullivan, via Rokkorfiles](http://www.rokkorfiles.com/conversion.htm), [Mel High5Cameras](https://high5cameras.com/all-articles/spares-and-upgrades/whose-got-the-power-a-guide-to-classic-camera-batteries/)|
+|**Custom Circuit Conversion**|Stable625 Chip + SR44 Battery|Complicated, Professional install expected |1.35V, Stable|Very consistent|*?* Cheaper than adaptation, one off costs from installation| [Stable625](https://stable625.medium.com/a-stable-1-35v-voltage-regulator-for-vintage-cameras-and-light-meters-stable625-8a045d538fcb) |
+|**V80H Rechargeable Battery**|V80H Battery + Custom USB-C Charger|Very Easy |1.25~1.3V, Stable|Reasonably consistent|Most expensive one-time cost, recouped by recharged reuse | [Ausgeknipst (DE)](https://ausgeknipst.de/en/products/snapped-replacement-battery-charger-for-px625-mr9-varta-v80h-battery-1-35v) |
+| **Russian Imported Mercury Batteries** |Mercury PX625ru Batteries|Very easy, **but heavily restricted**|1.4~1.35V, Stable|Consistent but with QC issues (variable V range)| Expensive, **possibly illegal and/or sanctioned in your country** |['Frugal' Mike](http://www.willegal.net/photo/srt/srt-mercury.htm), [Wikipedia](https://en.wikipedia.org/wiki/Mercury_battery#Product_ban), [PX625RU (RU)](https://www.px625.ru/about-px625.html)\*|
 
 \* The final link is added as a source of reference and information, you cannot purchase from this link. ***I STRONGLY ADVISE AGAINST breaking your local laws or personal morals to buy a Mercury Battery from a Russian Military supplier***. Apart from the ongoing Russo-Ukrainian War, there's also environmental & health concerns for disposal of and exposure to Mercury, and the legal consequences for purchasing and/or importing a banned product containing toxic material.
+
+***
+
+### **What Batteries Do I Need for my Minolta?**
+
+Courtesy of the [1981 Minolta Dealer's Repair Guide](https://www.pacificrimcamera.com/rl/00061/00061.pdf), you can figure out what batteries you need for your camera.
+
+ *[Post-1985](https://www.mhohner.de/sony-minolta/bodies.php?ov=1#film)/Non-SLR Camera Battery List in Progress*
+
+|***Camera/Series***|***Battery***|***Alternatives***|
+| :-: | :-: | :-: |
+| SRT's | 1x Mercury PX625 Button Cell | *See FFAQ Section Above* |
+| XK/XM/X1 | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
+| XE | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
+| XD | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
+| XG | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
+| X-3/5/700 | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
+| X-600 | 2x AAA Batteries | *None* | 
 
 ***
 
@@ -126,17 +145,17 @@ Solid Tantalum Electrolytic Capacitors (STEC's) are more reliable and longer las
 The models to be aware of for capacitor problems are;
 
 - ***Some* later model XG's** - It's more likely that the XG models with the [new Minolta logo](https://static.wikia.nocookie.net/camerapedia/images/8/82/MinoltaXG1.jpg/revision/latest?cb=20110202213840) *are more likely* to have Aluminium capacitors, but it is not a guaranteed method of testing. You will only be certain by taking off the base plate of the camera, or if the camera is exhibiting classic signs of capacitoritis. 
-     - Older XG Minoltas with the [lower-case logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCKFN2fdFJ8AES8TtRHstrQHD4Wc_NsBDQw6hL-8kqVmka8ucDTasGzYdJJEoELXbKEvepHImoo4ieHzhBOjFqgfPG84wBoKWcma-DlmNs9YDZ5KMQn1suT2pI55as6WgqN5ybrPkfqtO/s1600/P1029730.jpg) are less likely to encounter issues, but also don't have the same circuitry. If you experience capacitoritis problems, the capacitor is [located similar to the X-700's](https://www.678vintagecameras.ca/uploads/6/6/3/7/66371031/img-20190205-102214_1_orig.jpg). 
-  
+ - Older XG Minoltas with the [lower-case logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCKFN2fdFJ8AES8TtRHstrQHD4Wc_NsBDQw6hL-8kqVmka8ucDTasGzYdJJEoELXbKEvepHImoo4ieHzhBOjFqgfPG84wBoKWcma-DlmNs9YDZ5KMQn1suT2pI55as6WgqN5ybrPkfqtO/s1600/P1029730.jpg) are less likely to encounter issues, but also don't have the same circuitry. If you experience capacitoritis problems, the capacitor is [located similar to the X-700's](https://www.678vintagecameras.ca/uploads/6/6/3/7/66371031/img-20190205-102214_1_orig.jpg). 
+
 - ***Most* X-300/370's** - They were the budget alternative to the X-700, so they weren't expected to be used for long (40 years). Also by the time they released in 1984, by then Minolta had used most of their remaining Tantalum capacitors. Again though, only checking underneath the baseplate will confirm this.
-  
+
 - ***Most* X-700's** In the first few runs of the camera, The X-700 was given the expensive more reliable STEC/Tantalum capacitors because it was the 'Pro' camera which was expected to be reliable. That means *very early* X-700's below serial no. 20xxxxxx got reliable capacitors and don't have issues. However, X-700's were made until the 1990's, so all later serial numbers got the less reliable ALEC's. To make it worse, X-700's have *x2* capacitors that can fail, and [in difficult places to reach](https://i.imgur.com/jLbdaZx.png) for DIY repairs.
 
 These are not set-in-stone truths, however. As time goes on, people get their cameras repaired. You might find any of these cameras with a freshly replaced capacitor from today. These are still ALEC capacitors, but with far better reliability than ones built 50 years ago.
 
 **Should I Replace My Capacitors Anyway?**
 
-  *You should only replace the capacitor if the symptoms of a dying/dead capacitor are apparent!!!*
+*You should only replace the capacitor if the symptoms of a dying/dead capacitor are apparent!!!*
 
 - The meter lights up on half-press or touch of the shutter button
 - ...but on full press of the shutter button the LED meter turns off and the shutter does not release (when the camera wind lever has been advanced/wound on and prepared to shoot). The meter does not turn on when you attempt to press the button again.
@@ -162,11 +181,10 @@ Jokes aside, it's about the Elements and Groupings of the glass inside the lens.
 
 The P in '*PF*' means 5 Groups.
 
-| 1st Grouping Letter  | T   | Q    | P    | H   | S    | O   | N   |
-|:----------------:|:---:|:----:|:----:|:---:|:----:|:---:|:---:|
+| 1st Grouping Letter| T | Q | P | H | S | O | N |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Math Designation* | *Tri* | *Quad* | *Pent* | *Hex* | *Sept* | *Oct* | *Non* |
-| \# of Groups      | 3   | 4    | 5    | 6   | 7    | 8   | 9   |
-
+| \# of Groups| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 
 \* *If this doesn't make sense, think of polygons. Pentagon, Hexagon, Septagon, etc.*
 
@@ -174,9 +192,9 @@ Then the second letter covers the amount of *Elements* in the lens and is simply
 
 The F in '*PF*' means 6 Elements
 
-| 2nd Element Letter | C | D | E | F | G | H | I |  J |  K |  L |
-|:--------------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:--:|:--:|:--:|
-|  \# of Elements | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 2nd Element Letter | C | D | E | F | G | H | I | J | K | L |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|\# of Elements | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 So if P means *Penta* groups and the F means 6 Elements, the Lens has 6 Element in 5 Groups!
 
@@ -188,7 +206,7 @@ Earlier original SR lenses like the 35mm W.Rokkor QE f/4 (*5 Elements in 4 Group
 
 For later MD lenses this information isn't helpful, as no MD Lens has this naming feature. You'd have to look up that information online, but then you'd find many MD Lenses have *less* Elements and Groups than their earlier MC counterparts, but are faster or considered generally better. This is because of their more advanced glass coatings which came later with the MD lenses.
 
-If you want to read more about it, you can check out Minolta Lens Designations by [Dennis Lohmann](http://minolta.eazypix.de/lenses/index.html#clas) or by [Henrik Robeck](http://minolta.rokkor.de/lensdesignations.htm). You can also read more generally into Minolta Lenses by [Rokkorfiles](http://www.rokkorfiles.com/Lens%20History.html) and [Minman](https://web.archive.org/web/20211021170337/http://www.subclub.org/minman/slrlens.htm) which refer to the Lens Designations and their eventual removal when MC III (aka 'Rokkor-X') and MD lenses started production.
+If you want to read more about it, you can check out Minolta Lens Designations by [Dennis Lohmann](http://minolta.eazypix.de/lenses/index.html#clas) or by [Henrik Robeck](http://minolta.rokkor.de/lensdesignations.htm). You can also read more generally into Minolta Lenses by [Rokkorfiles](http://www.rokkorfiles.com/Lens%20History.html) and [Minman](https://web.archive.org/web/20211021170337/http://www.subclub.org/minman/slrlens.htm) which refer to the Lens Designations and their eventual removal when MC-III (aka 'Rokkor-X') and MD lenses started production.
 
 ***
 ### **Why Does My Lens Not Fit On My Minolta?**
@@ -198,13 +216,13 @@ There is a very common mistake that any lens that says 'MC' on it is for Minolta
 - 'MC' is often confused as Minolta meant it to mean 'Meter Coupling', but 3rd party brands used it to mean 'Multi-Coated'.
 - If it just says ['MC' on the front ring](https://allphotolenses.com/public/files/img/348f90a614fca58ec351417edfe6df79.jpg) like this, that is not a reliable way to tell the mount of the lens. This is an M42 lens, not for SR.
 - To reiterate, Minolta MC doesn't mean '[Multi-Coated](https://allphotolenses.com/public/files/img/93932177ffa230b1af7be64aaa531d1c.jpg). This is also a non-compatible lens.
-- If it says [MC-Rokkor](https://allphotolenses.com/public/files/img/6fbfa2bd7b52ba1705e68c15cf32a6cc.jpg), [MC-Rokkor-X](https://lens-db.com/wp-content/uploads/2017/12/20110625-008-XL.jpg), or [MC Rokkor-*XY*](https://phillipreeve.net/blog/wp-content/uploads/2016/03/Minolta_MC_50mmf1p4-1.jpg) alongside the Minolta name, it is compatible.
+- If it says [MC Rokkor](https://allphotolenses.com/public/files/img/6fbfa2bd7b52ba1705e68c15cf32a6cc.jpg), [MC-Rokkor-X](https://lens-db.com/wp-content/uploads/2017/12/20110625-008-XL.jpg), or [MC Rokkor-*XY*](https://phillipreeve.net/blog/wp-content/uploads/2016/03/Minolta_MC_50mmf1p4-1.jpg) alongside the Minolta name, it is compatible.
 #### MD Lens Identification
 - Minolta was the only one to make MD lenses, so it will say [MD-Rokkor](http://allphotolenses.com/public/files/img/b0bba957fc9ed5c2cba6978ecc16a433.jpg), [MD Rokkor-X](https://radojuva.com/wp-content/uploads/2022/08/minolta-md-rokkor-x-50mm-1-7-1.jpg), or just [MD](https://images.sellbrite.com/production/58025/305/7e35295f-87cc-5748-a40e-3fa8884c4ef5.jpg) on the front ring, alongside the Minolta name.
 - It means 'Meter Diaphragm', for Program and Shutter Priority modes of later Minolta cameras.
 #### Rear Lens Identification
 - Minolta SR (MC/MD) mount changed a couple of times during development, but it has always looked relatively the same. It always has had [a 3-pronged bayonet](https://japb.net/wp-content/uploads/2022/03/SR1.jpg), with the aperture linkage (2) opposite the bayonet with the nick in it (1). 
-- Later [MC-Rokkor and MD lenses](https://japb.net/wp-content/uploads/2022/03/MD1.jpg) got the aperture meter coupling tab (4) and minimum diaphragm tab (5), respectively
+- Later [MC Rokkor and MD lenses](https://japb.net/wp-content/uploads/2022/03/MD1.jpg) got the aperture meter coupling tab (4) and minimum diaphragm tab (5), respectively
 #### Alternate Identification Methods (for 3rd Party Minolta Mount Lenses)
 - Other methods work better with 3rd Party lenses, as they won't carry the 'Minolta MC-Rokkor', Rokkor', or 'Minolta MD' name on the front ring.
 - Most 3rd parties are kind enough to state it directly on the back, such as '[M/MD](https://www.bhphotovideo.com/images/images2500x2500/Tamron_C52300_Adaptall_Mount_for_Minolta_53481.jpg)' on the lens mount or [on the barrel](https://allphotolenses.com/public/files/img/417c5e02c710fae9f9dad3f731487f17.jpg). It may also come across as '[for MINOLTA MD](https://theclassiccamera.com/wp-content/uploads/2023/08/tuesday-9.jpg)' or just '[Minolta](https://i.ebayimg.com/images/g/XtMAAOSwOCFke9eM/s-l1600.jpg)'.
@@ -227,10 +245,10 @@ All of this data in these tables was by researched members of the [Minolta Colle
 
 | Lens Name | Affected [Lens Type](http://minolta.eazypix.de/lenses/index.html#clas) | Radioactive/Surveyed, % | Average Radioactivity (μSieverts/hour)[*] | Location of Radioactivity | Highest *known* Radioactive Lens Serial # |Source(s)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|  MC-W Rokkor-SI (28mm f/2.5) | MC-I, MC-II, MC-X | [5/5](https://i.imgur.com/F47xbSI.jpeg), 100% | 1.99 | Rear Element of Front Lens Assembly | SN [1700129](https://i.imgur.com/F47xbSI.jpeg) | [Maury J., Minolta Collectors (FB)](https://www.facebook.com/groups/minoltacollectors/posts/5314503005255341) |
-|  MC Rokkor-PG (58mm f/1.2) | MC-I, early MC-II | [6/8](https://i.imgur.com/8RPn7W6.jpeg), 75% (MC-I: 1/1, MC-II: 4/7) | 5.90 | Rear Element | SN [2573022](https://i.redd.it/jt803eol5ybc1.jpeg) | [Maury J., Minolta Collectors (FB)](https://www.facebook.com/groups/minoltacollectors/posts/1002035109835507/), and [u\/MindlessLoop (Reddit)](https://i.imgur.com/k3xkjD5.png) |
-|  Auto Tele Rokkor-PF (100mm f/2) | AR-II | [13/13](https://i.imgur.com/f5SO8UI.png), 100% | 2.38 | Rear Element | SN [1300911](https://i.imgur.com/f5SO8UI.png) | [Han F.](https://www.facebook.com/groups/minoltacollectors/posts/5340637699308538) and [Maury J., Minolta Collectors (FB)](https://www.facebook.com/groups/minoltacollectors/posts/5314503005255341) |
-|  MC Tele Rokkor-PF (100mm f/2) | MC-I | [6/8](https://i.imgur.com/f5SO8UI.png), 75% | 2.83[**] | Rear Element | SN [1320375](https://i.imgur.com/YP7YE5t.png)| [Hans F.](https://www.facebook.com/groups/minoltacollectors/posts/5340637699308538), [II](https://www.facebook.com/groups/minoltacollectors/posts/6718224604883167), and [Maury J., Minolta Collectors (FB)](https://www.facebook.com/groups/minoltacollectors/posts/5314503005255341)  |
+|MC W.Rokkor-SI (28mm f/2.5) | MC-I, MC-II, MC-X | [5/5](https://i.imgur.com/F47xbSI.jpeg), 100% | 1.99 | Rear Element of Front Lens Assembly | SN [1700129](https://i.imgur.com/F47xbSI.jpeg) | [Maury J., Minolta Collectors (FB)](https://www.facebook.com/groups/minoltacollectors/posts/5314503005255341) |
+|MC Rokkor-PG (58mm f/1.2) | MC-I, early MC-II | [6/8](https://i.imgur.com/8RPn7W6.jpeg), 75% (MC-I: 1/1, MC-II: 4/7) | 5.90 | Rear Element | SN [2573022](https://i.redd.it/jt803eol5ybc1.jpeg) | [Maury J., Minolta Collectors (FB)](https://www.facebook.com/groups/minoltacollectors/posts/1002035109835507/), and [u\/MindlessLoop (Reddit)](https://i.imgur.com/k3xkjD5.png) |
+|Auto Tele Rokkor-PF (100mm f/2) | AR-II | [13/13](https://i.imgur.com/f5SO8UI.png), 100% | 2.38 | Rear Element | SN [1300911](https://i.imgur.com/f5SO8UI.png) | [Han F.](https://www.facebook.com/groups/minoltacollectors/posts/5340637699308538) and [Maury J., Minolta Collectors (FB)](https://www.facebook.com/groups/minoltacollectors/posts/5314503005255341) |
+|MC Tele Rokkor-PF (100mm f/2) | MC-I | [6/8](https://i.imgur.com/f5SO8UI.png), 75% | 2.83[**] | Rear Element | SN [1320375](https://i.imgur.com/YP7YE5t.png)| [Hans F.](https://www.facebook.com/groups/minoltacollectors/posts/5340637699308538), [II](https://www.facebook.com/groups/minoltacollectors/posts/6718224604883167), and [Maury J., Minolta Collectors (FB)](https://www.facebook.com/groups/minoltacollectors/posts/5314503005255341)|
 
 \[\*] *The average is calculated for only the radioactive lenses.*
 
@@ -239,7 +257,7 @@ All of this data in these tables was by researched members of the [Minolta Colle
 
 **Is the 85mm f/1.7 Lens Radioactive too?**
 
-There were rumours that a fifth lens (an MC Rokkor 85mm f/1.7) might be radioactive, however there's no proof that Minolta made a radioactive 85mm lens. [The original claim](https://web.archive.org/web/20120414014001/http://www.dg77.net/photo/x500/mc85.htm) cited an MC-I version of the 85mm lens used radioactive components, but there isn't an [85mm MC-I model in existence](http://minolta.eazypix.de/lenses/index.html#:~:text=1970-,mc%20ii,-647).
+There were rumours that a fifth lens (an MC-Rokkor 85mm f/1.7) might be radioactive, however there's no proof that Minolta made a radioactive 85mm lens. [The original claim](https://web.archive.org/web/20120414014001/http://www.dg77.net/photo/x500/mc85.htm) cited an MC-I version of the 85mm lens used radioactive components, but there isn't an [85mm MC-I model in existence](http://minolta.eazypix.de/lenses/index.html#:~:text=1970-,mc%20ii,-647).
 
 Unfortunately the myth of a radioactive 85mm lens persisted and spread, including being reproduced on the Rokkorfiles website. It has since been [debunked](https://www.facebook.com/groups/minoltacollectors/posts/5575023332536639/?comment_id=5593917983980507&reply_comment_id=5594008610638111) and even by the author of Rokkorfiles himself. Unfortunately the Rokkorfiles creator does not maintain the website any more and cannot correct the mistake, so this table aims to keep setting the record straight;
 
@@ -278,7 +296,7 @@ Officially, Minolta provided support for only 3 lens mounts, with a simple lette
 - **['P' Adaptor](https://www.reddit.com/r/AnalogCommunity/comments/ivpziv/finally_scored_an_original_m42_to_minolta_md/)** - For **P**entax (or **P**raktica) M42 screwmount. This was a simple adaptor that only allowed for stop-down metering. The lens would be pre-set at the aperture when the meter was taken and the shutter released. Whilst it was designed for Pentax' M42 lenses in mind, it's compatible with the universal M42 screwmount found on lenses found in the former Soviet Union (Praktica, Carl Zeiss, Zenit, Contax), Japan (Mamiya, Yashica, Tamron, Tokina, Soligor, Fuji), and now China with some TTartisan lenses being released in M42.
 - **['E' Adaptor](https://randomphoto.blogspot.com/2007/06/minakta-or-exolta.html)** - For **E**xakta bayonet mount. Similar to the P-Adapter, the lenses could only be used with the aperture pre-set, for stop-down metering only. This adaptor was intended for lenses commonly found in East Germany (Carl Zeiss Jena, Pentacon, Meyer) as well as some early Japanese manufacturers' lenses (i.e. Topcon, Nikon).
 - **['L' Adaptor](http://forum.mflenses.com/minolta-adaptersoriginal-p-and-l-adapters-t36916.html)** - This was for **L**eica's Thread Mount (LTM), otherwise known as M39 screwmount. This was [specifically designed or use with a bellows for Macro photography and copying](https://minoltaflashback.com/bellows.html#:~:text=USING%20THE%20MINOLTA%20ADPATER%20%E2%80%9CL%E2%80%9D%20ON%20A%20BELLOWS). As such, stop down metering was required, and even focus was controlled via the bellows instead of focusing the lens. You would attach the bellows to the camera through the regular Minolta SR-mount, then attach the L-Adaptor to the bellows. Whilst LTM lenses could theoretically fit onto this adaptor, it was only designed for bellows-work, so most non-macro lenses (i.e. LTM rangefinder lenses) would not be in focus.
-  
+
 Today you can find cheap adaptors for various mounts from 3rd Party Vendors for adaptation. Many use glass corrective elements to adapt the lens to Minolta SR, and don't produce good images as a result. It's best to stick native SR-mount lenses, or adapted M42/Exacta lenses using the P/E adaptor.
 
 *There is no way to retroactively adapt modern DSLR or Mirrorless lenses to Minolta SR in any way.*
@@ -291,7 +309,7 @@ There are LA-EA Adaptors for A-mount to E-mount, and adaptors for Minolta SR/MC/
 
 For a brief time however, Minolta did make official 'M/A Converters', an ['M/A-S' for lenses <300mm](https://www.mhohner.de/sony-minolta/onelens/ma_s), and an ['M/A-L' for 300mm and above](https://www.mhohner.de/sony-minolta/onelens/ma_l). They adapt Minolta SR lenses to A-mount, but also act as x2 teleconverters (i.e. An MD 50mm f/1.7 becomes functionally a 100mm f/3.5 when adapted). They require stop down metering of the aperture to function on an A-mount camera. They are 'dumb' adaptors, lacking any electrical contacts to communicate EXIF-metadata with the camera. This requires changing a setting on your Minolta/Konica-Minolta A-mount camera to allow shutter release without a lens mounted as the adaptor is not detected. There is a section for this in the [Minoltapedia Guides](https://www.reddit.com/r/MinoltaGang/about/wiki/index/minoltopedia/ffaq/#wiki_can_i_adapt_minolta_.28sr.2Fmc.2Fmd.29_lenses_to_minolta_and_sony_a-mount.3F). You can learn more about their general performance [here](https://web.archive.org/web/20220530072414/https://www.clubsnap.com/threads/minolta-2x-m-a-converter-s-another-bridge-to-use-old-minolta-manual-lenses-on-alphas.1058857/). These are the best available as they were the only official adaptors. They're harder to find nowadays, but are occasionally on Ebay. Just search '[Minolta M/A Converter](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=Minolta+M%2FA+converter&_sacat=0)' and you will eventually find a few.
 
-There were also 3rd party ones offered by Sigma in the 1980's, and some unbranded ones by another company. There's not as much information on these, but you can read more about what adapter/converters were available on [Dyxum](https://www.dyxum.com/lenses/teleconverters.asp#:%7E:text=manual%20focus%20lens%20section:~:text=Manual%20Focus%20Lens%20Section) (*Ctrl-F, 'Manual Focus Lens Section'*). There are also modern adaptors by [Fotodiox](https://www.amazon.de/Fotodiox-Adapter-Minolta-Mount-Cameras/dp/B0048A8CDU) that teleconvert by x1.4 (i.e. 50mm becomes ~70mm), but these are of lower quality as they add a cheap glass element to adapt them.
+There were also 3rd party ones offered by Sigma in the 1980's, and some unbranded ones by another company. There's not as much information on these, but you can read more about what adaptor/converters were available on [Dyxum](https://www.dyxum.com/lenses/teleconverters.asp#:%7E:text=manual%20focus%20lens%20section:~:text=Manual%20Focus%20Lens%20Section) (*Ctrl-F, 'Manual Focus Lens Section'*). There are also modern adaptors by [Fotodiox](https://www.amazon.de/Fotodiox-Adapter-Minolta-Mount-Cameras/dp/B0048A8CDU) that teleconvert by x1.4 (i.e. 50mm becomes ~70mm), but these are of lower quality as they add a cheap glass element to adapt them.
 
 The alternative and better recommended option for manual focus lenses on an autofocus or digital camera is to have a Mirrorless camera with an adaptor. They don't use corrective glass or teleconvert the focal length, however they have their own cost vs quality considerations. You can read more about these from [Phillip Reeve's Blog](https://phillipreeve.net/blog/guide-adapters-minolta-mc-md-lenses/).
 
@@ -316,8 +334,8 @@ Those are from a Microfilm/Microfiche Reader-Printer. You can [remove the Prism]
 
 ### **What's the deal with 'Minolta Digital' and MND cameras?**
 
-In short, there was a dubious Trademark dispute involving US Patent Law in the mid-2010's, and Minolta (Konica Minolta) lost. The Trademark of 'Minolta' was then passed to a US-registered licensing company called JMM Lee, and they proceeded to sell their license to EliteBrands, who manufacture crappy cameras under a '[Zombie Trademark](https://attorneyatlawmagazine.com/zombie-trademark)'. You can find unbranded copies of their 'MND' and 'MNZ' cameras on AliExpress at a fraction of their costs advertised on US shopping channels or Amazon.
+In short, there was a dubious Trademark dispute involving US Patent Law in the mid-2010's, and Minolta (Konica Minolta) lost. The Trademark of 'Minolta' was then passed to a US-registered licensing company called JMM Lee, and they proceeded to sell their license to Elite Brands, who manufacture crappy cameras under a '[Zombie Trademark](https://attorneyatlawmagazine.com/zombie-trademark)'. You can find unbranded copies of their 'MND' and 'MNZ' cameras on Ali Express at a fraction of their costs advertised on US shopping channels or Amazon.
 
-If they are considered 'Minolta', then I have an Minolta-brand  bridge to sell you. **Don't buy them**, at best they have no relation to old Minolta, and at worst are the modern-era equivalent of a '[scamera](https://mikeeckman.com/2019/04/canon-dl-9000-the-scamera/)'.
+If they are considered 'Minolta', then I have a Minolta-brand bridge to sell you. **Don't buy them**, at best they have no relation to old Minolta, and at worst are the modern-era equivalent of a '[scamera](https://mikeeckman.com/2019/04/canon-dl-9000-the-scamera/)'.
 
 If you are interested in the Trademark Patent dispute, you can [read a Draft/Review article](https://docs.google.com/document/d/1OeuuAl6OBq0QvwslPRhQUADA3xqt1U-p/edit?usp=sharing&ouid=102438540267148654789&rtpof=true&sd=true) written up to cover this FAQ that kind of ballooned into it's own thing. (I would appreciate any critique and comments on the draft before I finally 'publish' it somewhere!)

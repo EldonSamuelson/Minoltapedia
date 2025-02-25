@@ -14,6 +14,52 @@ As a side note, I strongly recommend reading and taking the Learn Camera repairs
 
 ***
 
+### **How to Date-Check A Minolta Camera**
+
+Placeholder - Open the Baseplate and you will see a Number and Letter Code.
+
+The Number represents the last year of a certain decade, i.e. '6' could be 1966, '76, '86... So you'll need to know the Series' production ranges to narrow it down.
+
+| ***Series*** | SR, >1962* | SRT | XK/XM/X1** | XE | XD |  XG | X-700 | X-500 | X-300*** | X-300s/370n*** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ***Year Range*** | 1958-1971 | 1966-1981 | 1972-1984 | 1974-1977 | 1977-1981 | 1977-1984 | 1981-2001 | 1983~1985 | 1984~2006 | 1990-2006 |
+
+\*\* The XK has an additional number code - 1 = Made for Japan, 2 = Made for EU, 3 = Made for US. It's redundant though as the model name also tells you this.
+
+\*\*\* The X-300 and X-300s were licensed to Seagull in China in 2005, where they continue to be made today under the Seagull DF300 name. It is unclear if they continue the date-code system beyond then.
+
+The Letter represents the month it was produced. 
+  
+| ***Letter*** | A | B | C | D | E | F | G | H | I | J | K | L |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|***\# of Month*** | 1 | 2| 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| ***Month*** | January | February | March | April | May | June | July | August | September | October | November | December |
+
+
+\* The SR series was a first for Minolta, and didn't follow the date-code system in the same way until the early 60's. 
+
+*Placeholder* Cite Hachi, RokkorFiles
+
+> Under the base cover, there is a stamp in the case metal. That is the base code. Under the mount cowl, the is a stamp in the metal of the mount/mirror housing. That is the mount code. 
+> 
+> Base Code/Mount Code.
+> 
+> SR-2(1) - None/None
+> 
+> SR-2(2a) - SR2/None
+> 
+> SR-2(2b), SR-1(1) - SR2/SRB
+> 
+> SR-3(1a), SR-1(2a) - SRC/SRC
+> 
+> SR-3(1b), SR-1(2b) - SRC./SRC
+> 
+> SR-3(2a), SR-1(3) - SRD/SRC
+> 
+> SR-1(4a) - SRD/SRC (Minolta added the meter mount to the SR-1(3)
+
+***
+
 ### **How to Upgrade a Minolta Alpha/Dynax/Maxxum 9 Camera to a 9Ti**
 
 You may have heard of the Alpha 9's lens compatibility limitation with newer SSM/SAM lenses already - [MHohner explains it better than I could](https://www.mhohner.de/sony-minolta/faq.php#newlensoldcamera) - this *isn't* about upgrading it to be lens compatible. The last opportunity for that was in [2015](https://www.dyxum.com/dforum/dynax-9-ssm-upgrade-available-out-of-stock-2015_topic45829_page1.html) and that has since expired. If your Alpha/Dynax/Maxxum 9 has Custom Function 20-4, it has the SSM/SAM upgrade. If it doesn't now, it never will.
