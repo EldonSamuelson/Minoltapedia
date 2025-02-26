@@ -212,7 +212,9 @@ If you want to read more about it, you can check out Minolta Lens Designations b
 ### **Why Does My Lens Not Fit On My Minolta?**
 
 There is a very common mistake that any lens that says 'MC' on it is for Minolta mount cameras. Unfortunately this isn't true and can lead to compatibility problems. Here's how to make sure a lens is definitely for Minolta Manual Focus! (AKA SR mount);
+
 #### MC Lens Identification
+
 - 'MC' is often confused as Minolta meant it to mean 'Meter Coupling', but 3rd party brands used it to mean 'Multi-Coated'.
 - If it just says ['MC' on the front ring](https://allphotolenses.com/public/files/img/348f90a614fca58ec351417edfe6df79.jpg) like this, that is not a reliable way to tell the mount of the lens. This is an M42 lens, not for SR.
 - To reiterate, Minolta MC doesn't mean '[Multi-Coated](https://allphotolenses.com/public/files/img/93932177ffa230b1af7be64aaa531d1c.jpg). This is also a non-compatible lens.
@@ -223,13 +225,18 @@ There is a very common mistake that any lens that says 'MC' on it is for Minolta
 #### Rear Lens Identification
 - Minolta SR (MC/MD) mount changed a couple of times during development, but it has always looked relatively the same. It always has had [a 3-pronged bayonet](https://japb.net/wp-content/uploads/2022/03/SR1.jpg), with the aperture linkage (2) opposite the bayonet with the nick in it (1). 
 - Later [MC Rokkor and MD lenses](https://japb.net/wp-content/uploads/2022/03/MD1.jpg) got the aperture meter coupling tab (4) and minimum diaphragm tab (5), respectively
+
 #### Alternate Identification Methods (for 3rd Party Minolta Mount Lenses)
+
 - Other methods work better with 3rd Party lenses, as they won't carry the 'Minolta MC-Rokkor', Rokkor', or 'Minolta MD' name on the front ring.
 - Most 3rd parties are kind enough to state it directly on the back, such as '[M/MD](https://www.bhphotovideo.com/images/images2500x2500/Tamron_C52300_Adaptall_Mount_for_Minolta_53481.jpg)' on the lens mount or [on the barrel](https://allphotolenses.com/public/files/img/417c5e02c710fae9f9dad3f731487f17.jpg). It may also come across as '[for MINOLTA MD](https://theclassiccamera.com/wp-content/uploads/2023/08/tuesday-9.jpg)' or just '[Minolta](https://i.ebayimg.com/images/g/XtMAAOSwOCFke9eM/s-l1600.jpg)'.
 - Older 3rd parties may refer to the [original SR](https://s.ecrater.com/stores/74726/4daa3eab93da0_74726b.jpg) but are less common.
 - There may be a combination of all these. For example, 'SR/MC for MINOLTA' or 'SR/MD' or 'M/SR'
+
 #### Older Minolta Lens Identification
+
 This is mostly for posterity, as these older SR lenses are so old that they aren't likely to be seen very often or confused with anything else.
+
 - [Auto Rokkor (SR-AR)](http://minolta.rokkor.de/lens/normals/552ar132front.jpg) lenses lack the MD and MC tabs, and the aperture linkage is very long. The very old ones have the linkage connected to a ring that rotates along outside, instead of the tiny linkage you see on later Minolta lenses. They almost always say 'Auto Rokkor' and no one made any 3rd party copies, so they aren't easy to confuse.
 - [Original SR](https://allphotolenses.com/public/files/img/a47ec1a0810970ecdeef2bd27d2a09fe.JPG) were the very first Minolta SR mount lenses, and lack even the aperture linkage. They always say 'Rokkor-*XY*'. There were very few 3rd party manufacturers making Minolta lenses this early, and you'll likely never see one to get confused about them in the first place.
 ***
