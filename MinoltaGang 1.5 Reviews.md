@@ -22,6 +22,7 @@ This page hosts a list of reviews by members of the Community and elsewhere onli
 - XK
 - XE
 - XD
+- XG
 - X-3/5/6/700
 
 ##### AF AutoFocus
