@@ -2,6 +2,10 @@
 
 This page tries to cover the most common problems that affect Minolta Cameras, and in some cases what you can do about them. This follows a simple 4 step process, **What**('s the problem), **Why** (it happens), **Remedy** (if any), **Where** (the info comes from).
 
+# [Back to Index](https://www.reddit.com/r/MinoltaGang/about/wiki/index)
+
+***
+
 ### **Disclaimer** 
 
 *Some of these sections deal with DIY repairs and modifications that you can attempt. **These can damage equipment permanently if you aren't careful**!*
@@ -18,7 +22,7 @@ This page tries to cover the most common problems that affect Minolta Cameras, a
 
 #### **Insufficient Battery Voltage for Meter/Incorrect Mercury Battery Replacement**
 
-*Please see the relevant FFAQ on [SRT Mercury Battery Substitutions](MinoltaGang%201.2%20FFAQ's.md#what-batteries-can-i-use-for-an-srt-meter)*
+*Please see the relevant FFAQ on [SRT Mercury Battery Substitutions](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_what_batteries_can_i_use_for_an_srt_meter.3F)*
 
 #### **Mirror Baffle Loose Flap**
 
@@ -163,17 +167,17 @@ placeholder piece: - XD (Mirror Dampener Sticky Piston Shutter Delay, Spool brea
 
 ### XG
 
-palceholder- XG, X-:100: (Capacitor shenanigans, I already have an FAQ on the worst affected models and how to fix however)
+placeholder- XG, X-:100: (Capacitor shenanigans, I already have an FAQ on the worst affected models and how to fix however)
 
 #### Meter/Shutter Non Responsive (Capacitor Failure)
 
-*Please see the [Capacitor FFAQ Section](MinoltaGang%201.2%20FFAQ's.md#will-my-minolta-have-a-capacitor-problem)*
+*Please see the [Capacitor FFAQ Section](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_will_my_minolta_have_a_capacitor_problem.3F)*
 
 ### X-Hundred (X-300/500/600/700)
 
 #### Meter/Shutter Non Responsive (Capacitor Failure)
 
-*Please see the [Capacitor FFAQ Section](MinoltaGang%201.2%20FFAQ's.md#will-my-minolta-have-a-capacitor-problem)*
+*Please see the [Capacitor FFAQ Section](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_will_my_minolta_have_a_capacitor_problem.3F)*
 
 
 ## Minolta AutoFocus SLR Common Problems 

@@ -1,4 +1,3 @@
-***
 ![](%%WikiContributor%%) 
 # Minoltapedia
 

@@ -2,6 +2,10 @@
 
 This page holds a lot of FAQ's to answer some common questions about Minolta cameras. Please see the respective question for the original source(s) of the information.
 
+# [Back to Index](https://www.reddit.com/r/MinoltaGang/about/wiki/index)
+
+***
+
 ### **Disclaimer** 
 
 *Some of these FFAQ's deal with DIY repairs and modifications. **These can damage equipment permanently if you aren't careful**!*

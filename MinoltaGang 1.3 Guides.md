@@ -2,6 +2,10 @@
 
 This page holds a few Guides to cover specific features not normally possible with Minolta cameras. Please see the respective section for the original source(s) of the information.
 
+# [Back to Index](https://www.reddit.com/r/MinoltaGang/about/wiki/index)
+
+***
+
 ### **Disclaimer** 
 
 *Some of these guides deal with DIY modifications, and software/firmware updates of cameras. **These can damage equipment permanently without being careful and following instructions**! 

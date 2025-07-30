@@ -2,12 +2,14 @@
 
 This covers all the best resources you could need to read up, learn, troubleshoot, or repair Minolta gear. Many of these are already on the Subreddit's menu links. This page allows for more links to be included, as well as a short description of what they actually are. This isn't exhaustive, but I'm striving to include at least a link to each site that allows anyone to dive further or pick up information at a glance. This is regularly updated and would always appreciate extra resource links if you know any! Just send a modmail and credit will be given where it's due for finding it.
 
-I can also recommend checking out these other Minoltapedia Resources;
-# [Frequently Asked Questions on Minoltapedia](https://www.reddit.com/r/MinoltaGang/about/wiki/index/Minoltapedia/ffaq/)
-
-# [Guides on Minoltapedia](https://www.reddit.com/r/MinoltaGang/wiki/index/Minoltapedia/guides)
+# [Back to Wiki Index](https://www.reddit.com/r/MinoltaGang/about/wiki/index)
 
 ***
+
+I also recommend checking out these other Minoltapedia Resources;
+# [Frequently Asked Questions on Minoltapedia](https://www.reddit.com/r/MinoltaGang/about/wiki/index/minoltopedia/ffaq/)
+
+# [Guides on Minoltapedia](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/guides)
 
 ## Wiki-/Encyclopedias 
 ***
