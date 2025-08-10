@@ -8,6 +8,9 @@ assignees: EldonSamuelson
 
 ---
 
+**Reddit Username**
+*u/[insert-username-here], if you want to be given the Wiki Contributor Flair on the subreddit*
+
 **Is your feature request related to a problem? Please describe.**
 *A clear and concise description of what the addition could be*
 
