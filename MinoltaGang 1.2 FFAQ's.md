@@ -17,7 +17,7 @@ As a side note, I strongly recommend reading and taking the Learn Camera repairs
 ## Camera FFAQ's
 ***
 
-### **What is the best Minolta SLR?**
+### **What is the *best* Minolta SLR?**
 
 So, you want a Minolta Manual Focus SLR - but the information out there is confusing, there's loads of different models, and you don't want to wade through hundreds of pages and video reviews? This decision chart might be for you!
 
@@ -70,7 +70,7 @@ These changes were a result of balancing features available on SRT's by adding n
 
 Stages 5, 6, and 7 came year-after-year for SRT 200's which were a mix of cost cutting and updates as the XG & XD series were released.
 
-- *Stage 6*:The first cost-cutting measure was introduced which changed the metal aperture ring to plastic, and the locking Depth of Field preview mechanism become a 'push and hold' version. 
+- *Stage 6*: The first cost-cutting measure was introduced which changed the metal aperture ring to plastic, and the locking Depth of Field preview mechanism become a 'push and hold' version. 
 - *Stage 7*: Viewfinder focus aids were changed from a horizontal prism to split-prism which made it easier to use. The SRT 202's never saw this upgrade or any future changes, as they were discontinued. There was no reason to upgrade 202's further and put them against the new XD models, and they couldn't cheapen the model further because the SRT 201 and 200 existed below it.
 - *Stage 8*: Another cost cutting measure as by then the remaining SRT's were obsolete as the fully electronic cameras took over. They removed the 2nd metering cell in the camera, which made part of the 'CLC' system on all previous SRT's. This also meant CLC name wasn't on the prisms.
 
@@ -80,41 +80,63 @@ As the SRT's were discontinued in 1981, the electronic X-300 (Budget/Basic), X-5
 
 ### **What Batteries Can I Use For an SRT Meter?**
 
-**Why Use Mercury in the First Place?**
+SRT's used to use 'PX625' Mercury Batteries which no longer exist today. Here's a summary of the common methods of substitution or replacement I've found.
 
-When SRT cameras were released between 1966 and 1981, Mercury-Oxide batteries were already in popular use for mobile electronics because of their long shelf life, large energy capacity, and stable voltage output at 1.35 Volts. The Mercury acted as a stabiliser for the chemical reaction, so they held their charge for a very long time, and didn't explode or leak (*very often*). 
+There are 2 Tables, 'Dumb' and 'Smart'. The 'Dumb' table methods are simpler, cheaper, but might not be the most reliable method for adaptation. The 'Smart' tables are more permanent modifcations or adaptors, but will be more expensive or require some DIY experience to do yourself. 
+Each table is ordered by how easy it is to complete the option - the first you could do with the camera in your hands right now. Each have their pros and cons, and the one **is illegal** in most countries, but you can weigh the options and decide which one suits your needs (except *that* one - that is objectively a bad option unless you live in Russia). *Some links allow for each option's purchase, but I am not affiliated with or recommending any of them by having them on the table.*
 
-Mercury is a toxic substance however - when the batteries are dumped, the Mercury leaks out of landfills and into drinking water. Workers would get sick making the batteries, and treatments are costly. By the mid-90's, most Western countries had restricted their manufacture and banned their commercial import or use. 
-
-What replaced Mercury-Oxide was mostly Alkaline (A, AG, L, LR), Zinc-Air (ZA), or Silver-Oxide (SO, SG, SR) button cells. While they worked well in the more modern XE, XD, and X-hundred series, the different 1.5 Voltage and varying drain on these new batteries meant they couldn't work with the old SRT's system. The SRT meters didn't regulate Voltage, so they would under and over expose depending whether the battery was old or new.
-
-Since the 2000's as the remaining Mercury batteries died out, methods for working alternatives have sprung up. There are literally hundreds and thousands of webpages, articles, and forum posts giving advice, from Sunny 16 to battery substitution, soldering a voltage regulator in, or modifying the meter. So, here's a summary of the common and uncommon methods I've found with links to all of them.
-
-**So What Alternative Should I Use?**
-
-The table is ordered by how easy it is to complete the option - the first you could do with the camera in your hands right now. Each have their pros and cons, and the last one **is illegal** in most countries, but you can weigh the options and decide which one suits your needs (except the last one - that is objectively a bad option). *Some links allow for each option's purchase, but I am not affiliated with or recommending any of them by having them on the table.*
-
-If you want to read more about each option or get into the discharge curves and details of the Mercury Battery Problem, you can read resources by [Bruce Varner](https://www.brucevarner.com/PX625Replacement.html), [Dick Sullivan](http://www.rokkorfiles.com/mercury.htm), ['Frugal' Mike](http://www.willegal.net/photo/srt/srt-mercury.htm), [KniPPsen](https://knippsen.blogspot.com/2016/02/px625-und-alternativen.html), [Mel](https://high5cameras.com/all-articles/spares-and-upgrades/whose-got-the-power-a-guide-to-classic-camera-batteries/), and [PhotoEthnography](http://www.photoethnography.com/ClassicCameras/batteries.html). [F. de Gruijter (PDF)](http://rick_oleson.tripod.com/batt_adapt_us.pdf) is probably the most detailed and authoritative on the issue, and the technical differences between battery types.
+**Dumb Table**
 
 |***Type***|***Option***|***Ease***|***Voltage & Battery Drain***|***Metering Consistency***|***Cost***|***Source(s)***|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |**No Meter**|Sunny 16|Easy, follow simple guidelines|0V, No drain|User Dependant|Free!|[Sunny 16](https://lenslurker.com/sunny-16/#how), [Exposure-Mat](https://expomat.tripod.com/)|
-|**Alkaline Manual Exposure Compensation (MEC)**|LR44/A76 Battery & MEC|Easy to attempt, Very Difficult to succeed|1.5V, Gradual drain|Inconsistent|The 'Control' price|There are no guides, it's the worst idea!|
-|**Silver Oxide Manual Exposure Compensation (MEC)**|SR44/S76 Battery & MEC|Easy to attempt|1.5V, Stable|Consistent, 1 Stop Off|Marginally more expensive|There are no guides, but it's better than LR44's|
-|**Alkaline Battery Substitution**|Alkaline 625A Battery|Very Easy, just insert battery|1.5V, Gradual drain|Inconsistent|Similarly priced| ['Frugal' Mike](http://www.willegal.net/photo/srt/srt-mercury.htm), [Bruce Varner](https://www.brucevarner.com/PX625Replacement.html)|
-|**Zinc-Air Battery Substitution** |Zinc-Air MRB625 WeinCell|Very easy, just insert battery|1.35V, Stable for ~6 months|Very Consistent|More expensive, shorter lasting|[WeinCell (US)](http://www.weincell.com/)|
-|**DIY Zinc Air Battery Adaptation**|Rubber O-Ring + ZA675 Battery|Easy, wrap battery in O-ring & insert|1.4V, Stable for ~6 months|Consistent, negligible inaccuracy|Marginally cheaper + 1-time O-ring cost|[Rick Oleson](http://rick_oleson.tripod.com/index-111.html), [Bruce Varner, 06/17/2015](https://www.brucevarner.com/PX625Replacement.html)|
-|**Simple Zinc Air Battery Adaptor**| PaulBG/PBC Ring + ZA675/APX44 Battery|Very easy, insert battery into ring and insert|1.38~1.32V, Stable for ~3 months|Very Consistent |Initially expensive, recouped by ZA675 Battery use use | [PaulBG](http://www.paulbg.com/Nikon_F_meter_batteries.htm), [Polar Bear Cameras](https://polarbearcamera.com/products/px625-adapter-pro-apx44), [Bruce Varner](https://www.brucevarner.com/PX625Replacement.html) |
-|***Type***| ***Option***| **Ease**|***Voltage & Battery Drain***|***Metering Consistency***|***Cost***|***Source(s)***|
-|**Advanced Battery Adaptor**| Criscam MR9 Adaptor + Silver Oxide 386/SR43, or thicker SR44 Battery | Very Easy, insert battery into adaptor and insert |1.35V, Stable|Very consistent|Very expensive, recouped with battery use |[Criscam (US)](https://shop.criscam.com/products/mr-9-mercury-battery-adapter?variant=998592509), [SmallBatCo (UK)](https://www.smallbattery.company.org.uk/sbc_mr9_adapter.htm)|
-|**DIY Potentiometer Adjustment** | Adjusting SRT meter + SR44 Battery|Somewhat Easy, requires careful adjustment | 1.55V, *adjusted for SRT compatibility*, Stable | Very consistent, if adjusted correctly and ONLY using SR44's |Cheap|[Dick Sullivan Archive](https://web.archive.org/web/20050824094134/http://home.pcisys.net:80/~rlsnpjs/minolta/recal.html), [Mr Analog Dan](https://youtu.be/DYaKaJs8nOI), [Film Camera Vlog](https://youtu.be/_hHUaOI6Gv0) |
-|**DIY Schottky Adaptation**|External Schottky Diode Adaptor + SR44 Battery|Difficult to make without electrical experience|1.35V, Stable|Very consistent| Cheap, but material upfront costs | [John Marriage's Schottky Adaptor](https://www.refracted.net/reflected/mercurial-batteries-on-a-tight-budget)|
-|**DIY Schottky Conversion**|Integrated Schottky Diode + O-Ring + SR44 Battery|Difficult without electrical experience|1.35V, Stable|Very consistent| Cheap, with 1-time material costs | [Dick Sullivan, via Rokkorfiles](http://www.rokkorfiles.com/conversion.htm), [Mel High5Cameras](https://high5cameras.com/all-articles/spares-and-upgrades/whose-got-the-power-a-guide-to-classic-camera-batteries/)|
-|**Custom Circuit Conversion**|Stable625 Chip + SR44 Battery|Complicated, Professional install expected |1.35V, Stable|Very consistent|*?* Cheaper than adaptation, one off costs from installation| [Stable625](https://stable625.medium.com/a-stable-1-35v-voltage-regulator-for-vintage-cameras-and-light-meters-stable625-8a045d538fcb) |
-|**V80H Rechargeable Battery**|V80H Battery + Custom USB-C Charger|Very Easy |1.25~1.3V, Stable|Reasonably consistent|Most expensive one-time cost, recouped by recharged reuse | [Ausgeknipst (DE)](https://ausgeknipst.de/en/products/snapped-replacement-battery-charger-for-px625-mr9-varta-v80h-battery-1-35v) |
-| **Russian Imported Mercury Batteries** |Mercury PX625ru Batteries|Very easy, **but heavily restricted**|1.4~1.35V, Stable|Consistent but with QC issues (variable V range)| Expensive, **possibly illegal and/or sanctioned in your country** |['Frugal' Mike](http://www.willegal.net/photo/srt/srt-mercury.htm), [Wikipedia](https://en.wikipedia.org/wiki/Mercury_battery#Product_ban), [PX625RU (RU)](https://www.px625.ru/about-px625.html)\*|
+|**Alkaline Manual Exposure Compensation (MEC)**|LR44/A76 Battery & MEC|Easy to attempt, Very Difficult to succeed. Batteries very common|1.5V, Gradual drain|Inconsistent|The 'Control' price/time, operates for ~1 year. | N/A. It will be fine for 1 roll/1 week, then get worse|
+|**Silver Oxide Manual Exposure Compensation (MEC)**|SR44/S76 Battery & MEC|Easy. Batteries very common|1.5V, Stable|Consistent, ~1 Stop Off|Marginally more expensive|N/A.|
+|**Alkaline Battery Substitution**|Alkaline 625A Battery|Very Easy. Batteries somewhat common|1.5V, Gradual drain|Inconsistent|Similarly priced| ['Frugal' Mike](http://www.willegal.net/photo/srt/srt-mercury.htm), [Bruce Varner](https://www.brucevarner.com/PX625Replacement.html)|
+|**Zinc-Air Battery Substitution MRB625** |Zinc-Air MRB625 WeinCell|Very Easy. Batteries common online|1.35V, Stable for ~6 months|Very Consistent|More expensive, shorter lasting|[WeinCell (US)](https://weinproducts.com/products/wein-cell-replacement-battery-mrb625)|
+|**DIY Zinc Air Battery Adaptation**|Rubber O-Ring + ZA675 Battery|Easy. Batteries/O-rings very common|1.4V, Stable for ~6 months|Consistent, negligible inaccuracy|Marginally cheaper + 1-time O-ring cost|[Rick Oleson](http://rick_oleson.tripod.com/index-111.html), [Bruce Varner, 06/17/2015](https://www.brucevarner.com/PX625Replacement.html)|
+|**'Dumb'\* Zinc Air Battery Adaptor Ring**| PaulBG/PBC Ring + ZA675/APX44 Battery|Easy. Batteries very common, Adaptor rings common online|1.38~1.32V, Stable for ~3 months|Very Consistent |Initially more expensive, recouped by cheaper ZA675 Battery use | [PaulBG](http://www.paulbg.com/Nikon_F_meter_batteries.htm), [Polar Bear Cameras](https://polarbearcamera.com/products/px625-adapter-pro-apx44), [Bruce Varner](https://www.brucevarner.com/PX625Replacement.html) |
 
-\* The final link is added as a source of reference and information, you cannot purchase from this link. ***I STRONGLY ADVISE AGAINST breaking your local laws or personal morals to buy a Mercury Battery from a Russian Military supplier***. Apart from the ongoing Russo-Ukrainian War, there's also environmental & health concerns for disposal of and exposure to Mercury, and the legal consequences for purchasing and/or importing a banned product containing toxic material.
+\* *Dumb and Smart Adaptor rings can be distinguished by their simplicity. Dumb rings are just [a chunk of metal, usually brass](https://i5.walmartimages.com/seo/4Pcs-MR-9-Battery-Adapter-for-Film-Camera-Exposure-Meter-MR9-PX625-PX13-Fits-for-LR44-1-4V-Zinc-Air-Battery-CE0730X2_f281e6c6-7d3c-4b22-8a70-79664f685ca5.2ddba70496d9710752d886f42e3c9b2e.png). Smart Rings [have component parts](https://image.jimcdn.com/app/cms/image/transf/none/path/s00ef515e3cd3b5d3/image/ifa56619ca8d24d4b/version/1631562360/image.jpg). Unfortunately both are named 'MR9', so be careful to check!*
+
+**Smart Table**
+
+|***Type***| ***Option***| ***Ease***|***Voltage & Battery Drain***|***Metering Consistency***|***Cost***|***Source(s)***|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|**DIY Potentiometer Adjustment** | Adjusting SRT meter + SR44 Battery|Somewhat Easy. Requires careful DIY adjustment | 1.55V *adjusted for SRT compatibility*, Stable | Very consistent, if adjusted correctly and ONLY using SR44's |Free|[Dick Sullivan Archive](https://web.archive.org/web/20050824094134/http://home.pcisys.net:80/~rlsnpjs/minolta/recal.html), [Mr Analog Dan](https://youtu.be/DYaKaJs8nOI), [Film Camera Vlog](https://youtu.be/_hHUaOI6Gv0) |
+|**'Smart'\* Advanced MR9 Battery Adaptor**| Kanto MR9 Adaptor + Silver Oxide 386/SR43, or thicker SR44 Battery | Somewhat Easy. Batteries very common, adaptor harder to source online |1.35V, Stable|Very consistent|Very expensive, recouped with battery use |[Criscam (US)](https://shop.criscam.com/products/mr-9-mercury-battery-adapter?variant=998592509), [KantoCamera (JPN)](https://www.kantocamera.com/english/adapter/adapter_en.html), [Kamerastore (EU)](https://kamerastore.com/products/other-mr-9-battery-adapter), [SmallBatCo (UK)](https://www.smallbattery.company.org.uk/sbc_mr9_adapter.htm)|
+|**V80H Rechargeable Battery**|V80H Battery + Custom USB-C Charger|Very Easy. Recharger only made by one manufacturer |1.25~1.3V, Stable|Reasonably consistent|Most expensive one-time cost, recouped by recharged reuse | [Ausgeknipst (DE)](https://ausgeknipst.de/en/products/snapped-replacement-battery-charger-for-px625-mr9-varta-v80h-battery-1-35v) |
+|**DIY Schottky Conversion**|Integrated Schottky Diode + SR44 Battery|Somewhat Difficult. Requires electrical experience|1.35V, Stable|Very consistent| Cheap, with 1-time material costs | [Dick Sullivan, via Rokkorfiles](http://www.rokkorfiles.com/conversion.htm), [Mel High5Cameras](https://high5cameras.com/all-articles/spares-and-upgrades/whose-got-the-power-a-guide-to-classic-camera-batteries/)|
+|**DIY Schottky Adaptor**|External Schottky Diode Adaptor + SR44 Battery|Difficult. Requires electrical experience|1.35V, Stable|Very consistent| Cheap, but material upfront costs | [John Marriage's Schottky Adaptor](https://www.refracted.net/reflected/mercurial-batteries-on-a-tight-budget)|
+|**Custom Circuit Conversion**|Stable625 Chip + SR44 Battery|Complicated. ***Professional install expected*** |1.35V, Stable|Very consistent|*?* Cheaper than adaptation, one off costs from installation| [Stable625](https://stable625.medium.com/a-stable-1-35v-voltage-regulator-for-vintage-cameras-and-light-meters-stable625-8a045d538fcb) |
+| **Russian Imported Mercury Batteries** |**Mercury** PX625ru Batteries|Very easy, **but heavily restricted**|1.4~1.35V, Stable|Consistent but with QC issues (variable V range)| Expensive, **possibly illegal and/or sanctioned in your country** |['Frugal' Mike](http://www.willegal.net/photo/srt/srt-mercury.htm), [Wikipedia](https://en.wikipedia.org/wiki/Mercury_battery#Product_ban), [PX625RU (RU)](https://www.px625.ru/about-px625.html)\*\*|
+
+\*\* The final link is added as a source of reference and information, you cannot purchase from this link. ***I STRONGLY ADVISE AGAINST breaking your local laws or personal morals to buy a Mercury Battery from a Russian Military supplier***. Apart from the ongoing Russo-Ukrainian War, there's also environmental & health concerns for disposal of and exposure to Mercury, and the legal consequences for purchasing and/or importing a banned product containing toxic material.
+
+### **What Batteries Can I Use For a Hi-Matic Meter?**
+
+Some Hi-Matics similarly used to use 'PX675' or 'PX640' Mercury Batteries which no longer exist today. Since the required Voltage for 675's was also 1.35V, some people just adapt with similar methods to the SRT's 625 replacements. The 640's also were 1.35V, but they are different shape. Fortunately, it appears Hi-Matics that used PX640's had voltage regulators, so the modern 1.5V replacement batteries should work fine. If you want a more specific tailored mercury substitute, see the short table below.
+
+**Rangefinder Table**
+
+|***Type***| ***Option***| ***Ease***|***Voltage & Battery Drain***|***Metering Consistency***|***Cost***|***Source(s)***|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|**Zinc-Air Battery Substitution MRB675** |Zinc-Air MRB675 WeinCell: *PX675 Replacement*|Very Easy. Batteries common online|1.35V, Stable for ~6 months|Very Consistent|More expensive, shorter lasting|[WeinCell (US)](https://weinproducts.com/products/wein-cell-replacement-battery-mrb675)|
+|**'Smart' Advanced MR44 Battery Adaptor**| Kanto MR44 Adaptor + Silver Oxide 392/SR41 Battery: *PX675 Replacement*| A Little Difficult. Batteries common, adaptor hard to source online |1.35V, Stable|Very consistent|Very expensive, recouped with battery use | [KantoCamera (JPN)](https://www.kantocamera.com/english/adapter/adapter_en.html), [SmallBatCo (UK)](https://www.smallbattery.company.org.uk/sbc_mr44_adapter.htm)|
+|**Alkaline/Silver Oxide Battery Subsitution PC640A**| PC640A or PX640A Battery: *PX640 Replacement* | Easy. Batteries common online|1.5V *Voltage regulated by camera*|Very consistent|Somewhat Cheap| [BatteriesInAFlash (US)](https://www.batteriesinaflash.com/audio-video-electronics-equipment/exell-a640px-1-5v-alkaline-battery-px640a-en640a-epx640a-lr52), [SmallBatCo (UK)](https://www.smallbattery.company.org.uk/sbc_pc640a.htm)|
+
+
+**Why Did They Use Mercury in the First Place?**
+
+When SRT and Hi-Matic cameras were released between 1966 and 1981, Mercury-Oxide batteries were already in popular use for mobile electronics because of their long shelf life, large energy capacity, and stable voltage output at 1.35 Volts. The Mercury acted as a stabiliser for the chemical reaction, so they held their charge for a very long time, and didn't explode or leak (*very often*). 
+
+Mercury is a toxic substance however - when the batteries are dumped, the Mercury leaks out of landfills and into drinking water. Workers would get sick making the batteries, and treatments are costly. By the mid-90's, most Western countries had restricted their manufacture and banned their commercial import or use. 
+
+What replaced Mercury-Oxide was mostly Alkaline (A, AG, L, LR), Zinc-Air (ZA), or Silver-Oxide (SO, SG, SR) button cells. While they worked well in the more modern XE, XD, and X-hundred series, the different 1.5 Voltage and varying drain on these new batteries meant they couldn't work with the older camera's system. The SRT and Hi-Matic meters didn't regulate Voltage, so they would under and over expose depending whether the battery was old or new.
+
+Since the 2000's as the remaining Mercury batteries died out, methods for working alternatives have sprung up. There are literally hundreds and thousands of webpages, articles, and forum posts giving advice, from Sunny 16 to battery substitution, soldering a voltage regulator in, or modifying the meter. If you searched yourself online, you would probably find many more articles that have sprung up since this page was written.
+
+If you want to read more about the Mercury Adaptation problem or get into the discharge curves and details, you can read resources by [Bruce Varner](https://www.brucevarner.com/PX625Replacement.html), [Dick Sullivan](http://www.rokkorfiles.com/mercury.htm), ['Frugal' Mike](http://www.willegal.net/photo/srt/srt-mercury.htm), [KniPPsen](https://knippsen.blogspot.com/2016/02/px625-und-alternativen.html), [Mel](https://high5cameras.com/all-articles/spares-and-upgrades/whose-got-the-power-a-guide-to-classic-camera-batteries/), and [PhotoEthnography](http://www.photoethnography.com/ClassicCameras/batteries.html). [F. de Gruijter (PDF)](http://rick_oleson.tripod.com/batt_adapt_us.pdf) is probably the most detailed and authoritative on the issue, and the technical differences between battery types.
 
 ***
 
@@ -122,17 +144,34 @@ If you want to read more about each option or get into the discharge curves and 
 
 Courtesy of the [1981 Minolta Dealer's Repair Guide](https://www.pacificrimcamera.com/rl/00061/00061.pdf), you can figure out what batteries you need for your camera.
 
- *[Post-1985](https://www.mhohner.de/sony-minolta/bodies.php?ov=1#film)/Non-SLR Camera Battery List in Progress*
+ *[Post-1985](https://www.mhohner.de/sony-minolta/bodies.php?ov=1#film)Camera Battery List in Progress*
 
-|***Camera/Series***|***Battery***|***Alternatives***|
+|***SLR Series***|***Original Battery***|***Alternatives***|
 | :-: | :-: | :-: |
 | SRT's | 1x Mercury PX625 Button Cell | *See FFAQ Section Above* |
 | XK/XM/X1 | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
 | XE | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
+| XG | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N |
+| 110 Zoom SLR, MkII | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N |  
 | XD | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
-| XG | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
 | X-3/5/700 | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
 | X-600 | 2x AAA Batteries | *None* | 
+
+|***Rangefinder Series***|***Original Battery***|***Alternatives***|
+| :-: | :-: | :-: |
+| Hi-Matic 7, 7s, 9, 11 | 1x Mercury PX625 Button Cell | *See FFAQ Section Above* |
+| Hi-Matic 7sII | 1x Mercury PX675 Button Cell | *See FFAQ Section Above*   | 
+| Hi-Matic F, FP, CS, E | 1x Mercury PX640 Battery | *See FFAQ Section Above*   | 
+| Leitz-Minolta CL | 1x Mercury PX625 Button Cell | *See FFAQ Section Above* |
+| CLE | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
+
+|***Viewfinder/AF Series***|***Original Battery***|***Alternatives***|
+| :-: | :-: | :-: |
+| Hi-Matic 5 | 1x Mercury PX675 Button Cell | *See FFAQ Section Above*   | 
+| Hi-Matic C, G | 1x Mercury PX675 Button Cell | *See FFAQ Section Above*   | 
+| Hi-Matic S, S2, SD, SD2 | 2x AA Batteries | *None*   | 
+| Hi-Matic AF, AF2, AF2-M | 2x AA Batteries | *None*   | 
+
 
 ***
 
@@ -167,6 +206,8 @@ These are not set-in-stone truths, however. As time goes on, people get their ca
 - On turning the camera off and on again, the same symptoms repeat.
 
 In those cases, refer to the repair articles by [678vintagecameras](https://www.678vintagecameras.ca/blog/what-was-up-with-minolta-and-capacitors) (all affected models), [EverythingVintage](https://everythingvintage.uk/vintage-camera/minolta-xg-m-capacitor-replacement/) & [Andreas Thaler](https://www.photrio.com/forum/threads/minolta-xg-m-replacing-the-electrolytic-capacitors.203831/) (XG-M's), [High5Cameras](https://high5cameras.com/all-articles/repair/minolta-x-700-capacitor-replacement/) (X-700), and [Paul Beesley](https://www.paulbeesley.com/posts/minolta-x500x700-capacitor-repair) (X-500/300) for repairs if you are confident. If you aren't, you can also get them repaired professionally in most vintage camera repair shops.
+
+Sometimes you might have additional issues, such as Mirror Lock Up and Shutter Curtain Lock - refer to [this repair article by Gregpak](https://gregpak.com/i-did-the-minolta-x-370-capacitor-fix-and-then-i-discovered-the-real-problem/) to address this separate problem.
 
 
 ***

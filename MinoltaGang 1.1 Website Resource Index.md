@@ -414,6 +414,12 @@ Karl doesn't have a webpage or anything, but he comes [highly recommended](https
 
 ***
 
+**[Mike's SRT Tune Up Page](http://www.willegal.net/photo/srt/photo-srt.htm)**
+
+'Frugal Mike' covers some of his experiences understanding and repairing his SRT camera. Text-heavy, but very concise with his information. The highlight of his Tune-Ups is the [Mercury Cell Replacement Chart](http://www.willegal.net/photo/srt/srt-mercury.htm) that sums up pretty well what your options are and what the pros and cons are of each.
+
+***
+
 **[678 Vintage Cameras - What's up with Minolta Capacitors?](https://www.678vintagecameras.ca/blog/what-was-up-with-minolta-and-capacitors)**
 
 678 Vintage Cameras gives a complete rundown of the infamous capacitor issue, what models it affects, why, and how YOU can repair it, including links to the parts you'd need!
@@ -430,6 +436,12 @@ So, you've gone and replaced your camera's capacitor, but not the mirror locks u
 
 ***
 
+**[Andreas Thaler (Photrio) - Repairing an MD-1 Motordrive](https://www.photrio.com/forum/threads/minolta-md-1-motor-drive-release-problems-fixed.203217/)**
+
+Andreas covers every 'common' way an MD-1 can fail electronically, and how to fix them. In their case, they didn't know what exactly was causing the problem or what exactly fixed it. Depending on the issues you are facing, it could be all, some, or none of these methods that help, but worth documenting as there isn't much in the way of Motordrive repairs.
+
+***
+
 **[Learn Camera Repair - Minolta Service Manuals](https://learncamerarepair.com/productlist.php?category=2&secondary=7)**
 
 Learn Camera Repair is an excellent resource for learning to repair old cameras, includes a course to undertake to repair yourself, and hosts ton of repair guides and official service manuals from various camera companies. This link will take you directly to the Minolta Service Manuals Page.
@@ -439,12 +451,6 @@ Learn Camera Repair is an excellent resource for learning to repair old cameras,
 **[High5Cameras - Minolta Repair Articles](https://high5cameras.com/category/all-articles/repair/)**
 
 This small website primarily sells camera equipment, but I've linked it here for it's more important resource: Repair Articles written by Mel. This includes [an XG-1 Restoration](https://high5cameras.com/all-articles/repair/the-revenant-minolta-xg-1-restoration/), [X-700 capacitor replacements](https://high5cameras.com/all-articles/repair/minolta-x-700-capacitor-replacement/), and some common Minolta lens disassemblies. Scroll through!
-
-***
-
-**[Mike's SRT Tune Up Page](http://www.willegal.net/photo/srt/photo-srt.htm)**
-
-'Frugal Mike' covers some of his experiences understanding and repairing his SRT camera. Text-heavy, but very concise with his information. The highlight of his Tune-Ups is the [Mercury Cell Replacement Chart](http://www.willegal.net/photo/srt/srt-mercury.htm) that sums up pretty well what your options are and what the pros and cons are of each.
 
 ***
 
