@@ -2,12 +2,12 @@
 
 This covers all the best resources you could need to read up, learn, troubleshoot, or repair Minolta gear. Many of these are already on the Subreddit's menu links. This page allows for more links to be included, as well as a short description of what they actually are. This isn't exhaustive, but I'm striving to include at least a link to each site that allows anyone to dive further or pick up information at a glance. This is regularly updated and would always appreciate extra resource links if you know any! Just send a modmail and credit will be given where it's due for finding it.
 
-# [Back to Wiki Index](https://www.reddit.com/r/MinoltaGang/about/wiki/index)
+# [Back to Wiki Index](https://www.reddit.com/r/MinoltaGang/wiki/index/)
 
 ***
 
 I also recommend checking out these other Minoltapedia Resources;
-# [Frequently Asked Questions on Minoltapedia](https://www.reddit.com/r/MinoltaGang/about/wiki/index/minoltopedia/ffaq/)
+# [Frequently Asked Questions on Minoltapedia](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/)
 
 # [Guides on Minoltapedia](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/guides)
 
@@ -68,9 +68,13 @@ If r/minolta is the sister sub of r/MinoltaGang, the Discord is the brother comm
 **Federated Minoltagang - #minolta**
 
 In the same vein, here are a few #minolta tags on various opensource/federated social media platforms
+
 - **[Mastodon](https://mastodon.social/tags/minolta)** - A truly federated Twitter-alternative, before Bluesky was a thing.
+  
 - **[Pixelfed](https://pixelfed.social/i/web/hashtag/minolta)** - A federated version of Instagram when it was photography focused (pre-Reels/Stories).
+  
 - **[Minolta Lemmy](https://lemmy.world/c/minolta)** - A federated Reddit-alternative, a quiet backup in case Reddit breaks things.
+  
 - **[MinoltaGang BlueSky Feed](https://bsky.app/profile/atlonim.bsky.social/feed/aaacvhxrmf2e6)** - The Minolta Feed on BlueSky. Not truly Federated *yet*, but too big not to mention.
 
 ### Website Forums
