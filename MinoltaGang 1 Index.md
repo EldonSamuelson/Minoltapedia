@@ -1,5 +1,7 @@
-![](%%WikiContributor%%) 
+
 # Minoltapedia
+
+![](%%WikiContributor%%) 
 
 ## [Website Resource Index](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia)
 
@@ -19,8 +21,8 @@ Longer format guides are here, summarised from some of the pages found on the [W
 
 If **you** think something could be added, send a Modmail to r/minolta or r/MinoltaGang with the site or webpage you found! If it gets included, you'll be credited as a contributor and rewarded with the :WikiContributor: user flair!
 
-![](%%WikiContributor%%) 
+*If you are viewing this from [Github](https://github.com/EldonSamuelson/Minoltapedia), you can also make an [Issue Ticket](https://github.com/EldonSamuelson/Minoltapedia/issues) and it will be updated from there.*
 
-*If you are viewing this from [Github](https://github.com/EldonSamuelson/Minoltapedia), you can also make a Pull Request or Issue Ticket and it will be updated from there.*
+![](%%WikiContributor%%) 
 
 ***
