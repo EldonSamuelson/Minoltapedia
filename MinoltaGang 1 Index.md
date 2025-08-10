@@ -15,6 +15,10 @@ There are many common questions, so here's answers to some! Search the Table of 
 
 Longer format guides are here, summarised from some of the pages found on the [Website Resource Index](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia). All guides' resources are cited directly so you can follow up with details from the original authors.
 
+## [Troubleshooting](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/troubleshooting/)
+
+Common problems with some cameras and how to fix them.
+
 ***
 
 # The Wiki always needs YOU as a contributor!

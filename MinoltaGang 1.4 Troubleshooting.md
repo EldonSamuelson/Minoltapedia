@@ -24,6 +24,8 @@ This page tries to cover the most common problems that affect Minolta Cameras, a
 
 *Please see the relevant FFAQ on [SRT Mercury Battery Substitutions](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_what_batteries_can_i_use_for_an_srt_meter.3F)*
 
+***
+
 #### **Mirror Baffle Loose Flap**
 
 *What:* 
@@ -55,6 +57,8 @@ After fixing it with whatever method you choose, shoot the camera a few times at
 
 First experienced by myself (u/Superirish19), but also seen [here](https://www.reddit.com/r/minolta/comments/uf2ezt/is_it_normal_for_my_shutter_curtain_to_not_go_up/), [here](https://www.reddit.com/r/minolta/comments/18t951c/comment/kfe4fou/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1), [here](https://www.reddit.com/r/minolta/comments/1hzg8qv/issue_with_minolta_srt_101/), and [here](https://www.reddit.com/r/minolta/comments/1hzg8qv/comment/m6q1iun) where I fetched these examples from.
 
+***
+
 #### **Non-Responsive, Loose, or Sluggish Aperture Ring**
 
 *What:*
@@ -79,6 +83,8 @@ There can be a few causes;
 
 Personal experience, again from me (u/Superirish19), but independently on several different SRT's. It appears many 'broken' SRT's on EBay also have this issue.
 
+***
+
 ### XK/XM/X1
 
 #### **Mirror Locked Up/'Blackscreen' in Viewfinder**
@@ -100,6 +106,8 @@ If in the small likelihood you have done all these steps and the Mirror, or wors
 *Where:*
 
 First specified in [RokkorFiles](https://www.rokkorfiles.com/XK.html#:~:text=X%2D1%20called%20the-,Senswitch,-.%20Visible%20on). The other more serious issue if the Battery Compartment reset doesn't work, on [Photrio](https://www.photrio.com/forum/threads/unjamming-a-minolta-xk-xm-x1.147263/)
+
+***
 
 ### XE
 
@@ -129,6 +137,8 @@ Personally, I would advise taking a picture of the parts at each step of unscrew
 
 Initially, [Reddit](https://www.reddit.com/r/AnalogCommunity/comments/9codjn/minolta_xe_lightmeter_repair/). [Crescent Cameras](https://www.youtube.com/watch?v=M8e5MFq9zSM) also details this fix in it's entirety, and [I've posted about it once for myself](https://www.reddit.com/r/minolta/comments/1g7ce7l/before_and_after_xe_contact_oxidation_cleaning/)
 
+***
+
 #### Stiffening or Broken Power Switch
 
 *What:*
@@ -149,6 +159,8 @@ To fix it longterm, you need to disassemble the Top cover of the XE, specificall
 
 [Reddit](https://www.reddit.com/r/minolta/comments/1e9vxve/minolta_xe7_power_switch_stuck/), a [few times](https://www.reddit.com/r/minolta/comments/16zvi4r/onoff_switch_broken/). [I have performed the fix myself](https://www.reddit.com/r/minolta/comments/13z9kap/xe1_power_switch_and_sheared_screw_repair/), as well as the extra repair when I broke the Advance Lever Screwpiece. There's also other methods to fix the problem, like [drilling a metal pin into place of the teeth](https://www.reddit.com/r/minolta/comments/14cqhkk/fixed_my_xe7_onoff_switch/), or [melting one into place](https://i.imgur.com/quI3A8Z.jpeg).
 
+***
+
 ### XD
 
 placeholder piece: - XD (Mirror Dampener Sticky Piston Shutter Delay, Spool breaking, non responsive metering dial oxidation (less common))
@@ -164,6 +176,7 @@ placeholder piece: - XD (Mirror Dampener Sticky Piston Shutter Delay, Spool brea
 
 [Mike Eckman](https://mikeeckman.com/2021/06/minolta-xd11-1977/#:~:text=old%20and%20new.-,Repairs,-I%20have%20had)
 
+***
 
 ### XG
 
@@ -173,19 +186,27 @@ placeholder- XG, X-:100: (Capacitor shenanigans, I already have an FAQ on the wo
 
 *Please see the [Capacitor FFAQ Section](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_will_my_minolta_have_a_capacitor_problem.3F)*
 
+***
+
 ### X-Hundred (X-300/500/600/700)
 
 #### Meter/Shutter Non Responsive (Capacitor Failure)
 
 *Please see the [Capacitor FFAQ Section](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_will_my_minolta_have_a_capacitor_problem.3F)*
 
+***
 
 ## Minolta AutoFocus SLR Common Problems 
 - A-mounts (Not very much - sticky grip fixes/replacements, 7000 aperture magnet failure, a9 ti feature upgrade, a7 aperture gear replacements (already linked).
+
+***
 
 ## Minolta Rangefinder Common Problems 
 - LTM Minolta35's (Shutter Curtain Failure)
 - CL (Meter arm breaking off)
 - CLE (Spool breaking)
 
+***
+
 ## Minolta Lens Common Problems
+- Certain M-Rokkors getting schniederitis (bad), and certain early SR-mount lenses having aluminium acne on bushings (not so bad)
