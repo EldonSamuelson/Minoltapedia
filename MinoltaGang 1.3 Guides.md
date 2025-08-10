@@ -60,7 +60,7 @@ The Letter represents the month it was produced.
 > 
 > SR-3(2a), SR-1(3) - SRD/SRC
 > 
-> SR-1(4a) - SRD/SRC (Minolta added the meter mount to the SR-1(3)
+> SR-1(4a) - SRD/SRC (Minolta added the meter mount to the SR-1(3))
 
 ***
 
@@ -109,6 +109,10 @@ After this, your Alpha/Dynax/Maxxum 9 should now have the extra Custom Functions
 ***
 ### Internal (Reddit Guides)
 
+#### [u/BigRobotBil: Fixing an MD-1 Motordrive](https://www.reddit.com/r/minolta/comments/1cix2mj/comment/l2ifxkh/)
+
+In answering [a problem another user had with their Motordirve](https://www.reddit.com/r/minolta/comments/1cix2mj/minolta_x700_and_motor_drive_1_not_auto_winding/), u/BigRobotBil covers how to replace a faulty capacitor within it, as well as [providing a secondary source on Photrio](https://www.photrio.com/forum/threads/minolta-md-1-motor-drive-release-problems-fixed.203217/) for all manner of other Motordrive electrical issues.
+
 #### [u/DeadlySwan: How to Disassemble an Alpha/Dynax/Maxxum 9xi](https://www.reddit.com/r/minolta/comments/udg6fe/how_to_disassemble_a_maxxumdynax_9xi/)
 
 u/DeadlySwan has written up an excellent short piece on how to disassemble the panels off one of the AF Minolta bodies, with step-by-step images to accompany it. This is particularly important as there is no other guide online, so it's also been [archived](https://web.archive.org/web/0/https://www.reddit.com/r/minolta/comments/udg6fe/how_to_disassemble_a_maxxumdynax_9xi/) in case it is ever lost.
@@ -123,7 +127,7 @@ This has been followed up by **an experimental method** proposed below by u/Chri
 
 u/ChristPVille has kindly provided an updated, **albeit experimental method** to repair and replace the Aperture Drive Assembly Gear on the Maxxum 7 without having to teardown the entire camera. The complete writeup and Guide is on [Dyxum](https://www.dyxum.com/dforum/dynax-alpha-7-aperture-repair-easy-mode_topic144604.html). It does require some 'destructive maintenance' that *can risk breaking the camera internals* in the process, but it's far easier to tackle the common failure point of this camera with this method. There is a curing process for the glue used that takes 24 hours, but the delicate replacement operation can be complete in as little as 15-20 minutes.
 
-The author wants to re-iterate that this is an **experimental repair**. Long term results on the longevity of the repair are not known at this time, so only practice this method if you already own the camera with a broken gear shaft.
+The author warns that this is an **experimental repair**, but has seen long term success since the original posting date. Only practice this method if you already have one with a broken gear. Additionally, [EBay listings are starting to come up with bodged repairs](https://www.reddit.com/r/minolta/comments/1fa3fh5/comment/n6oxuw1/), so I will re-iterate **BE CAREFUL WITH YOUR REPAIRS AND ONLY ATTEMPT IF CONFIDENT**, and take it to a professional if you don't think you can do it yourself.
 
 ***
 ## Lens Guides
