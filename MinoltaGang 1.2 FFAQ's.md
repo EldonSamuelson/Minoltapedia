@@ -2,11 +2,11 @@
 
 This page holds a lot of FAQ's to answer some common questions about Minolta cameras. Please see the respective question for the original source(s) of the information.
 
-# [Back to Index](https://www.reddit.com/r/MinoltaGang/wiki/index/)
+## [Back to Index](https://www.reddit.com/r/MinoltaGang/wiki/index/)
 
 ***
 
-### **Disclaimer** 
+### **Disclaimer**
 
 *Some of these FFAQ's deal with DIY repairs and modifications. **These can damage equipment permanently if you aren't careful**!*
 
@@ -15,6 +15,7 @@ This page holds a lot of FAQ's to answer some common questions about Minolta cam
 As a side note, I strongly recommend reading and taking the Learn Camera repairs' [Camera Repair Course](https://learncamerarepair.com/productlist.php?category=1) offered before attempting **any** repairs if you aren't familiar with fixed delicate complicated equipment.
 
 ## Camera FFAQ's
+
 ***
 
 ### **What is the *best* Minolta SLR?**
@@ -25,7 +26,7 @@ So, you want a Minolta Manual Focus SLR - but the information out there is confu
 
 *Difficulty making out the text? Click the Image above to see clearer on the original Reddit post, or [click here](https://imgur.com/a/OA8AeMz) for the original resolution images. You can also Right Click > 'Open Image in New Tab' to zoom into this image if you like.*
 
-Bear in mind that the chart is a simplification - it separates models and variants by sometimes only a single feature, but there might be more behind the camera. When you reach a final recommendation, it's a good idea to research the model to confirm it is the future Minolta SLR of your dreams. You can use [Minman's Archived SLR Comparison page](https://web.archive.org/web/20231001114811/http://subclub.org/minman/slrtable.php) to learn more about your speciifc model and variant.
+Bear in mind that the chart is a simplification - it separates models and variants by sometimes only a single feature, but there might be more behind the camera. When you reach a final recommendation, it's a good idea to research the model to confirm it is the future Minolta SLR of your dreams. You can use [Minman's Archived SLR Comparison page](https://web.archive.org/web/20231001114811/http://subclub.org/minman/slrtable.php) to learn more about your specific model and variant.
 
 If you are looking for a Minolta AutoFocus SLR's, I would recommend using [MHohner's A-Mount Film Table](https://www.mhohner.de/sony-minolta/bodies.php?#film)
 
@@ -52,7 +53,7 @@ Starting simply with just series name differences, the names of these changed de
 
 ### **Why do some SRT Models have different features?**
 
-So we have the general series names, but Minolta developed the SRT throughout their production. Some have Mirror Lock Up's, Hotshoes, Split Prism Viewfinders, or Film Tab Holders, and some don't have any of these features at all! Even the CLC metering system that the SRT is known for was removed in the very latest models. It's very complicated, often confusing, and can be a real nuisance when you are looking for the 'best' SRT for you when there's 2-5 different versions of the SRT Model.
+So we have the general series names, but Minolta developed the SRT throughout their production. Some have Mirror Lock-Up's, Hotshoes, Split Prism Viewfinders, or Film Tab Holders, and some don't have any of these features at all! Even the CLC metering system that the SRT is known for was removed in the very latest models. It's very complicated, often confusing, and can be a real nuisance when you are looking for the 'best' SRT for you when there's 2-5 different versions of the SRT Model.
 
 There's an entire community devoted to surveying SRT variants and you can go down a very deep rabbit hole if you want. For simplicity this compiles the information from a few resources and splits them into 6 Stages:
 
@@ -85,7 +86,7 @@ SRT's used to use 'PX625' Mercury Batteries which no longer exist today. Here's 
 There are 2 Tables, 'Dumb' and 'Smart'. The 'Dumb' table methods are simpler, cheaper, but might not be the most reliable method for adaptation. The 'Smart' tables are more permanent modifcations or adaptors, but will be more expensive or require some DIY experience to do yourself. 
 Each table is ordered by how easy it is to complete the option - the first you could do with the camera in your hands right now. Each have their pros and cons, and the one **is illegal** in most countries, but you can weigh the options and decide which one suits your needs (except *that* one - that is objectively a bad option unless you live in Russia). *Some links allow for each option's purchase, but I am not affiliated with or recommending any of them by having them on the table.*
 
-**Dumb Table**
+#### **'Dumb' Table**
 
 |***Type***|***Option***|***Ease***|***Voltage & Battery Drain***|***Metering Consistency***|***Cost***|***Source(s)***|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -99,7 +100,7 @@ Each table is ordered by how easy it is to complete the option - the first you c
 
 \* *Dumb and Smart Adaptor rings can be distinguished by their simplicity. Dumb rings are just [a chunk of metal, usually brass](https://i5.walmartimages.com/seo/4Pcs-MR-9-Battery-Adapter-for-Film-Camera-Exposure-Meter-MR9-PX625-PX13-Fits-for-LR44-1-4V-Zinc-Air-Battery-CE0730X2_f281e6c6-7d3c-4b22-8a70-79664f685ca5.2ddba70496d9710752d886f42e3c9b2e.png). Smart Rings [have component parts](https://image.jimcdn.com/app/cms/image/transf/none/path/s00ef515e3cd3b5d3/image/ifa56619ca8d24d4b/version/1631562360/image.jpg). Unfortunately both are named 'MR9', so be careful to check!*
 
-**Smart Table**
+#### **'Smart' Table**
 
 |***Type***| ***Option***| ***Ease***|***Voltage & Battery Drain***|***Metering Consistency***|***Cost***|***Source(s)***|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -117,7 +118,7 @@ Each table is ordered by how easy it is to complete the option - the first you c
 
 Some Hi-Matics similarly used to use 'PX675' or 'PX640' Mercury Batteries which no longer exist today. Since the required Voltage for 675's was also 1.35V, some people just adapt with similar methods to the SRT's 625 replacements. The 640's also were 1.35V, but they are different shape. Fortunately, it appears Hi-Matics that used PX640's had voltage regulators, so the modern 1.5V replacement batteries should work fine. If you want a more specific tailored mercury substitute, see the short table below.
 
-**Rangefinder Table**
+#### **Rangefinder Table**
 
 |***Type***| ***Option***| ***Ease***|***Voltage & Battery Drain***|***Metering Consistency***|***Cost***|***Source(s)***|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -125,8 +126,7 @@ Some Hi-Matics similarly used to use 'PX675' or 'PX640' Mercury Batteries which 
 |**'Smart' Advanced MR44 Battery Adaptor**| Kanto MR44 Adaptor + Silver Oxide 392/SR41 Battery: *PX675 Replacement*| A Little Difficult. Batteries common, adaptor hard to source online |1.35V, Stable|Very consistent|Very expensive, recouped with battery use | [KantoCamera (JPN)](https://www.kantocamera.com/english/adapter/adapter_en.html), [SmallBatCo (UK)](https://www.smallbattery.company.org.uk/sbc_mr44_adapter.htm)|
 |**Alkaline/Silver Oxide Battery Subsitution PC640A**| PC640A or PX640A Battery: *PX640 Replacement* | Easy. Batteries common online|1.5V *Voltage regulated by camera*|Very consistent|Somewhat Cheap| [BatteriesInAFlash (US)](https://www.batteriesinaflash.com/audio-video-electronics-equipment/exell-a640px-1-5v-alkaline-battery-px640a-en640a-epx640a-lr52), [SmallBatCo (UK)](https://www.smallbattery.company.org.uk/sbc_pc640a.htm)|
 
-
-**Why Did They Use Mercury in the First Place?**
+***Why Did They Use Mercury in the First Place?***
 
 When SRT and Hi-Matic cameras were released between 1966 and 1981, Mercury-Oxide batteries were already in popular use for mobile electronics because of their long shelf life, large energy capacity, and stable voltage output at 1.35 Volts. The Mercury acted as a stabiliser for the chemical reaction, so they held their charge for a very long time, and didn't explode or leak (*very often*). 
 
@@ -172,31 +172,28 @@ Courtesy of the [1981 Minolta Dealer's Repair Guide](https://www.pacificrimcamer
 | Hi-Matic S, S2, SD, SD2 | 2x AA Batteries | *None*   | 
 | Hi-Matic AF, AF2, AF2-M | 2x AA Batteries | *None*   | 
 
-
 ***
 
 ### **Will My Minolta Have a Capacitor Problem?**
 
-It depends! 
+It depends!
 
 - **SR & SRT** models are mechanically operated, meaning they don't need capacitors in the first place to power anything.
-- **XK's, XE's, and XD's** don't get capacitor issues. *The cameras can still fail and stop working*, of course, but capacitors are not expected to be the cause of failure in those models, as they had more reliable Tantalum capacitors that look like a bulbous blue berry. 
+- **XK's, XE's, and XD's** don't get capacitor issues. *The cameras can still fail and stop working*, of course, but capacitors are not expected to be the cause of failure in those models, as they had more reliable Tantalum capacitors that look like a bulbous blue berry.
 - **XG's** were more likely to have Tantalum capacitors, but it's not guaranteed. You can identify Tantalum caps by their blue bulbous look. The ones to be concerned about are the Aluminium capacitors, that are a cylindrical black or dark blue. [Here's a comparison](https://i.imgur.com/K8yWc1x.png).
 
 Solid Tantalum Electrolytic Capacitors (STEC's) are more reliable and longer lasting, but more expensive to produce. Aluminium Liquid Electrolytic Capacitors (ALEC's) are far cheaper, but less reliable. In the 80's, Tantalum prices went up, so STEC's got replaced with ALEC's. This happens to coincide with releases of Minolta cameras at the time, and as remaining STEC stock ran out, the ALEC's became standard.
 
 The models to be aware of for capacitor problems are;
 
-- ***Some* later model XG's** - It's more likely that the XG models with the [new Minolta logo](https://static.wikia.nocookie.net/camerapedia/images/8/82/MinoltaXG1.jpg/revision/latest?cb=20110202213840) *are more likely* to have Aluminium capacitors, but it is not a guaranteed method of testing. You will only be certain by taking off the base plate of the camera, or if the camera is exhibiting classic signs of capacitoritis. 
- - Older XG Minoltas with the [lower-case logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCKFN2fdFJ8AES8TtRHstrQHD4Wc_NsBDQw6hL-8kqVmka8ucDTasGzYdJJEoELXbKEvepHImoo4ieHzhBOjFqgfPG84wBoKWcma-DlmNs9YDZ5KMQn1suT2pI55as6WgqN5ybrPkfqtO/s1600/P1029730.jpg) are less likely to encounter issues, but also don't have the same circuitry. If you experience capacitoritis problems, the capacitor is [located similar to the X-700's](https://www.678vintagecameras.ca/uploads/6/6/3/7/66371031/img-20190205-102214_1_orig.jpg). 
-
-- ***Most* X-300/370's** - They were the budget alternative to the X-700, so they weren't expected to be used for long (40 years). Also by the time they released in 1984, by then Minolta had used most of their remaining Tantalum capacitors. Again though, only checking underneath the baseplate will confirm this.
-
+- ***Some* later model XG's** - It's more likely that the XG models with the [new Minolta logo](https://static.wikia.nocookie.net/camerapedia/images/8/82/MinoltaXG1.jpg/revision/latest?cb=20110202213840) *are more likely* to have Aluminium capacitors, but it is not a guaranteed method of testing. You will only be certain by taking off the base plate of the camera, or if the camera is exhibiting classic signs of capacitoritis.
+- Older XG Minoltas with the [lower-case logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCKFN2fdFJ8AES8TtRHstrQHD4Wc_NsBDQw6hL-8kqVmka8ucDTasGzYdJJEoELXbKEvepHImoo4ieHzhBOjFqgfPG84wBoKWcma-DlmNs9YDZ5KMQn1suT2pI55as6WgqN5ybrPkfqtO/s1600/P1029730.jpg) are less likely to encounter issues, but also don't have the same circuitry. If you experience capacitoritis problems, the capacitor is [located similar to the X-700's](https://www.678vintagecameras.ca/uploads/6/6/3/7/66371031/img-20190205-102214_1_orig.jpg).
+- ***Most* X-300/370's & X-500/570's** - They were the budget alternative to the X-700, so they weren't expected to be used for long (40 years). Also by the time they released in 1983 and '84 Minolta had used most of their remaining Tantalum capacitors. Again though, [only checking underneath the baseplate will confirm this](https://i.imgur.com/K8yWc1x.png).
 - ***Most* X-700's** In the first few runs of the camera, The X-700 was given the expensive more reliable STEC/Tantalum capacitors because it was the 'Pro' camera which was expected to be reliable. That means *very early* X-700's below serial no. 20xxxxxx got reliable capacitors and don't have issues. However, X-700's were made until the 1990's, so all later serial numbers got the less reliable ALEC's. To make it worse, X-700's have *x2* capacitors that can fail, and [in difficult places to reach](https://i.imgur.com/jLbdaZx.png) for DIY repairs.
 
 These are not set-in-stone truths, however. As time goes on, people get their cameras repaired. You might find any of these cameras with a freshly replaced capacitor from today. These are still ALEC capacitors, but with far better reliability than ones built 50 years ago.
 
-**Should I Replace My Capacitors Anyway?**
+#### **Should I Replace My Capacitors Anyway?**
 
 *You should only replace the capacitor if the symptoms of a dying/dead capacitor are apparent!!!*
 
@@ -209,9 +206,10 @@ In those cases, refer to the repair articles by [678vintagecameras](https://www.
 
 Sometimes you might have additional issues, such as Mirror Lock Up and Shutter Curtain Lock - refer to [this repair article by Gregpak](https://gregpak.com/i-did-the-minolta-x-370-capacitor-fix-and-then-i-discovered-the-real-problem/) to address this separate problem.
 
-
 ***
+
 ## Lens FFAQ's
+
 ***
 
 ### **What Do Letters On MC Rokkor Lenses Mean?**
@@ -243,17 +241,18 @@ The F in '*PF*' means 6 Elements
 
 So if P means *Penta* groups and the F means 6 Elements, the Lens has 6 Element in 5 Groups!
 
-**Between Two Similar Lenses, Can This Infer Quality?**
+***Between Two Similar Lenses, Can This Infer Quality?***
 
-Sort of. 
+*Sort of.*
 
-Earlier original SR lenses like the 35mm W.Rokkor QE f/4 (*5 Elements in 4 Groups*) were slower compared to the later 35mm MC W.Rokkor HH f/1.8 (*8 Elements in 7 Groups*). You also see this with the MC-Rokkor PG lenses with 1 extra Element being ~1/3 of a stop faster than their PF counterparts, but then the focus is harder to make at that extra stop gained because it gives a narrower Depth of Field. 
+Earlier original SR lenses like the 35mm W.Rokkor QE f/4 (*5 Elements in 4 Groups*) were slower compared to the later 35mm MC W.Rokkor HH f/1.8 (*8 Elements in 7 Groups*). You also see this with the MC-Rokkor PG lenses with 1 extra Element being ~1/3 of a stop faster than their PF counterparts, but then the focus is harder to make at that extra stop gained because it gives a narrower Depth of Field.
 
 For later MD lenses this information isn't helpful, as no MD Lens has this naming feature. You'd have to look up that information online, but then you'd find many MD Lenses have *less* Elements and Groups than their earlier MC counterparts, but are faster or considered generally better. This is because of their more advanced glass coatings which came later with the MD lenses.
 
 If you want to read more about it, you can check out Minolta Lens Designations by [Dennis Lohmann](http://minolta.eazypix.de/lenses/index.html#clas) or by [Henrik Robeck](http://minolta.rokkor.de/lensdesignations.htm). You can also read more generally into Minolta Lenses by [Rokkorfiles](http://www.rokkorfiles.com/Lens%20History.html) and [Minman](https://web.archive.org/web/20211021170337/http://www.subclub.org/minman/slrlens.htm) which refer to the Lens Designations and their eventual removal when MC-III (aka 'Rokkor-X') and MD lenses started production.
 
 ***
+
 ### **Why Does My Lens Not Fit On My Minolta?**
 
 There is a very common mistake that any lens that says 'MC' on it is for Minolta mount cameras. Unfortunately this isn't true and can lead to compatibility problems. Here's how to make sure a lens is definitely for Minolta Manual Focus! (AKA SR mount);
@@ -264,10 +263,14 @@ There is a very common mistake that any lens that says 'MC' on it is for Minolta
 - If it just says ['MC' on the front ring](https://allphotolenses.com/public/files/img/348f90a614fca58ec351417edfe6df79.jpg) like this, that is not a reliable way to tell the mount of the lens. This is an M42 lens, not for SR.
 - To reiterate, Minolta MC doesn't mean '[Multi-Coated](https://allphotolenses.com/public/files/img/93932177ffa230b1af7be64aaa531d1c.jpg). This is also a non-compatible lens.
 - If it says [MC Rokkor](https://allphotolenses.com/public/files/img/6fbfa2bd7b52ba1705e68c15cf32a6cc.jpg), [MC-Rokkor-X](https://lens-db.com/wp-content/uploads/2017/12/20110625-008-XL.jpg), or [MC Rokkor-*XY*](https://phillipreeve.net/blog/wp-content/uploads/2016/03/Minolta_MC_50mmf1p4-1.jpg) alongside the Minolta name, it is compatible.
+
 #### MD Lens Identification
+
 - Minolta was the only one to make MD lenses, so it will say [MD-Rokkor](http://allphotolenses.com/public/files/img/b0bba957fc9ed5c2cba6978ecc16a433.jpg), [MD Rokkor-X](https://radojuva.com/wp-content/uploads/2022/08/minolta-md-rokkor-x-50mm-1-7-1.jpg), or just [MD](https://images.sellbrite.com/production/58025/305/7e35295f-87cc-5748-a40e-3fa8884c4ef5.jpg) on the front ring, alongside the Minolta name.
 - It means 'Meter Diaphragm', for Program and Shutter Priority modes of later Minolta cameras.
-#### Rear Lens Identification
+  
+#### Rear Minolta Lens Identification
+
 - Minolta SR (MC/MD) mount changed a couple of times during development, but it has always looked relatively the same. It always has had [a 3-pronged bayonet](https://japb.net/wp-content/uploads/2022/03/SR1.jpg), with the aperture linkage (2) opposite the bayonet with the nick in it (1). 
 - Later [MC Rokkor and MD lenses](https://japb.net/wp-content/uploads/2022/03/MD1.jpg) got the aperture meter coupling tab (4) and minimum diaphragm tab (5), respectively
 
@@ -284,6 +287,7 @@ This is mostly for posterity, as these older SR lenses are so old that they aren
 
 - [Auto Rokkor (SR-AR)](http://minolta.rokkor.de/lens/normals/552ar132front.jpg) lenses lack the MD and MC tabs, and the aperture linkage is very long. The very old ones have the linkage connected to a ring that rotates along outside, instead of the tiny linkage you see on later Minolta lenses. They almost always say 'Auto Rokkor' and no one made any 3rd party copies, so they aren't easy to confuse.
 - [Original SR](https://allphotolenses.com/public/files/img/a47ec1a0810970ecdeef2bd27d2a09fe.JPG) were the very first Minolta SR mount lenses, and lack even the aperture linkage. They always say 'Rokkor-*XY*'. There were very few 3rd party manufacturers making Minolta lenses this early, and you'll likely never see one to get confused about them in the first place.
+
 ***
 
 ### **Are There Radioactive Minolta Lenses?**
@@ -291,7 +295,6 @@ This is mostly for posterity, as these older SR lenses are so old that they aren
 From Geiger counter testing by members of the Minolta Collectors' Group on Facebook, there are known to be only 4 radioactive lenses made by Minolta.
 
 These 4 are radioactive because their glass elements contained Thorium or Lanthanum, periodic Elements that have a high [refractive index](https://en.wikipedia.org/wiki/Refractive_index). Thorium/Lanthanum glass reduced Chromatic Aberrations, by stopping light splitting and dispersing as it passes through the glass (think *Dark Side of the Moon by Pink Floyd*). As a side effect, it made the lenses mildly radioactive since the glass could be made of up the 30% of radioactive Elements. Based on these lens surveys however, they are only *very mildly* radioactive. We'll get to that later.
-
 
 All of this data in these tables was by researched members of the [Minolta Collector's Group on Facebook](https://www.facebook.com/groups/minoltacollectors/permalink/5314503005255341/), and the original post by Maury J. goes more into detail on the general methodology for measuring radioactivity.
 
@@ -306,8 +309,7 @@ All of this data in these tables was by researched members of the [Minolta Colle
 
 \[\*\*] *The average is calculated for only 4/6 radioactive lenses that had available measurements taken.*
 
-
-**Is the 85mm f/1.7 Lens Radioactive too?**
+#### **Is the 85mm f/1.7 Lens Radioactive?**
 
 There were rumours that a fifth lens (an MC-Rokkor 85mm f/1.7) might be radioactive, however there's no proof that Minolta made a radioactive 85mm lens. [The original claim](https://web.archive.org/web/20120414014001/http://www.dg77.net/photo/x500/mc85.htm) cited an MC-I version of the 85mm lens used radioactive components, but there isn't an [85mm MC-I model in existence](http://minolta.eazypix.de/lenses/index.html#:~:text=1970-,mc%20ii,-647).
 
@@ -319,11 +321,11 @@ Unfortunately the myth of a radioactive 85mm lens persisted and spread, includin
 
 \* *20 MC-II models were surveyed, including an extremely early production serial number of the lens, yet none were found to be radioactive.*
 
- **What about \[*Insert any other Minolta Lens*]**?
+#### **What about \[*Insert any other Minolta Lens*]?**
 
-Is it on the list? Then probably not.
+Is it on [the list](#are-there-radioactive-minolta-lenses)? Then probably not.
 
-Radioactive lenses were only used by Minolta in an early and short period of time (60's - early 70's) before lens designs and manufacturing got better. They were also more expensive to produce, so across all lens manufacturers they were mostly restricted to Prime lens ranges used by professionals (24-35mm, 85-100mm, fast lenses <f/2.8). That means a common MD 50mm f/2 lens made in the late 1980's is almost certainly not going to radioactive. 
+Radioactive lenses were only used by Minolta in an early and short period of time (60's - early 70's) before lens designs and manufacturing got better. They were also more expensive to produce, so across all lens manufacturers they were mostly restricted to Prime lens ranges used by professionals (24-35mm, 85-100mm, fast lenses \< f/2.8). That means a common MD 50mm f/2 lens made in the late 1980's is almost certainly not going to radioactive.
 
 *However...*
 
@@ -335,9 +337,9 @@ We only know table of radioactive lenses above because they were tested by the c
 
 So, some Minolta lenses are radioactive. But are they dangerous? Not at all. These are measured with the detector right up to the glass, whereas the strength of radioactivity decreases rapidly with distance from the source. At 1 metre or 3 feet away from the back of the lens pointed at you, there is no detectable radioactivity. If you put the lens cap on or mounted it on a camera, the radioactivity distance would be reduced to just that space inside.
 
- For a [comparison of Radioactivity](https://upload.wikimedia.org/wikipedia/commons/2/20/Radiation_Dose_Chart_by_Xkcd.png), an average daily Background Radiation dose is between 2-10 μSv, a Dental X-Ray is 5 μSv, a Chest X-Ray is 20 μSv. A yearly dose that is clearly linked to increased cancer risk is 100 *m*Sv. Let's do some math;
+For a [comparison of Radioactivity](https://upload.wikimedia.org/wikipedia/commons/2/20/Radiation_Dose_Chart_by_Xkcd.png), an average daily Background Radiation dose is between 2-10 μSv, a Dental X-Ray is 5 μSv, a Chest X-Ray is 20 μSv. A yearly dose that is clearly linked to increased cancer risk is 100 *m*Sv. Let's do some math;
 
- 100 mSv / 6 μSv per hour = 16,666 Hours, or 694 Days. Even if you strapped the rear element of the most radioactive MC Rokkor-PG 58mm lens to your body for an entire year, you couldn't increase your risk of cancer. You are safe.
+100 mSv / 6 μSv per hour = 16,666 Hours, or 694 Days. Even if you strapped the rear element of the most radioactive MC Rokkor-PG 58mm lens to your body for an entire year, you couldn't increase your risk of cancer. You are safe.
 
 ***
 
@@ -382,6 +384,7 @@ I.E. [They look like this](https://preview.redd.it/xt7jo8enjwzc1.jpeg?width=960&
 Those are from a Microfilm/Microfiche Reader-Printer. You can [remove the Prism](https://forum.mflenses.com/quite-an-unusual-minolta-lens-t78657.html#1506657) and with some careful adaptation can be used a highly magnifying Macro lens. You can also just [use them with the original equipment they were designed for](https://www.microfilmworld.com/pre-ownedminoltarp600zmicrofichereaderprinter.aspx), if MicroFiche Readers are your thing.
 
 ## Miscellaneous
+
 ***
 
 ### **What's the deal with 'Minolta Digital' and MND cameras?**
