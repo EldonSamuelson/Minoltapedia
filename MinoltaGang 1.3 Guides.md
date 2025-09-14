@@ -2,13 +2,13 @@
 
 This page holds a few Guides to cover specific features not normally possible with Minolta cameras. Please see the respective section for the original source(s) of the information.
 
-# [Back to Index](https://www.reddit.com/r/MinoltaGang/wiki/index/)
+## [Back to Index](https://www.reddit.com/r/MinoltaGang/wiki/index/)
 
 ***
 
-### **Disclaimer** 
+### **Disclaimer**
 
-*Some of these guides deal with DIY modifications, and software/firmware updates of cameras. **These can damage equipment permanently without being careful and following instructions**! 
+*Some of these guides deal with DIY modifications, and software/firmware updates of cameras. **These can damage equipment permanently without being careful and following instructions**!
 
 *This information is offered on the assumption that you already have some experience fixing cameras and are confident in your abilities to not cause further damage to your gear. As such, the authors of the links and the Minoltapedia are not responsible for any damages, injury, or expenses in repairs caused by following advice linked below unprepared.*
 
@@ -24,43 +24,60 @@ Placeholder - Open the Baseplate and you will see a Number and Letter Code.
 
 The Number represents the last year of a certain decade, i.e. '6' could be 1966, '76, '86... So you'll need to know the Series' production ranges to narrow it down.
 
-| ***Series*** | SR, >1962* | SRT | XK/XM/X1** | XE | XD |  XG | X-700 | X-500 | X-300*** | X-300s/370n*** |
+| ***Series*** | SR, > 1962* | SRT | XK/XM/X1** | XE | XD |  XG | X-700 | X-500 | X-300*** | X-300s/370n*** |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | ***Year Range*** | 1958-1971 | 1966-1981 | 1972-1984 | 1974-1977 | 1977-1981 | 1977-1984 | 1981-2001 | 1983~1985 | 1984~2006 | 1990-2006 |
 
 \*\* The XK has an additional number code - 1 = Made for Japan, 2 = Made for EU, 3 = Made for US. It's redundant though as the model name also tells you this.
 
-\*\*\* The X-300 and X-300s were licensed to Seagull in China in 2005, where they continue to be made today under the Seagull DF300 name. It is unclear if they continue the date-code system beyond then.
+\*\*\* As the Date-code system doesn't define decades, you will have trouble narrowing down the exact year (i.e. An X-300 '4-L' could mean December 1984, 1994, or 2004). The X-300 and X-300s were licensed to Seagull in China in 2005, where they continue to be made today under the Seagull DF300 name as well as [other spinoff names](https://web.archive.org/web/20250522124725/http://www.subclub.org/minchin/). It is unclear if they continue the date-code system beyond then.
 
-The Letter represents the month it was produced. 
+The Letter represents the month it was produced.
   
 | ***Letter*** | A | B | C | D | E | F | G | H | I | J | K | L |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |***\# of Month*** | 1 | 2| 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 | ***Month*** | January | February | March | April | May | June | July | August | September | October | November | December |
 
+\* The SR series was a first for Minolta, and didn't follow the date-code system in the same way until the early 60's.
 
-\* The SR series was a first for Minolta, and didn't follow the date-code system in the same way until the early 60's. 
+#### How to Date/Model-Check an SR Camera
 
-*Placeholder* Cite Hachi, RokkorFiles
+When Minolta started out, they didn't have a dating system for tracking their cameras or lenses - even today the serial numbers aren't that useful on their own without having a *lot* of others to compare against. Until July 1962 ('2-G') and the release of the SR-7 and the 5th version of the SR-1, they didn't have year-month datecodes to use.
 
-> Under the base cover, there is a stamp in the case metal. That is the base code. Under the mount cowl, the is a stamp in the metal of the mount/mirror housing. That is the mount code. 
-> 
-> Base Code/Mount Code.
-> 
-> SR-2(1) - None/None
-> 
-> SR-2(2a) - SR2/None
-> 
-> SR-2(2b), SR-1(1) - SR2/SRB
-> 
-> SR-3(1a), SR-1(2a) - SRC/SRC
-> 
-> SR-3(1b), SR-1(2b) - SRC./SRC
-> 
-> SR-3(2a), SR-1(3) - SRD/SRC
-> 
-> SR-1(4a) - SRD/SRC (Minolta added the meter mount to the SR-1(3))
+In 1959, they had only just released the SR-2 and didn't need datecodes or identifiers beyond a serial number. In 1960 with the release of the SR-1 and the 2nd version of the SR-2, they needed something to identify them by part codes. They opted for a Base Code stamped into the chasis, and a Mount Code stamped underneath the mount ring cover. [Here's what they look like](https://i.imgur.com/l7wlEPr.png). It didn't mark a date, just a camera model revision in some way. In 1962 with various models and variants released, they had finally settled on [the datecode system](#how-to-date-check-a-minolta-camera).
+
+|**Model *(Variant*)***|***Notable Feature***|***Base Code***|***Mount Code***|***Release Date***|***Date Code (>1962)***|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|SR-2 (*A*)|-|-|-|Oct 1958|-|
+|SR-2 (*B*)|-|SR2|-|*?*|-|
+|SR-1 (*A*)|Unevenly distributed shutterspeed dial|SR2|SRB|Jul 1959|-|
+|SR-2 (*C*)|-|SR2|SRB|*?*|-|
+|SR-1 (*B*)|Evenly distributed shutterspeed dial|SRC|SRC|Aug 1960|-|
+|SR-3 (*A*)|External Meter Mount Attachment|SRC|SRC|Aug 1960|-|
+|SR-1 (*C*)|Auto Aperture reset after shot|SRC.|SRC|Apr 1961|-|
+|SR-3 (*B*)|Auto Aperture reset after shot|SRC.|SRC|Aug 1961|-|
+|SR-1 (*D*)|External Meter Mount Attachment|SRD|SRC|Aug 1961|-|
+|SR-3 (*C*)|-|SRD2|SRC|Aug 1961|-|
+|SR-7 (*A*)|Built-In Meter (not TTL)|SRE|SRE|Jul 1962|2-G|
+|SR-1 (*E*)|Film counter on the right like the SR-7|SRE|SRE|Jul 1962|2-G|
+|SR-7 (*B*)| TO DO|SRE|SRE|TO DO |TO DO|
+|SR-1 (*F*)|aka SR-1 V model|SRE|SRE|TO DO |TO DO|
+
+
+\* These are not variants as detailed in the [SLR Chart](link), but variants by the model codes. Some do match up though, e.g. The SR-1.
+
+Cite [RokkorFiles](https://www.rokkorfiles.com/SR%20Series.htm) and the [Minolta Collector's Facebook Group](https://www.facebook.com/groups/minoltacollectors/posts/6110919888946978/?comment_id=6111360632236237) and [Andrea](https://www.facebook.com/groups/minoltacollectors/permalink/749968528375501/)
+
+>SR-7(2a), SR-1(6a) - SRE/SRE (a few external changes)
+>
+>SR-7(2b), SR-1(6b) - SRE2/SRE
+>
+>SR-7(2c), SR-1(6c) - SRE2/SRE2
+>
+>SR-7(3a), SR-1(7a) - SRE2/SRE2 (a few more external changes)
+>
+>SR-7(3b), SR-1(7b) - SRE3/SRE2
 
 ***
 
@@ -89,14 +106,14 @@ This information was originally discovered and provided by Matthias Paul on the 
 - Close and Lock the Battery Door, still holding the Manual-Rewind Button.
 - Once the Battery Door is closed, release the Manual-Rewind Button.
 - **Read the Disclaimer above, again.**
-- **DO NOT PRESS ANY BUTTONS EXCEPT AS DIRECTED AT THIS POINT**. 
-    - *The Diagnostics Mode has been activated, all the LCDs should be lit up, including the red AF marks and the green background light.*
+- **DO NOT PRESS ANY BUTTONS EXCEPT AS DIRECTED AT THIS POINT**.
+  - *The Diagnostics Mode has been activated, all the LCDs should be lit up, including the red AF marks and the green background light.*
 - Push the 'AEL' Button and hold it
-    - *The display on the top of the camera should display a '0'.* 
+  - *The display on the top of the camera should display a '0'.*
 - Hold the 'AEL' Button for a further 5 seconds.
-    - *The display on the top should change to a '1'*
+  - *The display on the top should change to a '1'*
 - Release the 'AEL' Button if it changes to '1', or after 10 seconds if nothing happens.
-    - *If it stays at '0', i.e. nothing happens, continue the steps*
+  - *If it stays at '0', i.e. nothing happens, continue the steps*
 - Open the Battery Door.
 - Put the camera on Lock.
 - Close the Battery Door.
@@ -107,6 +124,7 @@ After this, your Alpha/Dynax/Maxxum 9 should now have the extra Custom Functions
 **Note**: The Custom Function upgrade can not be done on early-model Alpha/Dynax/Maxxum 9's because they used older circuit boards that didn't have these features built-in. It won't negatively affect the camera by attempting these steps, the upgrade just won't ever work. Later serial number models and all Alpha/Dynax/Maxxum 9's that received the SSM/SAM upgrade can get this upgrade, however.
 
 ***
+
 ### Internal (Reddit Guides)
 
 #### [u/BigRobotBil: Fixing an MD-1 Motordrive](https://www.reddit.com/r/minolta/comments/1cix2mj/comment/l2ifxkh/)
@@ -130,7 +148,9 @@ u/ChristPVille has kindly provided an updated, **albeit experimental method** to
 The author warns that this is an **experimental repair**, but has seen long term success since the original posting date. Only practice this method if you already have one with a broken gear. Additionally, [EBay listings are starting to come up with bodged repairs](https://www.reddit.com/r/minolta/comments/1fa3fh5/comment/n6oxuw1/), so I will re-iterate **BE CAREFUL WITH YOUR REPAIRS AND ONLY ATTEMPT IF CONFIDENT**, and take it to a professional if you don't think you can do it yourself.
 
 ***
+
 ## Lens Guides
+
 ***
 
 ### **How to modify an MC Rokkor 55mm f/1.7 to have a ½ stop at f/2**
