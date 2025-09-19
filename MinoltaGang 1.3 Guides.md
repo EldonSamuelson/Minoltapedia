@@ -8,7 +8,7 @@ This page holds a few Guides to cover specific features not normally possible wi
 
 ### **Disclaimer**
 
-*Some of these guides deal with DIY modifications, and software/firmware updates of cameras. **These can damage equipment permanently without being careful and following instructions**!
+*Some of these guides deal with DIY modifications, and software/firmware updates of cameras. **These can damage equipment permanently without being careful and following instructions***!
 
 *This information is offered on the assumption that you already have some experience fixing cameras and are confident in your abilities to not cause further damage to your gear. As such, the authors of the links and the Minoltapedia are not responsible for any damages, injury, or expenses in repairs caused by following advice linked below unprepared.*
 
@@ -24,13 +24,15 @@ Placeholder - Open the Baseplate and you will see a Number and Letter Code.
 
 The Number represents the last year of a certain decade, i.e. '6' could be 1966, '76, '86... So you'll need to know the Series' production ranges to narrow it down.
 
-| ***Series*** | SR, > 1962* | SRT | XK/XM/X1** | XE | XD |  XG | X-700 | X-500 | X-300*** | X-300s/370n*** |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| ***Year Range*** | 1958-1971 | 1966-1981 | 1972-1984 | 1974-1977 | 1977-1981 | 1977-1984 | 1981-2001 | 1983~1985 | 1984~2006 | 1990-2006 |
+| ***Series*** | SR, > 1962\* | SRT 100,101,102/303 |SRT 200,201,202, ""b/""X/""s, | XK/XM/X1** | XE | XD |  XG | X-700*** | X-500 | X-300*** | X-300s/370n*** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ***Year Range*** | 1958\*-1971 | 1966-1975 |1975-1981| 1972-1984 | 1974-1977 | 1977-1981 | 1977-1984 | 1981-2001 | 1983~1985 | 1984~2006 | 1990-2006 |
 
-\*\* The XK has an additional number code - 1 = Made for Japan, 2 = Made for EU, 3 = Made for US. It's redundant though as the model name also tells you this.
+  \* *The SR series was a first for Minolta, and [didn't have a  date-code system](#how-to-datemodel-check-an-sr-camera) until 1962. '0-x' or '1-x' on an SR camera can only mean 1970 - '71, 2-9 can only be from the 1960's*
 
-\*\*\* As the Date-code system doesn't define decades, you will have trouble narrowing down the exact year (i.e. An X-300 '4-L' could mean December 1984, 1994, or 2004). The X-300 and X-300s were licensed to Seagull in China in 2005, where they continue to be made today under the Seagull DF300 name as well as [other spinoff names](https://web.archive.org/web/20250522124725/http://www.subclub.org/minchin/). It is unclear if they continue the date-code system beyond then.
+\*\* *The XK has an additional number code - 1 = Made for Japan (X-1), 2 = Made for EU (XM), 3 = Made for US (XK). It's redundant though as the regional model name also tells you this.*
+
+\*\*\* *As the Date-code system doesn't define decades, you will have trouble narrowing down the exact year (i.e. An X-300 '4-L' could mean December 1984, 1994, or 2004). The X-300 and X-300s were licensed to Seagull in China in 2005, where they continue to be made today under the Seagull DF300 name as well as [other spinoff names](https://web.archive.org/web/20250522124725/http://www.subclub.org/minchin/). It is unclear if they continue the date-code system beyond then.*
 
 The Letter represents the month it was produced.
   
@@ -39,45 +41,78 @@ The Letter represents the month it was produced.
 |***\# of Month*** | 1 | 2| 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 | ***Month*** | January | February | March | April | May | June | July | August | September | October | November | December |
 
-\* The SR series was a first for Minolta, and didn't follow the date-code system in the same way until the early 60's.
-
 #### How to Date/Model-Check an SR Camera
 
-When Minolta started out, they didn't have a dating system for tracking their cameras or lenses - even today the serial numbers aren't that useful on their own without having a *lot* of others to compare against. Until July 1962 ('2-G') and the release of the SR-7 and the 5th version of the SR-1, they didn't have year-month datecodes to use.
+When Minolta producing SLR's in 1958, they didn't have a dating system for tracking their cameras or lenses - even today the serial numbers aren't that useful on their own without having a *lot* of others to compare against. Until July 1962 and the release of the SR-7 and the 5th version of the SR-1, they didn't have year-month datecodes.
 
-In 1959, they had only just released the SR-2 and didn't need datecodes or identifiers beyond a serial number. In 1960 with the release of the SR-1 and the 2nd version of the SR-2, they needed something to identify them by part codes. They opted for a Base Code stamped into the chasis, and a Mount Code stamped underneath the mount ring cover. [Here's what they look like](https://i.imgur.com/l7wlEPr.png). It didn't mark a date, just a camera model revision in some way. In 1962 with various models and variants released, they had finally settled on [the datecode system](#how-to-date-check-a-minolta-camera).
+In 1958, they had only just released the SR-2 and didn't need datecodes or identifiers beyond a serial number. In 1959 with the release of the SR-1 and the 2nd version of the SR-2, they needed something to identify them by part codes. They opted for a Base Code stamped into the chassis, and a Mount Code stamped underneath the mount ring cover. [Here's what they look like](https://i.imgur.com/l7wlEPr.png). It didn't mark a date, just a camera model revision in some way. In 1962 with various models and variants released, they had finally settled on [the datecode system](#how-to-date-check-a-minolta-camera).
 
-|**Model *(Variant*)***|***Notable Feature***|***Base Code***|***Mount Code***|***Release Date***|***Date Code (>1962)***|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|SR-2 (*A*)|-|-|-|Oct 1958|-|
-|SR-2 (*B*)|-|SR2|-|*?*|-|
-|SR-1 (*A*)|Unevenly distributed shutterspeed dial|SR2|SRB|Jul 1959|-|
-|SR-2 (*C*)|-|SR2|SRB|*?*|-|
-|SR-1 (*B*)|Evenly distributed shutterspeed dial|SRC|SRC|Aug 1960|-|
-|SR-3 (*A*)|External Meter Mount Attachment|SRC|SRC|Aug 1960|-|
-|SR-1 (*C*)|Auto Aperture reset after shot|SRC.|SRC|Apr 1961|-|
-|SR-3 (*B*)|Auto Aperture reset after shot|SRC.|SRC|Aug 1961|-|
-|SR-1 (*D*)|External Meter Mount Attachment|SRD|SRC|Aug 1961|-|
-|SR-3 (*C*)|-|SRD2|SRC|Aug 1961|-|
-|SR-7 (*A*)|Built-In Meter (not TTL)|SRE|SRE|Jul 1962|2-G|
-|SR-1 (*E*)|Film counter on the right like the SR-7|SRE|SRE|Jul 1962|2-G|
-|SR-7 (*B*)| TO DO|SRE|SRE|TO DO |TO DO|
-|SR-1 (*F*)|aka SR-1 V model|SRE|SRE|TO DO |TO DO|
+Just like the SRT, Minolta progressively updated the SR series as they produced them. However these models weren't made in as many numbers, and with no easy way to date them, lots of different classification methods have turned up. Rokkorfiles/Minman's is the most well known, but Maury J's is more detailed, so this table tries to cover both as well as help you date them by some notable features. Unfortunately not all are possible to date check yet, but it can give you a reasonable range.
 
+**SR-2 (1958-1960)**
 
-\* These are not variants as detailed in the [SLR Chart](link), but variants by the model codes. Some do match up though, e.g. The SR-1.
+The SR-2 was the first Minolta SLR released (the CEO, Kazuo Tashima liked the number 2) and didn't have date codes during it's production period.
 
-Cite [RokkorFiles](https://www.rokkorfiles.com/SR%20Series.htm) and the [Minolta Collector's Facebook Group](https://www.facebook.com/groups/minoltacollectors/posts/6110919888946978/?comment_id=6111360632236237) and [Andrea](https://www.facebook.com/groups/minoltacollectors/permalink/749968528375501/)
+*This table is constructed largely from Maury J's work, listed in the Table headers, but may be partially inaccurate due to lack of complete information.*
 
->SR-7(2a), SR-1(6a) - SRE/SRE (a few external changes)
->
->SR-7(2b), SR-1(6b) - SRE2/SRE
->
->SR-7(2c), SR-1(6c) - SRE2/SRE2
->
->SR-7(3a), SR-1(7a) - SRE2/SRE2 (a few more external changes)
->
->SR-7(3b), SR-1(7b) - SRE3/SRE2
+|***Model***|***[Maury J's](https://www.facebook.com/groups/minoltacollectors/posts/6110919888946978/?comment_id=6111360632236237) Classification***|***External Identifying Feature***|***Base Body Code***|***Mount Code***|***[Release Date](https://www.facebook.com/groups/minoltacollectors/posts/749968528375501/)***| ***Date Code***|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|SR-2|1|Minolta's First SLR. *Lack of Base/Mountcodes*|*None*|*None*|Oct 1958|*None*|
+|SR-2|2A|*No External Changes, Basecode Added*|SR2|*None*|? 1959|*None*|
+|SR-2|2B|*No External Changes, Mountcode Added*|SR2|SRB|*? [Jul 1959](https://www.facebook.com/groups/minoltacollectors/posts/6110919888946978/?comment_id=6111360632236237) ?*|*None*|
+
+**SR-1 (1959-1971)**
+
+The SR-1 was one of Minolta's longest running production models. As a result of iterative upgrades during it's lifetime, it can have Base, Mount, and Date Codes, as well as feature changes throughout it's production time.
+
+*This table is the most complete and comprises mutliple sources linked in the Table headers, and largely stems from the work of Maury J. and Andrea A. from the [Minolta Collector's Group on Facebook](https://www.facebook.com/groups/minoltacollectors)*.
+
+|***Model***|***[Rokkorfiles](https://www.rokkorfiles.com/SR%20Series.htm)/ [Minman](https://web.archive.org/web/20240629051856/http://www.subclub.org/minman/sr1.htm)/ [Laemmli](https://collection-appareils.fr/x/html/appareil-6935-Minolta_SR-1s.html) Classification***|***[Maury J's](https://www.facebook.com/groups/664145030291185/?multi_permalinks=1448045968567750&hoisted_section_header_type=recently_seen)/ [Wolfgang H's](https://www.facebook.com/groups/minoltacollectors/posts/1448046805234333/?comment_id=1450673668304980) Classification***|***External Identifying Feature***|***Base Body Code***|***Mount Code***|***[Release Date](https://www.facebook.com/groups/minoltacollectors/posts/749968528375501/)***| ***Date Code***|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|SR-1|a|1|Unevenly Spaced Shutterspeed Dial|SR2|SRB|Jul 1959|*None*|
+|SR-1|b|2A|Evenly Spaced Shutterspeed Dial|SRC|SRC|Aug 1960|*None*|
+|SR-1|b|2B|*No External Changes, Basecode changed*|SRC.|SRC| ? '60 -'61|*None*|
+|SR-1|c|3|Auto Aperture Reset after Shot|SRD|SRC|Apr 1961|*None*|
+|SR-1|d|4A|External Meter Mount, Green Model name|SRD|SRC|Aug 1961|*None*|
+|SR-1|d|4B|*No External Changes, Basecode changed*|SRD2|SRC|? '61 -'62|*None*|
+|SR-1|e|5|Serial Number on Rear instead of Top, LV Numbers removed, New External Meter Mount, Black Model name |SRE|SRE|Jul 1962|2-G|
+|SR-1|e|6A|'Chiyoda Kogaku' changed to 'Minolta Camera Co. Ltd’|SRE|SRE| ? '62 -'64|*? 2-G ~ 4-I*|
+|SR-1|e|6B|*No External Changes, Basecode changed*|SRE2|SRE| ? '62 -'64|*? 2-G ~ 4-I*|
+|SR-1|e|6C|*No External Changes, Basecode  & Mountcode changed*|SRE2|SRE2| ? '62 -'64|*? 2-G ~ 4-I*|
+|SR-1|e|7A|SRT-style Selftimer Lever, Grooved Advance Lever|SRE2|SRE2|Sep 1964|4-I|
+|SR-1|e|7B|*No External Changes, Basecode changed*|SRE3|SRE2| ? '64 -'65|*? 4-I ~ 5-E*|
+|SR-1 New/'V'|f/V|V|New Bodyshape, Square Viewfinder, Mirror Lock-Up |-|-|May 1965|5-E|
+|SR-1s|a|-|1/1000 Shutterspeed|-|-|Jun 1967|7-F|
+|SR-1s|b|-|SRT-style Grooved Shutterspeed Knob|-|-|? 1969|5-*A~L*|
+
+**SR-3**
+
+The SR-3 was a flagship upgrade to the SR-2, replacing it. It was short lived like it's predecessor however, in favour of the SR-7.
+
+*This table is constructed largely from Maury J's and Andrea A's work, listed in the Table headers, but may be partially inaccurate due to lack of complete information.*
+
+|***Model***|***[Rokkorfiles](https://www.rokkorfiles.com/SR%20Series.htm) Classification***|***[Maury J's](https://www.facebook.com/groups/minoltacollectors/posts/6110919888946978/?comment_id=6111360632236237)/ [Wolfgang H's](https://www.facebook.com/groups/minoltacollectors/posts/1448046805234333/?comment_id=1450673668304980) Classification***|***External Identifying Feature***|***Base Body Code***|***Mount Code***|***[Release Date](https://www.facebook.com/groups/minoltacollectors/posts/749968528375501/)***| ***Date Code***|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|SR-3|a|1A|*No External Changes, Basecode same as Mountcode*|SRC|SRC|Aug 1960|*None*|
+|SR-3|a|1B|*No External Changes, Basecode changed*|SRC.|SRC|? '60 -'61|*None*|
+|SR-3|b|2A|Auto Aperture Reset after Shot|SRD|SRC|Aug 1961|*None*|
+|SR-3|b|2B|*No External Changes, Basecode changed*|SRD2|SRC|? '61 -'62|*None*|
+
+**SR-7**
+
+The SR-7 skipped the expected naming convention for a few potential reasons. '4' in Japanese (四 "shi") can be misinterpreted as 'Death' (死 "shi") and they wanted to avoid that. Also, 7 was Kazuo Tashima's favourite number, and recently that year, a Minolta went to space with [NASA's 'Friendship 7' mission](https://www.facebook.com/groups/minoltacollectors/posts/1141625692543114/?comment_id=1151172521588431&reply_comment_id=1151723418200008). It set the precedent for later series to avoid the number 4, and have models numbered with 1,2,3, or 7. The SR-7 introduced the Date-Code system from it's first release in 1962, but most models kept the old Base & Mount Code system until 1965.
+
+*This table is constructed from various sources listed in the Table headers, but may be partially inaccurate due to lack of complete information.*
+
+|***Model***|***[Rokkorfiles](https://www.rokkorfiles.com/SR%20Series.htm)/ [Minman](https://web.archive.org/web/20250522134103/http://www.subclub.org/minman/sr7.htm)/ [Laemmli](https://www.collection-appareils.fr/x/html/appareil-5393-Minolta_SR-7.html) Classification***|***[Maury J's](https://www.facebook.com/groups/minoltacollectors/posts/6110919888946978/?comment_id=6111360632236237)/ [Wolfgang H's](https://www.facebook.com/groups/minoltacollectors/posts/1448046805234333/?comment_id=1450673668304980) Classification***|***External Identifying Feature***|***Base Body Code***|***Mount Code***|***[Release Date](https://www.facebook.com/groups/minoltacollectors/posts/749968528375501/)***| ***Date Code***|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|SR-7|a|1|No On/Off Switch, Green '7'|SRE|SRE|Jul 1962|2-G|
+|SR-7|a|2A|No On/Off Switch, Black '7'|SRE|SRE|? '62 -'63|*? 2-G ~ 3-?*|
+|SR-7|b|2B|*No External Changes, Basecode changed*|SRE2|SRE|? '62 -'63|*? 2-G ~ 3-?*|
+|SR-7|b|2C| *No External Changes, Mountcode changed*|SRE2|SRE2|? '62 -'63|*? 2-G ~ 3-?*|
+|SR-7|c|3A|On/Off switch for Built-In Meter, Big '7'|SRE2|SRE2|? 1963|*? 3-? ~ 5-E*|
+|SR-7|c|3C|*No External Changes, Basecode changed*|SRE3|SRE2|? '63 -'65|*? 3-? ~ 5-E*|
+|SR-7 New/'V'|V|V|New Bodyshape, Square Viewfinder, Battery Check|-|-|May 1965|5-E|
 
 ***
 
