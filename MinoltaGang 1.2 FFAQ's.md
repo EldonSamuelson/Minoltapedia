@@ -18,7 +18,7 @@ As a side note, I strongly recommend reading and taking the Learn Camera repairs
 
 ***
 
-### **What is the *best* Minolta SLR?**
+### **What is the '*best*' Minolta SLR?**
 
 So, you want a Minolta Manual Focus SLR - but the information out there is confusing, there's loads of different models, and you don't want to wade through hundreds of pages and video reviews? This decision chart might be for you!
 
@@ -105,7 +105,7 @@ Each table is ordered by how easy it is to complete the option - the first you c
 |***Type***| ***Option***| ***Ease***|***Voltage & Battery Drain***|***Metering Consistency***|***Cost***|***Source(s)***|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |**DIY Potentiometer Adjustment** | Adjusting SRT meter + SR44 Battery|Somewhat Easy. Requires careful DIY adjustment | 1.55V *adjusted for SRT compatibility*, Stable | Very consistent, if adjusted correctly and ONLY using SR44's |Free|[Dick Sullivan Archive](https://web.archive.org/web/20050824094134/http://home.pcisys.net:80/~rlsnpjs/minolta/recal.html), [Mr Analog Dan](https://youtu.be/DYaKaJs8nOI), [Film Camera Vlog](https://youtu.be/_hHUaOI6Gv0) |
-|**'Smart'\* Advanced MR9 Battery Adaptor**| Kanto MR9 Adaptor + Silver Oxide 386/SR43, or thicker SR44 Battery | Somewhat Easy. Batteries very common, adaptor harder to source online |1.35V, Stable|Very consistent|Very expensive, recouped with battery use |[Criscam (US)](https://shop.criscam.com/products/mr-9-mercury-battery-adapter?variant=998592509), [KantoCamera (JPN)](https://www.kantocamera.com/english/adapter/adapter_en.html), [Kamerastore (EU)](https://kamerastore.com/products/other-mr-9-battery-adapter), [SmallBatCo (UK)](https://www.smallbattery.company.org.uk/sbc_mr9_adapter.htm)|
+|**'Smart'\* Advanced MR9/PX13/PX625 Battery Adaptor**| Kanto MR9 Adaptor + Silver Oxide 386/SR43, or thicker SR44 Battery | Somewhat Easy. Batteries very common, adaptor harder to source online |1.35V, Stable|Very consistent|Very expensive, recouped with battery use |[Criscam (US)](https://shop.criscam.com/products/mr-9-mercury-battery-adapter?variant=998592509), [KantoCamera (JPN)](https://www.kantocamera.com/products/mr-9), [Kamerastore (EU)](https://kamerastore.com/products/other-mr-9-battery-adapter), [Photohaus Cheap Alternative (EU)](https://photohaus-clickpic.de/artikel/pc625-adapter-batterieadapter-mit-eingebauter-diode-9ngg7jp5a99osxqi),  [SmallBatCo (UK)](https://www.smallbattery.company.org.uk/sbc_mr9_adapter.htm) |
 |**V80H Rechargeable Battery**|V80H Battery + Custom USB-C Charger|Very Easy. Recharger only made by one manufacturer |1.25~1.3V, Stable|Reasonably consistent|Most expensive one-time cost, recouped by recharged reuse | [Ausgeknipst (DE)](https://ausgeknipst.de/en/products/snapped-replacement-battery-charger-for-px625-mr9-varta-v80h-battery-1-35v) |
 |**DIY Schottky Conversion**|Integrated Schottky Diode + SR44 Battery|Somewhat Difficult. Requires electrical experience|1.35V, Stable|Very consistent| Cheap, with 1-time material costs | [Dick Sullivan, via Rokkorfiles](http://www.rokkorfiles.com/conversion.htm), [Mel High5Cameras](https://high5cameras.com/all-articles/spares-and-upgrades/whose-got-the-power-a-guide-to-classic-camera-batteries/)|
 |**DIY Schottky Adaptor**|External Schottky Diode Adaptor + SR44 Battery|Difficult. Requires electrical experience|1.35V, Stable|Very consistent| Cheap, but material upfront costs | [John Marriage's Schottky Adaptor](https://www.refracted.net/reflected/mercurial-batteries-on-a-tight-budget)|
@@ -123,8 +123,13 @@ Some Hi-Matics similarly used to use 'PX675' or 'PX640' Mercury Batteries which 
 |***Type***| ***Option***| ***Ease***|***Voltage & Battery Drain***|***Metering Consistency***|***Cost***|***Source(s)***|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |**Zinc-Air Battery Substitution MRB675** |Zinc-Air MRB675 WeinCell: *PX675 Replacement*|Very Easy. Batteries common online|1.35V, Stable for ~6 months|Very Consistent|More expensive, shorter lasting|[WeinCell (US)](https://weinproducts.com/products/wein-cell-replacement-battery-mrb675)|
-|**'Smart' Advanced MR44 Battery Adaptor**| Kanto MR44 Adaptor + Silver Oxide 392/SR41 Battery: *PX675 Replacement*| A Little Difficult. Batteries common, adaptor hard to source online |1.35V, Stable|Very consistent|Very expensive, recouped with battery use | [KantoCamera (JPN)](https://www.kantocamera.com/english/adapter/adapter_en.html), [SmallBatCo (UK)](https://www.smallbattery.company.org.uk/sbc_mr44_adapter.htm)|
-|**Alkaline/Silver Oxide Battery Subsitution PC640A**| PC640A or PX640A Battery: *PX640 Replacement* | Easy. Batteries common online|1.5V *Voltage regulated by camera*|Very consistent|Somewhat Cheap| [BatteriesInAFlash (US)](https://www.batteriesinaflash.com/audio-video-electronics-equipment/exell-a640px-1-5v-alkaline-battery-px640a-en640a-epx640a-lr52), [SmallBatCo (UK)](https://www.smallbattery.company.org.uk/sbc_pc640a.htm)|
+|**'Smart' Advanced MR44/PX675/H-C Battery Adaptor\***| Kanto MR44 Adaptor + Silver Oxide 392/SR41 Battery: *PX675 Replacement*| A Little Difficult. Batteries common, adaptor hard to source online |1.35V, Stable|Very consistent|Very expensive, recouped with battery use | [KantoCamera (JPN)](https://www.kantocamera.com/products/h-c), [SmallBatCo (UK)](https://www.smallbattery.company.org.uk/sbc_mr44_adapter.htm)|
+|**Alkaline/Silver Oxide Battery Substitution PC640A**| PC640A or PX640A Battery: *PX640 Replacement* | Easy. Batteries common online|1.5V *Voltage regulated by camera*|Very consistent|Somewhat Cheap| [BatteriesInAFlash (US)](https://www.batteriesinaflash.com/audio-video-electronics-equipment/exell-a640px-1-5v-alkaline-battery-px640a-en640a-epx640a-lr52), [SmallBatCo (UK)](https://www.smallbattery.company.org.uk/sbc_pc640a.htm)|
+|**'Dumb' MR44/PX640/HM-N Battery Adaptor\***| Kanto HM-N Adaptor + Silver Oxide 357/SR44 Battery: *PX640 Replacement* | A Little Difficult. Batteries common, adaptor hard to source online|1.5V *Voltage regulated by camera*|Very consistent|Very expensive, recouped with battery use| [KantoCamera(JPN)](https://www.kantocamera.com/products/hm-n)|
+
+
+
+\* Depending on your Model, you may need a different adaptor. [Kanto Camera also provides a handy table](https://www.kantocamera.com/pages/adapter_selection_list#maker11) for adaptors they sell for most Minolta Models.
 
 ***Why Did They Use Mercury in the First Place?***
 
@@ -136,7 +141,7 @@ What replaced Mercury-Oxide was mostly Alkaline (A, AG, L, LR), Zinc-Air (ZA), o
 
 Since the 2000's as the remaining Mercury batteries died out, methods for working alternatives have sprung up. There are literally hundreds and thousands of webpages, articles, and forum posts giving advice, from Sunny 16 to battery substitution, soldering a voltage regulator in, or modifying the meter. If you searched yourself online, you would probably find many more articles that have sprung up since this page was written.
 
-If you want to read more about the Mercury Adaptation problem or get into the discharge curves and details, you can read resources by [Bruce Varner](https://www.brucevarner.com/PX625Replacement.html), [Dick Sullivan](http://www.rokkorfiles.com/mercury.htm), ['Frugal' Mike](http://www.willegal.net/photo/srt/srt-mercury.htm), [KniPPsen](https://knippsen.blogspot.com/2016/02/px625-und-alternativen.html), [Mel](https://high5cameras.com/all-articles/spares-and-upgrades/whose-got-the-power-a-guide-to-classic-camera-batteries/), and [PhotoEthnography](http://www.photoethnography.com/ClassicCameras/batteries.html). [F. de Gruijter (PDF)](http://rick_oleson.tripod.com/batt_adapt_us.pdf) is probably the most detailed and authoritative on the issue, and the technical differences between battery types.
+If you want to read more about the Mercury Adaptation problem or get into the discharge curves and details, you can read resources by [Bruce Varner](https://www.brucevarner.com/PX625Replacement.html), [Dick Sullivan](http://www.rokkorfiles.com/mercury.htm), ['Frugal' Mike](http://www.willegal.net/photo/srt/srt-mercury.htm), [KniPPsen](https://knippsen.blogspot.com/2016/02/px625-und-alternativen.html), [Mel](https://high5cameras.com/all-articles/spares-and-upgrades/whose-got-the-power-a-guide-to-classic-camera-batteries/), and [PhotoEthnography](http://www.photoethnography.com/ClassicCameras/batteries.html). [F. de Gruijter (PDF)]([http://rick_oleson.tripod.com/batt_adapt_us.pdf](https://web.archive.org/web/20260227003357/http://rick_oleson.tripod.com/batt_adapt_us.pdf)) is probably the most detailed and authoritative on the issue, and the technical differences between battery types.
 
 ***
 
@@ -144,33 +149,33 @@ If you want to read more about the Mercury Adaptation problem or get into the di
 
 Courtesy of the [1981 Minolta Dealer's Repair Guide](https://www.pacificrimcamera.com/rl/00061/00061.pdf), you can figure out what batteries you need for your camera.
 
- *[Post-1985](https://www.mhohner.de/sony-minolta/bodies.php?ov=1#film)Camera Battery List in Progress*
+ *[Post-1985](https://www.mhohner.de/sony-minolta/bodies.php?ov=1#film) Camera Battery List in Progress*
 
 |***SLR Series***|***Original Battery***|***Alternatives***|
 | :-: | :-: | :-: |
-| SRT's | 1x Mercury PX625 Button Cell | *See FFAQ Section Above* |
+| SRT's | 1x Mercury PX625 Button Cell | [*See FFAQ Section Above*](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_what_batteries_can_i_use_for_an_srt_meter.3F) TLDR; MR9/PX13/PX625 Adaptor|
 | XK/XM/X1 | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
 | XE | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
 | XG | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N |
 | 110 Zoom SLR, MkII | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N |  
 | XD | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
 | X-3/5/700 | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
-| X-600 | 2x AAA Batteries | *None* | 
+| X-600 | 2x AAA Batteries | *None*. Do not use Reuseable/Rechargeable equivalents! | 
 
 |***Rangefinder Series***|***Original Battery***|***Alternatives***|
 | :-: | :-: | :-: |
-| Hi-Matic 7, 7s, 9, 11 | 1x Mercury PX625 Button Cell | *See FFAQ Section Above* |
-| Hi-Matic 7sII | 1x Mercury PX675 Button Cell | *See FFAQ Section Above*   | 
-| Hi-Matic F, FP, CS, E | 1x Mercury PX640 Battery | *See FFAQ Section Above*   | 
-| Leitz-Minolta CL | 1x Mercury PX625 Button Cell | *See FFAQ Section Above* |
+| Hi-Matic 7, 7s, 9, 11 | 1x Mercury PX625 Button Cell | [*See FFAQ Section Above*](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_what_batteries_can_i_use_for_an_srt_meter.3F) TLDR; MR9/PX13/PX625 Adaptor |
+| Hi-Matic 7sII | 1x Mercury PX675 Button Cell | [*See FFAQ Section Above*](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_rangefinder_table) TLDR; MR44/PX675/H-C Adaptor  | 
+| Hi-Matic F, FP, CS, E | 1x Mercury PX640 Battery | [*See FFAQ Section Above*](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_what_batteries_can_i_use_for_an_srt_meter.3F) TLDR; HM-N Adaptor | 
+| Leitz-Minolta CL | 1x Mercury PX625 Button Cell | [*See FFAQ Section Above*](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_what_batteries_can_i_use_for_an_srt_meter.3F) TLDR; MR9/PX13/PX625 Adaptor |
 | CLE | 2x Silver Oxide 357/S76/SR44 Button Cell | 2x Alkaline A76/LR44/AG13, 1x Lithium CR1/3N | 
 
 |***Viewfinder/AF Series***|***Original Battery***|***Alternatives***|
 | :-: | :-: | :-: |
-| Hi-Matic 5 | 1x Mercury PX675 Button Cell | *See FFAQ Section Above*   | 
-| Hi-Matic C, G | 1x Mercury PX675 Button Cell | *See FFAQ Section Above*   | 
-| Hi-Matic S, S2, SD, SD2 | 2x AA Batteries | *None*   | 
-| Hi-Matic AF, AF2, AF2-M | 2x AA Batteries | *None*   | 
+| Hi-Matic 5 | 1x Mercury PX675 Button Cell | [*See FFAQ Section Above*](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_rangefinder_table) TLDR; MR44/PX675/H-C Adaptor   | 
+| Hi-Matic C, G | 1x Mercury PX675 Button Cell | [*See FFAQ Section Above*](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_rangefinder_table) TLDR; MR44/PX675/H-C Adaptor   | 
+| Hi-Matic S, S2, SD, SD2 | 2x AA Batteries | *None*. Do not use Reuseable/Rechargeable equivalents!   | 
+| Hi-Matic AF, AF2, AF2-M | 2x AA Batteries | *None*. Do not use Reuseable/Rechargeable equivalents!   | 
 
 ***
 
@@ -180,7 +185,7 @@ It depends!
 
 - **SR & SRT** models are mechanically operated, meaning they don't need capacitors in the first place to power anything.
 - **XK's, XE's, and XD's** don't get capacitor issues. *The cameras can still fail and stop working*, of course, but capacitors are not expected to be the cause of failure in those models, as they had more reliable Tantalum capacitors that look like a bulbous blue berry.
-- **XG's** were more likely to have Tantalum capacitors, but it's not guaranteed. You can identify Tantalum caps by their blue bulbous look. The ones to be concerned about are the Aluminium capacitors, that are a cylindrical black or dark blue. [Here's a comparison](https://i.imgur.com/K8yWc1x.png).
+- **XG's** were more than likely to have Tantalum capacitors, but it's not guaranteed. You can identify Tantalum caps by their blue bulbous look. The ones to be concerned about are the Aluminium capacitors, that are a cylindrical black or dark blue. [Here's a comparison](https://i.imgur.com/K8yWc1x.png).
 
 Solid Tantalum Electrolytic Capacitors (STEC's) are more reliable and longer lasting, but more expensive to produce. Aluminium Liquid Electrolytic Capacitors (ALEC's) are far cheaper, but less reliable. In the 80's, Tantalum prices went up, so STEC's got replaced with ALEC's. This happens to coincide with releases of Minolta cameras at the time, and as remaining STEC stock ran out, the ALEC's became standard.
 
@@ -188,10 +193,11 @@ The models to be aware of for capacitor problems are;
 
 - ***Some* later model XG's** - It's more likely that the XG models with the [new Minolta logo](https://static.wikia.nocookie.net/camerapedia/images/8/82/MinoltaXG1.jpg/revision/latest?cb=20110202213840) *are more likely* to have Aluminium capacitors, but it is not a guaranteed method of testing. You will only be certain by taking off the base plate of the camera, or if the camera is exhibiting classic signs of capacitoritis.
 - Older XG Minoltas with the [lower-case logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCKFN2fdFJ8AES8TtRHstrQHD4Wc_NsBDQw6hL-8kqVmka8ucDTasGzYdJJEoELXbKEvepHImoo4ieHzhBOjFqgfPG84wBoKWcma-DlmNs9YDZ5KMQn1suT2pI55as6WgqN5ybrPkfqtO/s1600/P1029730.jpg) are less likely to encounter issues, but also don't have the same circuitry. If you experience capacitoritis problems, the capacitor is [located similar to the X-700's](https://www.678vintagecameras.ca/uploads/6/6/3/7/66371031/img-20190205-102214_1_orig.jpg).
-- ***Most* X-300/370's & X-500/570's** - They were the budget alternative to the X-700, so they weren't expected to be used for long (40 years). Also by the time they released in 1983 and '84 Minolta had used most of their remaining Tantalum capacitors. Again though, [only checking underneath the baseplate will confirm this](https://i.imgur.com/K8yWc1x.png).
-- ***Most* X-700's** In the first few runs of the camera, The X-700 was given the expensive more reliable STEC/Tantalum capacitors because it was the 'Pro' camera which was expected to be reliable. That means *very early* X-700's below serial no. 20xxxxxx got reliable capacitors and don't have issues. However, X-700's were made until the 1990's, so all later serial numbers got the less reliable ALEC's. To make it worse, X-700's have *x2* capacitors that can fail, and [in difficult places to reach](https://i.imgur.com/jLbdaZx.png) for DIY repairs.
+- ***Most* X-300/370's** - They were the budget alternative to the X-700, so they weren't expected to be used for long (40 years). Also by the time they released in 1984 Minolta had used all of their remaining Tantalum capacitors supply. They had a long manufacturing period and so most encountered models have Aluminium Caps. However, [checking underneath the baseplate will confirm this](https://i.imgur.com/K8yWc1x.png).
+- ***Some* X-500/570's** - They were the enthusiast midrange alternative to the X-700. Minolta's Tantalum supply had begun to dwindle in the same year of the X-500's release (1983), but as it also had a short manufacturing period, most X-500's received the leftover Tantalum Capacitors. Again though, [only checking underneath the baseplate will confirm this](https://i.imgur.com/K8yWc1x.png).
+- ***Most* X-700's** In the early production of the camera between 1981 and 1983, the X-700 was given the expensive more reliable STEC/Tantalum capacitors because it was the 'Pro' camera which was expected to be reliable. That means *early* X-700's below serial no. 20xxxxxx got reliable capacitors and don't have capacitor-related issues. X-700's were made until the 1990's however, so later serial numbers and virtually all models made after 1984 got the less reliable ALEC's. To make it worse, X-700's have *x2* capacitors that can fail, and [in difficult places to reach](https://i.imgur.com/jLbdaZx.png) for DIY repairs.
 
-These are not set-in-stone truths, however. As time goes on, people get their cameras repaired. You might find any of these cameras with a freshly replaced capacitor from today. These are still ALEC capacitors, but with far better reliability than ones built 50 years ago.
+**These guidelines are not set-in-stone truths**, however. As time goes on, people get their cameras repaired. You might find any of these cameras with a freshly replaced capacitor from today. These are still ALEC capacitors, but with far better reliability than ones built 40-30 years ago.
 
 #### **Should I Replace My Capacitors Anyway?**
 
@@ -202,7 +208,7 @@ These are not set-in-stone truths, however. As time goes on, people get their ca
 - *Sometimes* in addition, the LED meter will only flash the overexposure '🔺' arrow before dying, or the meter will run through all the shutterspeed LED's in sequence until the '🔺' arrow, regardless of lighting in the scene.
 - On turning the camera off and on again, the same symptoms repeat.
 
-In those cases, refer to the repair articles by [678vintagecameras](https://www.678vintagecameras.ca/blog/what-was-up-with-minolta-and-capacitors) (all affected models), [EverythingVintage](https://everythingvintage.uk/vintage-camera/minolta-xg-m-capacitor-replacement/) & [Andreas Thaler](https://www.photrio.com/forum/threads/minolta-xg-m-replacing-the-electrolytic-capacitors.203831/) (XG-M's), [High5Cameras](https://high5cameras.com/all-articles/repair/minolta-x-700-capacitor-replacement/) (X-700), and [Paul Beesley](https://www.paulbeesley.com/posts/minolta-x500x700-capacitor-repair) (X-500/300) for repairs if you are confident. If you aren't, you can also get them repaired professionally in most vintage camera repair shops.
+In those cases, refer to the repair articles by [678vintagecameras](https://www.678vintagecameras.ca/blog/what-was-up-with-minolta-and-capacitors) (all affected models), [EverythingVintage](https://everythingvintage.uk/vintage-camera/minolta-xg-m-capacitor-replacement/) & [Andreas Thaler](https://www.photrio.com/forum/threads/minolta-xg-m-replacing-the-electrolytic-capacitors.203831/) (XG-M's), [High5Cameras](https://high5cameras.com/all-articles/repair/minolta-x-700-capacitor-replacement/) (X-700), [Paul Beesley](https://www.paulbeesley.com/posts/minolta-x500x700-capacitor-repair) (X-500/300), and [LightMatters](hi.id.au/2019/07/30/minolta-x-9-capacitor-replacement/) (X-9) for repairs if you are confident. If you aren't, you can also get them repaired professionally in most vintage camera repair shops.
 
 Sometimes you might have additional issues, such as Mirror Lock Up and Shutter Curtain Lock - refer to [this repair article by Gregpak](https://gregpak.com/i-did-the-minolta-x-370-capacitor-fix-and-then-i-discovered-the-real-problem/) to address this separate problem.
 
@@ -369,19 +375,21 @@ The alternative and better recommended option for manual focus lenses on an auto
 
 ***
 
-### **Minolta 'F.W. Rokkor' Lenses, what are they?**
+### **Minolta 'F./F.W. Rokkor' Lenses, what are they?**
+
+[They look like this](https://www.reddit.com/r/AnalogCommunity/comments/1nzmx7b/minolta_lens_set_up/)
 
 Not much is known about them, but they are [suspected to be old copy-projection lenses for 70's Minolta office photocopiers]((https://forum.opticallimits.com/showthread.php?tid=5259)). 
 
-If you are in the market for large format lens adaptation, I would not advise using these as they were built for extremely short focus distances.
+If you are in the market for large format lens adaptation, I would not advise using these as they were built for extremely short focus distances. Otherwise not generally suitable for photography.
 
 ***
 
 ### **Minolta lenses with 'x33/x42' and gearteeth on the side. What are they?**
 
-I.E. [They look like this](https://preview.redd.it/xt7jo8enjwzc1.jpeg?width=960&crop=smart&auto=webp&s=702dd201b5396c049f14298f9622b9e73f810959)
+[They look like this](https://preview.redd.it/xt7jo8enjwzc1.jpeg?width=960&crop=smart&auto=webp&s=702dd201b5396c049f14298f9622b9e73f810959)
 
-Those are from a Microfilm/Microfiche Reader-Printer. You can [remove the Prism](https://forum.mflenses.com/quite-an-unusual-minolta-lens-t78657.html#1506657) and with some careful adaptation can be used a highly magnifying Macro lens. You can also just [use them with the original equipment they were designed for](https://www.microfilmworld.com/pre-ownedminoltarp600zmicrofichereaderprinter.aspx), if MicroFiche Readers are your thing.
+Those are from a Microfilm/Microfiche Reader-Printer. You can [remove the Prism](https://forum.mflenses.com/quite-an-unusual-minolta-lens-t78657.html#1506657) and with some careful adaptation can be used a highly magnifying Macro lens. You can also just [use them with the original equipment they were designed for](https://www.microfilmworld.com/pre-ownedminoltarp600zmicrofichereaderprinter.aspx), if MicroFiche Readers are your thing. Otherwise not generally suitable for photography.
 
 ## Miscellaneous
 

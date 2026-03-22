@@ -18,13 +18,19 @@ This page tries to cover the most common problems that affect Minolta Cameras, a
 ## Minolta Manual Focus SLR Common Problems
 ***
 
+### SR
+
+PLACEHOLDER SECTION - Shutter curtain failure/sticking due to excessive age and decay (~75 years), shutter escapement and timing issues.
+
+***
+
 ### SRT
 
 #### **Insufficient Battery Voltage for Meter/Incorrect Mercury Battery Replacement**
 
 *Please see the relevant FFAQ on [SRT Mercury Battery Substitutions](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_what_batteries_can_i_use_for_an_srt_meter.3F)*
 
-***
+
 
 #### **Mirror Baffle Loose Flap**
 
@@ -57,7 +63,7 @@ After fixing it with whatever method you choose, shoot the camera a few times at
 
 First experienced by myself (u/Superirish19), but also seen [here](https://www.reddit.com/r/minolta/comments/uf2ezt/is_it_normal_for_my_shutter_curtain_to_not_go_up/), [here](https://www.reddit.com/r/minolta/comments/18t951c/comment/kfe4fou/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1), [here](https://www.reddit.com/r/minolta/comments/1hzg8qv/issue_with_minolta_srt_101/), and [here](https://www.reddit.com/r/minolta/comments/1hzg8qv/comment/m6q1iun) where I fetched these examples from.
 
-***
+
 
 #### **Non-Responsive, Loose, or Sluggish Aperture Ring**
 
@@ -107,15 +113,19 @@ If in the small likelihood you have done all these steps and the Mirror, or wors
 
 First specified in [RokkorFiles](https://www.rokkorfiles.com/XK.html#:~:text=X%2D1%20called%20the-,Senswitch,-.%20Visible%20on). The other more serious issue if the Battery Compartment reset doesn't work, on [Photrio](https://www.photrio.com/forum/threads/unjamming-a-minolta-xk-xm-x1.147263/)
 
+#### White Oxidation/'Fungus' spots in Mirror Box - Minolta Palpas
+
+*Please see the [XD Section on Palpas below]()*.
+
 ***
 
 ### XE
 
-#### Meter Non-Responsive to Aperture Changes
+#### Meter Non-Responsive to ISO/Aperture Changes
 
 *What:*
 
-Minolta XE-1. Everything working as expected, *EXCEPT* that the meter was a bit jumpy when changing the ISO, and changing the Aperture wouldn't change the meter readout unless you stopped down the meter with the DoF button.
+Minolta XE-1. Everything working as expected, *EXCEPT* that the meter was a bit jumpy when changing the ISO, and/or changing the Aperture wouldn't change the meter readout unless you stop down the meter with the DoF button.
 
 *Why:*
 
@@ -137,7 +147,7 @@ Personally, I would advise taking a picture of the parts at each step of unscrew
 
 Initially, [Reddit](https://www.reddit.com/r/AnalogCommunity/comments/9codjn/minolta_xe_lightmeter_repair/). [Crescent Cameras](https://www.youtube.com/watch?v=M8e5MFq9zSM) also details this fix in it's entirety, and [I've posted about it once for myself](https://www.reddit.com/r/minolta/comments/1g7ce7l/before_and_after_xe_contact_oxidation_cleaning/)
 
-***
+
 
 #### Stiffening or Broken Power Switch
 
@@ -159,52 +169,190 @@ To fix it longterm, you need to disassemble the Top cover of the XE, specificall
 
 [Reddit](https://www.reddit.com/r/minolta/comments/1e9vxve/minolta_xe7_power_switch_stuck/), a [few times](https://www.reddit.com/r/minolta/comments/16zvi4r/onoff_switch_broken/). [I have performed the fix myself](https://www.reddit.com/r/minolta/comments/13z9kap/xe1_power_switch_and_sheared_screw_repair/), as well as the extra repair when I broke the Advance Lever Screwpiece. There's also other methods to fix the problem, like [drilling a metal pin into place of the teeth](https://www.reddit.com/r/minolta/comments/14cqhkk/fixed_my_xe7_onoff_switch/), or [melting one into place](https://i.imgur.com/quI3A8Z.jpeg).
 
+#### White Oxidation/'Fungus' spots in Mirror Box - Minolta Palpas
+
+*Please see the [XD Section on Palpas below]()*.
+
 ***
 
 ### XD
 
-placeholder piece: - XD (Mirror Dampener Sticky Piston Shutter Delay, Spool breaking, non responsive metering dial oxidation (less common))
 #### Shutter Lag
+
+*What:* 
+
+*Why:* 
+
+Mirror Dampener gets sticky or gunked up with debris
+
+*Remedy:* 
+
+Disassemble lens mount side, take out the piston and clean with a clean cloth and dry. a pin-pricks' worth of watchmakers' oil *may* be used, but entirely optional.
+
+*Where:* 
+[Mike Eckman](https://mikeeckman.com/2021/06/minolta-xd11-1977/#:~:text=old%20and%20new.-,Repairs,-I%20have%20had)
+
+#### Broken Film Take-Up Spool/Teeth
+
+PLACEHOLDER
 
 *What:*
 
+
+
 *Why:*
+
+
 
 *Remedy:*
 
+
+
 *Where:*
 
-[Mike Eckman](https://mikeeckman.com/2021/06/minolta-xd11-1977/#:~:text=old%20and%20new.-,Repairs,-I%20have%20had)
+
+#### Meter Non-Responsive/'Jumpy'
+
+PLACEHOLDER
+
+*What:*
+
+After half-pressing the shutter with batteries installed, meter is 'jumpy' or non responsive at certain ISO settings.
+
+*Why:* 
+
+Meter ISO dial oxidation/corrosion, [similar to the XE](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/troubleshooting/#wiki_xe), but rarer. The XD added plastic film coverings over the dial to reduce the likelihood of it occurring compared to the XE, but it can still occur.
+
+*Remedy:*
+
+
+
+*Where:*
+
+
+#### White Oxidation/'Fungus' spots in Mirror Box - Minolta Palpas
+
+*What:*
+
+[White Spots](https://i.imgur.com/zQjklpA.jpeg) appear prominently on the lens-facing side of the mirror box in front of the mirror. They may also be 'smeared' or visible from the back door side [underneath the mirror](https://www.reddit.com/r/AnalogCommunity/comments/1j96t6a/comment/mhcv2bg/).
+
+[XK](https://preview.redd.it/minolta-xk-technician-help-v0-ns7fo4bt0jve1.jpg?width=1080&crop=smart&auto=webp&s=7d4c65a2fc8c4d31ec096e407830d6a3a21ccbb7) [Lens](https://www.reddit.com/r/AnalogCommunity/comments/1eeasm2/comment/lfcxzo8/) [Lens 2](https://www.reddit.com/r/AnalogCommunity/comments/1gt0vgl/comment/lxkhrzm/) 
+
+*Why:*
+
+It's best known as 'Palpas', but can also be (incorrectly) known as 'Aluminium Acne' or mistaken for 'Schneideritis'. It can also occur in other camera's, such as [the Leica R series](https://i.imgur.com/K5TQa1B.jpeg) and some [Hasselblad CM Models](https://i.imgur.com/5SqUV6K.jpeg). People aren't 100% certain, but it appears to be the degradation of some internal coating that produces a fine powdery substance. In Leicas it creates a fine powder layer, in Hasselblads it creates mud-crack patterns, and in Minoltas (XK & XE's can suffer from it too), it appears to be powdery with small bumpy nodules.
+
+*Remedy:* 
+
+Using [Daniel Rodriguez's method](https://www.photrio.com/forum/threads/oxidation-corrosion-spots-in-mirror-box.156318/page-2) (paraphrased and edited for clarity);
+
+> ...wipe with a water moistened cloth. Afterwards, use a new cloth to wipe with 99% isopropyl alcohol. After several passes, the white was completely gone. Use a clean cloth for each pass. You will know if you got it all after it completely dries. 
+> 
+> After the second and third pass it looked clean at first, but after drying it turned a cloudy white because I was reusing the same cloth. Don't use cotton swabs or cotton-buds/Q-Tips. You will get a million tiny fibers caught on the raised bumps if you do.
+
+
+*Where:* 
+
+[Photrio (Minolta XD)](https://www.photrio.com/forum/threads/oxidation-corrosion-spots-in-mirror-box.156318/), [Photo.net (Hasselblad)](https://www.photo.net/forums/topic/518438-hasselblad-501-cm-auxiliary-shutter-cracks/), [L-Forums (Leica)](https://www.l-camera-forum.com/topic/283079-antireflective-black-coating-repair/). You can also see it in several Reddit Posts, [here](https://www.reddit.com/r/AnalogCommunity/comments/1j96t6a/comment/mhcv2bg/), [here](https://www.reddit.com/r/AnalogCommunity/comments/1e7n5kb/comment/le1tjpq/), [here](https://www.reddit.com/r/minolta/comments/17vp7dg/white_bumps_on_inside_walls_of_camera_is_it_normal/), and [here](https://www.reddit.com/r/AnalogCommunity/comments/1k1x2no/comment/mnsfkp2/).
+
+#### Shrunken Leatherette
+
+PLACEHOLDER
+
+*What:* 
+
+The leather has shrunk.
+
+*Why:*
+
+Minolta used a poor choice of leather. they replaced it in very late XD models, but most have this problem. Dry climates and low humidity make it worse, but generally it's unavoidable without very precise long term care.
+
+*Remedy:*
+
+It's a cosmetic issue, so it can be left alone. You can also get Leatherette replacement kits, or DIY replace the leather without taking apart the camera.
+
+*Where:*
+
+
 
 ***
 
 ### XG
 
-placeholder- XG, X-:100: (Capacitor shenanigans, I already have an FAQ on the worst affected models and how to fix however)
+PLACEHOLDER - XG, X-:100: (Capacitor shenanigans)
 
 #### Meter/Shutter Non Responsive (Capacitor Failure)
 
-*Please see the [Capacitor FFAQ Section](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_will_my_minolta_have_a_capacitor_problem.3F)*
+*Please see the [Capacitor FFAQ Section](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_will_my_minolta_have_a_capacitor_problem.3F)*. You should only be doing this if ALL symptoms are present of 'Capacitoritis', [as defined here by Minoltafan2904](https://www.photrio.com/forum/threads/how-to-identify-a-dead-capacitor-on-a-minolta-x-300-370-500-570-600-700.149035/).
+
+#### Shutter/Mirror still Non Responsive after Capacitor Replacement
+
+*Please see the X-Hundreds Section below*
+
+#### Loose Winder/Advance not Advancing (wind Idler Gear Tension)
+
+*Please see the X-Hundreds Section below*
 
 ***
 
-### X-Hundred (X-300/500/600/700)
+### X-Hundreds (X-300/500/600/700)
+
+*rough guides covered, need to 'WWRW' them like previous Troubleshooting sections.*
 
 #### Meter/Shutter Non Responsive (Capacitor Failure)
 
-*Please see the [Capacitor FFAQ Section](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_will_my_minolta_have_a_capacitor_problem.3F)*
+*What:* You should only be doing this if ALL symptoms are present of 'Capacitoritis', [as defined here by Minoltafan2904](https://www.photrio.com/forum/threads/how-to-identify-a-dead-capacitor-on-a-minolta-x-300-370-500-570-600-700.149035/).
+
+*Why:* (If all symptoms are present, including the power loss on shutter press) Failed Aluminium Capacitor(s). They degrade over time, leak their electrolytic contents, and the capacitance drops leading to a lack of power in the mirror and shutter release magnets.
+
+*Remedy:*
+
+*Where:* *Please see the [Capacitor FFAQ Section](https://www.reddit.com/r/MinoltaGang/wiki/index/minoltopedia/ffaq/#wiki_will_my_minolta_have_a_capacitor_problem.3F)*. In X-700 Models you have may have to replace 2, so please read the model specific guides. X-3/500's only have 1 capacitor to replace
+ 
+
+#### Shutter/Mirror still Non Responsive after Capacitor Replacement
+
+*What:* Shutter releases but curtain fails partly through operation. As a result the Mirror may remain upwards, blocking out Viewfinder and also potentially keeping the aperture engaged if a lens is attached.
+
+*Why:* Shutter curtain failling to complete a full cycle. Not actually Capacitor failure related, but can be easily mistaken for it due to similar failing symptom. Possibly also a result of a long term capacitor failure where the shutter has been left 'stuck' for a long time, and has settled into this halfway complete position. So *sometimes*, you might have capacitor failure as well as this shutter curtain issue if the camera hasn't been fixed in some time.
+
+*Remedy:* Also covered in the Capacitor FFAQ, you might need to [shimmy the shutter curtain across](https://gregpak.com/i-did-the-minolta-x-370-capacitor-fix-and-then-i-discovered-the-real-problem/#:~:text=stuck.%20Oh%20no!-,The%20real%20problem?,-I%20started%20googling). This is less of a repair method than it is a bit of finnicking, so be *very careful*. Don't follow the capacitor replacement section, as Greg has replaced a working Tantalum Capacitor in his example. ONLY follow the shutter curtain shimmy part.
+
+*Where:* [Gregpak](https://gregpak.com/i-did-the-minolta-x-370-capacitor-fix-and-then-i-discovered-the-real-problem/#:~:text=stuck.%20Oh%20no!-,The%20real%20problem?,-I%20started%20googling) Original source; [John Koehrer](https://www.photrio.com/forum/threads/minolta-x-700-mirror-stuck-up-shutter-and-lover-too.157160/#post-2040158). Don't replace the capacitor again if you've already done that step, and don't replace a blue teardrop shaped Tantalum capacitor.
+
+
+#### Loose Winder/Advance not Advancing (wind Idler Gear Tension)
+
+*What:* You try and advance the camera's advance lever, but it won't 'click' and remains loose no matter how far back you advance the lever to (please don't force it though). As a result the shutter won't fire.
+
+*Why:* Loss of gear tension in the Wind Idler/Advance Assembly.
+
+*Remedy:* Mark the positions of the Gears you're about to address FIRST with a marker pen (i.e. put a dot on each gear where the teeth meet), then follow this guide by [FixOldCameras](https://youtu.be/6ZndFfBOvSI). Adjust one tooth at a time, renengage and tighten the gears, and test with a full advance a shutter release at every manual shutter speed. Once the advance lever allows for a full advance, lets the shutter be used, and doesn't hang the shutter curtain at all speeds, it's good to go. It's an easy 'fix' that requires precision so that's why testing is required, as you don't want it to fail again with a roll inside the camera. If you move too many gearteeth along, the shutter will hang. If you move too few gearteeth, the advance won't allow a full rewind and you can't release the shutter. DO NOT FORCE ANYTHING.
+
+*Where:* [FixOldCameras](https://youtu.be/6ZndFfBOvSI)
+
+*Note:* This is more of a 'quick fix' then actually addressing the issue at hand. Gear tension may decrease further over time and then moving more gearteeth across won't solve the problem again (and in fact will cause more issues). General advice is to get a real professional service if the problem re-occurs later on, or if this quick fix doesn't solve the problem. Remember to re-align the gear back to their original position (back to the Dots you marked!) before sending it out for repairs in this case.
+
 
 ***
 
 ## Minolta AutoFocus SLR Common Problems 
-- A-mounts (Not very much - sticky grip fixes/replacements, 7000 aperture magnet failure, a9 ti feature upgrade, a7 aperture gear replacements (already linked).
+
+PLACEHOLDER SECTION
+
+- A-mounts (Not very much - sticky grip fixes/replacements, 7000 aperture magnet failure, a9 ti feature upgrade, a7 aperture gear replacements (already linked elsewhere in Minoltapedia).
 
 ***
 
 ## Minolta Rangefinder Common Problems 
+
+PLACEHOLDER SECTION
+
 - LTM Minolta35's (Shutter Curtain Failure)
 - CL (Meter arm breaking off)
-- CLE (Spool breaking)
+- CLE (Film Takeup Spool breaking)
+
+(No linked or sourced fixes at the moment - seek professional services or avoid listings with these issues)
 
 ***
 
